@@ -19,7 +19,6 @@ repo: "https://github.com/emgsilva/esilva.net"
 
 # urls
 url: http://esilva.net
-baseurl: /esilva.net
 
 # analytics if desired (and use environment variable on build command)
 google_analytics: UA-33525460-1
