@@ -1,2 +1,11 @@
-theme: jekyll-theme-hacker
-#title: esilva.net - random thoughts and explorations
+# Basic properties
+title: esilva.net
+author: Eduardo da Silva
+email: emgsilva[AT]gmail.com
+description: rants and explorations
+twitter_username: emgsilva
+github_username: emgsilva
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-hacker #minima
