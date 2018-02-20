@@ -18,8 +18,8 @@ linkedin_username: emgsilva
 #googleplus_username: +jekyll
 
 # disqus
-# disqus:
-#   shortname: esilva-net
+disqus:
+  shortname: esilva-net
 
 # Mastodon instances
 # mastodon:
