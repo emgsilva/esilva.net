@@ -8,4 +8,4 @@ layout: home
 ---
 # Welcome to my website/blog
 
-Here you find content about different activities I am involved on: from opinions/rants to overview of projects and experiments I am involved. Furthermore, I also publish regularly a diggest of differen things I read/watch/observe.
+Here you find content about different activities I am involved on: from opinions/rants to overview of projects and experiments I perform.
