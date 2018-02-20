@@ -1,35 +1,48 @@
-# based on minima theme https://github.com/jekyll/minima and https://evanwill.github.io/go-go-ghpages/
-
-# Notes:
-# - fig include, {% include figure.html file="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}
-# - pages with "nav: true" in front matter will be in header nav
-# - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
-
-# site settings
 title: esilva.net
-description: website/blog
-
-# author settings for cc-by
 author: Eduardo da Silva
-pub_year: 2007:2018
+email: emgsilva[at]gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Rants, experiments and opinions.
+
+# social links
+twitter_username: emgsilva
 github_username: emgsilva
+rss: rss
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+linkedin_username: emgsilva
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
 
-# add the full url for the github repository
-repo: "https://github.com/emgsilva/esilva.net"
+# disqus
+disqus:
+    shortname: esilva-net
 
-# urls
-url: http://esilva.net
+# Mastodon instances
+# mastodon:
+# - username: jekyll
+#   instance: example.com
+# - username: jekyll2
+#   instance: example.com
 
-# analytics if desired (and use environment variable on build command)
-google_analytics: UA-33525460-1
+show_excerpts: true # set to true to show excerpts on the homepage
 
-# defaults (to simplify front matter)
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.html
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
