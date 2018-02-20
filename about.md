@@ -1,6 +1,8 @@
 ---
-layout: page
 title: About
+nav: true
 ---
 
-This is an about page
+# About
+
+This is the about page...

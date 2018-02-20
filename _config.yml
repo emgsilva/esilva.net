@@ -1,11 +1,35 @@
-# Basic properties
+# based on minima theme https://github.com/jekyll/minima and https://evanwill.github.io/go-go-ghpages/
+
+# Notes:
+# - fig include, {% include figure.html file="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}
+# - pages with "nav: true" in front matter will be in header nav
+# - use environment variable on build command to include analytics: JEKYLL_ENV=production jekyll build
+
+# site settings
 title: esilva.net
+description: website/blog
+
+# author settings for cc-by
 author: Eduardo da Silva
-email: emgsilva[AT]gmail.com
-description: rants and explorations
-twitter_username: emgsilva
+pub_year: 2007:2018
 github_username: emgsilva
+
+# add the full url for the github repository
+repo: "https://github.com/emgsilva/esilva.net"
+
+# urls
+url: http://esilva.net
+baseurl: /esilva.net
+
+# analytics if desired (and use environment variable on build command)
+google_analytics: UA-33525460-1
+
+# defaults (to simplify front matter)
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
 
 # Build settings
 markdown: kramdown
-theme: minima # jekyll-theme-hacker
