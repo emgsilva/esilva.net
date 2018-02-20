@@ -1,8 +1,7 @@
 ---
+layout: page
 title: About
-nav: true
+permalink: /about/
 ---
 
-# About
-
-This is the about page...
+About page...
