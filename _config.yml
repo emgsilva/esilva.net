@@ -19,7 +19,7 @@ linkedin_username: emgsilva
 
 # disqus
 disqus:
-    shortname: esilva-net
+  shortname: esilva-net
 
 # Mastodon instances
 # mastodon:
@@ -43,6 +43,3 @@ minima:
 # Build settings
 markdown: kramdown
 theme: minima
-exclude:
-  - Gemfile
-  - Gemfile.lock
