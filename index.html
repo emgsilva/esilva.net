@@ -11,9 +11,7 @@ layout: default
 
   My name is <a href="/about/">Eduardo da Silva</a> and I am a computer scientist (currently working as Software Engineer/Architect at bol.com in the Netherlands).
   <p/>
-  I am restarting this website (after a few years) to write down interesting things I come across, or work on 
-  my day-to-day activities. My goal is to publish things that are relevant to me, so it becomes a reference 
-  for myself in the future and hopefully it is also interesting and useful to others.
+  In this website you can find interesting things I come across or work on. My goal here is to publish things that are relevant to me, so it becomes a reference of curated content for myself in the future, and hopefully it is also interesting and useful to others.
   <br><br>
   
   <div>
@@ -25,7 +23,7 @@ layout: default
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
+          <a href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
@@ -34,7 +32,7 @@ layout: default
       {% endfor %}
     </ul>
 
-    <h4>Check all posts here: <a href="/blog/">blog</a></h4>
+    <h4>Check all blog posts here: <a href="/blog/">blog</a></h4>
     {% endif %}
   </div>
 </div>

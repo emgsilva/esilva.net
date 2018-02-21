@@ -12,7 +12,7 @@ rss: rss
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-linkedin_username: emgsilva
+#linkedin_username: emgsilva
 #pinterest_username: jekyll
 #youtube_username: jekyll
 #googleplus_username: +jekyll
@@ -21,7 +21,7 @@ linkedin_username: emgsilva
 disqus:
   shortname: esilva-net
 
-google_analytics: UA-33525460-1
+google_analytics: UA-114511801-1
 
 # Mastodon instances
 # mastodon:
