@@ -1,5 +1,7 @@
 --- 
 layout: default 
+title: Blog
+permalink: /blog/
 ---
 
 <div class="home">
@@ -7,16 +9,8 @@ layout: default
   <h1 class="page-heading">{{ page.title }}</h1>
   {% endif %}
 
-  <h1>Welcome to my website/blog</h1>
-
-  You can find different blog posts and interesting material I come across.
-  <p/>
-  <p/>
-  <p/>
-
   <div>
     {% if site.posts.size > 0 %}
-    <h3 class="post-list-heading">{{ page.list_title | default: "Blog posts" }}</h3>
     <ul class="post-list">
       {% for post in site.posts %}
       <li>
@@ -33,5 +27,6 @@ layout: default
     </ul>
 
     {% endif %}
+
   </div>
 </div>
