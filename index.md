@@ -4,3 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+# Welcome to my website/blog
+
+You can find different blog posts and interesting material I come across.
