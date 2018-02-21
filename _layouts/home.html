@@ -1,16 +1,22 @@
----
-layout: default
+--- 
+layout: default 
 ---
 
 <div class="home">
   {% if page.title %}
-    <h1 class="page-heading">{{ page.title }}</h1>
+  <h1 class="page-heading">{{ page.title }}</h1>
   {% endif %}
 
-  {{ content }}
+  <h1>Welcome to my website/blog</h1>
 
-  {% if site.posts.size > 0 %}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+  You can find different blog posts and interesting material I come across.
+  <p/>
+  <p/>
+  <p/>
+
+  <div>
+    {% if site.posts.size > 0 %}
+    <h3 class="post-list-heading">{{ page.list_title | default: "Blog posts" }}</h3>
     <ul class="post-list">
       {% for post in site.posts %}
       <li>
@@ -21,14 +27,11 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-        {% if site.show_excerpts %}
-          {{ post.excerpt }}
-        {% endif %}
+        {% if site.show_excerpts %} {{ post.excerpt }} {% endif %}
       </li>
       {% endfor %}
     </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {% endif %}
-
+    {% endif %}
+  </div>
 </div>
