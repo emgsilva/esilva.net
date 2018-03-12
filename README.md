@@ -1,3 +1,3 @@
 # esilva.net
 
-My website, built using Jekyll and Github pages.
+My website/blog, built using Jekyll and Github pages.
