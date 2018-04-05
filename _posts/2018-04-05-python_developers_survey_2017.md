@@ -3,7 +3,7 @@ layout: post
 title:  "Overview: JetBrain's Python Developers Survey"
 ---
 
-JetBrains makes very interesting surveys, and "Python Developers Survey 2017" (https://www.jetbrains.com/research/python-developers-survey-2017/) keeps with that tradition. It provides a very informative overview on the Python Landscape, namely: who is this community; what development they do with Python and a view on the technologies they use.
+JetBrains makes very interesting surveys, and "Python Developers Survey 2017" ([https://www.jetbrains.com/research/python-developers-survey-2017](https://www.jetbrains.com/research/python-developers-survey-2017)) keeps with that tradition. It provides a very informative overview on the Python Landscape, namely: who is this community; what development they do with Python and a view on the technologies they use.
 
 I found the following facts to be the most interesting:
 
