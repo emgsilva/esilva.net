@@ -8,9 +8,9 @@ permalink: /everyone-architects/stop-smashing-zoom-out-think.html
 ```TL;DR: post about my presentation on bol.com spaces summit 2018. I talked about the need to stop smashing our keyboards and "blindly" focus on "speed", and start thinking about what we are doing, why and how we are doing it. By "zooming out and thinking" we take architecture and design in consideration. This basically means that we "direction" to our "speed", which results into achieving "higher velocity".
 ```
 
-Few months ago we have the second internal <a href="https://careers.bol.com/stories/spaces-summit-2018/" target="_blank">technical conference at bol.com</a>. This is a great moment for everyone sharing interesting things with each other and build a stronger technical community. This year I made a presentation on the importance of "design and architecture" when building software products - you can watch it bellow. In the following I provide an overview and some extra details on the main points of the presentation.
+Few months ago we have the second internal <a href="https://careers.bol.com/stories/spaces-summit-2018/" target="_blank">technical conference at bol.com</a>. This is a great moment for sharing interesting things with each other and build a stronger technical community within the company. This year I made a presentation that focused on the importance of "design and architecture" when building software products - you can watch it bellow. In the following I provide an overview and some extra details on the main points of the presentation.
 
-<iframe width="700" height="415" src="https://www.youtube.com/embed/FCqn9iHU9xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center"><iframe align="middle" width="700" height="415" src="https://www.youtube.com/embed/FCqn9iHU9xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
 
 # Going Fast!
 
@@ -34,12 +34,12 @@ What does that mean? It means that when we are implementing our products we must
 
 When starting a new project, don't immediately jump into your keyboard and start implementing (following your gut). Take a moment and together with you team ask a few questions:
 
-* What are we doing?
+* __What are we doing?__
   * Understand what is your goal; what you want to build; what users you will have; what ...
 
-* Why are we doing it?
+* __Why are we doing it?__
   * Understand the motivation, and even be critical and consider whether it is worth doing it (an underused question).
-* How are we going to do it?
+* __How are we going to do it?__
   * Understand and define a common perspective and direction for your efforts.
   * Build a plan for your developments.
     * Important: don't build a "step by step plan" until the end (big up-front design). We as industry have learned over the last decades that it is a complete waste to do that: you will face many "design decisions" along the way that you cannot fully anticipate at the beginning of the project. We must accept that and be more reactive and iterative on our design (<a href="https://www.thoughtworks.com/books/building-evolutionary-architectures" target="_blank">evolutionary architecture</a>). However, "have a plan" to follow-up after at each "design decision" you face, and use that to refine the direction where you will apply your speed.
@@ -48,7 +48,7 @@ When starting a new project, don't immediately jump into your keyboard and start
 
 As engineers & architects of our products, we can define a basic framework to address this "incremental architecture design" approach, namely:
 
-* 1) always start the project with design considerations on the "important decisions" that need to be addressed (and cannot be delayed)
+* __1) always start the project with design considerations on the "important decisions" that need to be addressed (and cannot be delayed)__
   * "important decisions" == architecture:
     * "important decisions" is my favorite definition of architecture
     * important decisions are normally things that are difficult to change on a later stage. Given this, whenever we face a design decision, we should properly consider it. 
@@ -60,12 +60,12 @@ As engineers & architects of our products, we can define a basic framework to ad
   * approach:
     * ask the "what", "why" and "how" of the project
     * use all the insights you get to define your plan of action
-* 2) if you face an "important decision"
+* __2) if you face an "important decision"__
   * "zoom out, and think", namely:
     * ask the "what", "why" and "how" of the problem you are facing
     * define a strategy to address that (with the end-goal of the project in mind)
       * in a nutshell: define "in which direction you will apply your speed"
-* repeat 2) until you reached the "end goal" of your project (which again may vary as the project progresses - i.e.: being capable to redefining your direction along the way becomes a major factor to cope with such variations on the end goal of the project).
+* __repeat 2) until you reached the "end goal" of your project (which again may vary as the project progresses - i.e.: being capable to redefining your direction along the way becomes a major factor to cope with such variations on the end goal of the project).__
 
 ![StackOverflow](/assets/incremental-architecture.png)
 
