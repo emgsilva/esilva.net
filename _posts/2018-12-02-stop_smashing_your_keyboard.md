@@ -5,7 +5,7 @@ permalink: /everyone-architects/stop-smashing-zoom-out-think.html
 ---
 <!-- part of the Everyone Architect essays series -->
 
-```TL;DR: post about my presentation on bol.com spaces summit 2018. I talked about the need to stop smashing our keyboards and "blindly" focus on "speed", and start thinking about what we are doing, why and how we are doing it. By "zooming out and thinking" we take architecture and design in consideration. This basically means that we "direction" to our "speed", which results into achieving "higher velocity".
+```TL;DR: post about my presentation at spaces summit 2018 (bol.com internal technical conference). I talked about the need to stop smashing our keyboards and "blindly" focus on "speed", and start thinking about what we are doing, why and how we are doing it. By "zooming out and thinking" we take architecture and design in consideration. This basically means that we give "direction" to our "speed", which results into achieving "higher velocity". This the first article I am writing on a topic I call "Everyone Architects". #EveryoneArchitects #Architecture #Agility
 ```
 
 Few months ago we have the second internal <a href="https://careers.bol.com/stories/spaces-summit-2018/" target="_blank">technical conference at bol.com</a>. This is a great moment for sharing interesting things with each other and build a stronger technical community within the company. This year I made a presentation that focused on the importance of "design and architecture" when building software products - you can watch it bellow. In the following I provide an overview and some extra details on the main points of the presentation.
