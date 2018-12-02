@@ -10,7 +10,7 @@ permalink: /everyone-architects/stop-smashing-zoom-out-think.html
 
 Few months ago we have the second internal <a href="https://careers.bol.com/stories/spaces-summit-2018/" target="_blank">technical conference at bol.com</a>. This is a great moment for sharing interesting things with each other and build a stronger technical community within the company. This year I made a presentation that focused on the importance of "design and architecture" when building software products - you can watch it bellow. In the following I provide an overview and some extra details on the main points of the presentation.
 
-<div align="center"><iframe align="middle" width="700" height="415" src="https://www.youtube.com/embed/FCqn9iHU9xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
+<div align="center"><iframe align="middle" width="500" height="315" src="https://www.youtube.com/embed/FCqn9iHU9xo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
 
 # Going Fast!
 
