@@ -52,11 +52,9 @@ __Important__: don't build a start-to-finish "step by step plan" (A.K.A.: "big u
 
 As engineers & architects of our products, we can define a basic framework to address this "incremental architecture design" approach, namely:
 
-```{java}
-  1) always start the project with design considerations on the “important decisions” that need to be addressed (and cannot be delayed). Simply ask the the “why”, “what” and “how” of the project. Use that input to define your direction.
-  2) if you face an “important decision”: “zoom-out and think” (ask the “why”, “what” and “how” of the design decision).
-  3) repeat 2) until you reached the “end goal” of your project (which again may vary as the project progresses - i.e.: being capable to redefining your direction along the way becomes a major factor to cope with such variations on the end goal of the project).
-```
+* ```1) always start the project with design considerations on the “important decisions” that need to be addressed (and cannot be delayed). Simply ask the the “why”, “what” and “how” of the project. Use that input to define your direction.__```
+* ```2) if you face an “important decision”: “zoom-out and think” (ask the “why”, “what” and “how” of the design decision).```
+* ```3) repeat 2) until you reached the “end goal” of your project (which again may vary as the project progresses - i.e.: being capable to redefining your direction along the way becomes a major factor to cope with such variations on the end goal of the project).```
 
 The approach is very simple. Don’t start a project blindly, look into the “important decisions” that need to be made. “Important decisions” is my favorite definition of architecture. It represents the things that are difficult to change on a later stage.
 
