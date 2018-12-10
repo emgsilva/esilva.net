@@ -52,9 +52,11 @@ __Important__: don't build a start-to-finish "step by step plan" (A.K.A.: "big u
 
 As engineers & architects of our products, we can define a basic framework to address this "incremental architecture design" approach, namely:
 
-* __1) always start the project with design considerations on the “important decisions” that need to be addressed (and cannot be delayed). Simply ask the the “why”, “what” and “how” of the project. Use that input to define your direction.__
-* __2) if you face an “important decision”: “zoom-out and think” (ask the “why”, “what” and “how” of the design decision).__
-* __3) repeat 2) until you reached the “end goal” of your project (which again may vary as the project progresses - i.e.: being capable to redefining your direction along the way becomes a major factor to cope with such variations on the end goal of the project).__
+```{java}
+  1) always start the project with design considerations on the “important decisions” that need to be addressed (and cannot be delayed). Simply ask the the “why”, “what” and “how” of the project. Use that input to define your direction.
+  2) if you face an “important decision”: “zoom-out and think” (ask the “why”, “what” and “how” of the design decision).
+  3) repeat 2) until you reached the “end goal” of your project (which again may vary as the project progresses - i.e.: being capable to redefining your direction along the way becomes a major factor to cope with such variations on the end goal of the project).
+```
 
 The approach is very simple. Don’t start a project blindly, look into the “important decisions” that need to be made. “Important decisions” is my favorite definition of architecture. It represents the things that are difficult to change on a later stage.
 
@@ -63,7 +65,6 @@ Given this, whenever we face a design decision, we should properly consider it. 
 However, don’t try to foresee all the possible design decisions at the beginning of the project (a.k.a.: “big upfront design”, I also like to call it “fallacy of complete design”). If something is not clearly important to be addressed at the beginning of the project (or whatever stage of the project you are), it should not be addressed. This is normally a clear sign that it does not yet need to be addressed.
 
 Use the “latest moment possible to take a decision”. Why? Because (most probably) a decision is not required before; and when you actually need to take the decision, you have already progressed on your project and have more knowledge and experience to take a “better decision” than when you try to foresee all the decisions at the beginning of the project.
-
 
 ![StackOverflow](/assets/incremental-architecture.png)
 
@@ -86,6 +87,6 @@ Visualization of problems and solutions is nothing more than "going offline" to 
 
 <a href="http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions" target="_blank">Architecture decisions Records</a> (by Michael Nygard) are a very interesting framework to systematically document the "important decisions" that you face on your project. It provides a set of questions that cover the "what", "why" and "how" of a design decision. Each record entered on the ADR is immutable, i.e.: it stores how we dealt with a given design decision. If later we need to do something that changes such a decision, that is per se another ADR (which basically reverts a previous decision). This is a great way to have a systematic set of questions to address when faced with a design decision. Furthermore, it also enables us to keep track of the main design decisions taken on a project. Another interesting trait of this approach is that you can keep it on your project code base, and in this way maintain your documentation and code close to each other.
 
-# Best Architecture emerge from self-organized teams and in a truly Agile Organization "Everyone Architects"
+# Best Architecture emerges from self-organized teams and in a truly Agile Organization "Everyone Architects"
 
 I hope this post inspires you to start doing some more serious thinking on the design and architecture of your projects. Although lately "blind agile" (or "anti-architecture" agile) has been dominating on our scene, the agile manifesto does not state that "teams should forget about design and architecture and just go fast". In fact, it states a very interesting remark: the "best architectures and designs emerge from self organized teams". This is a very interesting topic, namely: Architecture on today's agile and modern software building organizations is not done by "Ivory tower Architects", but by everyone building the products (the teams). I call this "<a href="https://esilva.net/everyone-architects" target="_blank">Everyone Architects</a>" and it basically emphasizes the need to have teams doing design and architecture as they are the ones building the products and being faced with the "important decisions".
