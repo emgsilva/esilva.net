@@ -32,40 +32,38 @@ What does that mean? It means that when we are implementing our products we must
 
 # Stop smashing your keyboard! Zoom out and think!
 
-When starting a new project, don't immediately jump into your keyboard and start implementing (following your gut). Take a moment and together with your team ask a few questions:
+When starting a new project, don't immediately jump into your keyboard and start implementing (following your gut). Take a moment and together with your team ask a few questions: What are we doing? Why are we doing it? How are we going to do it? Let’s dive into these questions separately.
 
-* __What are we doing?__
-  * Understand what is your goal; what you want to build; what users you will have; what ...
+**What are we doing?**
 
-* __Why are we doing it?__
-  * Understand the motivation, and even be critical and consider whether it is worth doing it (an underused question).
-* __How are we going to do it?__
-  * Understand and define a common perspective and direction for your efforts.
-  * Build a plan for your developments.
-    * Important: don't build a start-to-finish "step by step plan" (A.K.A.: "big up-front design"). We, as industry, have learned over the last decades that it is a complete waste to do that: you will face many "design decisions" along the way that you cannot fully anticipate at the beginning of the project. We must accept that and be more reactive and iterative on our design (<a href="https://www.thoughtworks.com/books/building-evolutionary-architectures" target="_blank">evolutionary architecture</a>). However, "have a plan" to follow after at each "design decision" you face, and use that to refine the direction where you will apply your speed.
+We must understand what is your goal; what you want to build; what users you will have; what ...
+
+**Why are we doing it?**
+
+We must understand the motivation, and even be critical and consider whether it is worth doing it (an underused question).
+
+**How are we going to do it?**
+
+We must understand and define a common perspective and direction for your efforts. Build a plan for your developments.
+
+__Important__: don't build a start-to-finish "step by step plan" (A.K.A.: "big up-front design"). We, as industry, have learned over the last decades that it is a complete waste to do that: you will face many "design decisions" along the way that you cannot fully anticipate at the beginning of the project. We must accept that and be more reactive and iterative on our design (<a href="https://www.thoughtworks.com/books/building-evolutionary-architectures" target="_blank">evolutionary architecture</a>). However, "have a plan" to follow after at each "design decision" you face, and use that to refine the direction where you will apply your speed.
 
 # Framework for Incremental Architecture Design
 
 As engineers & architects of our products, we can define a basic framework to address this "incremental architecture design" approach, namely:
 
-* __1) always start the project with design considerations on the "important decisions" that need to be addressed (and cannot be delayed)__
-  * "important decisions" == architecture:
-    * "important decisions" is my favorite definition of architecture
-    * important decisions are normally things that are difficult to change on a later stage. Given this, whenever we face a design decision, we should properly consider it. 
-      * example: choosing project programming languages; buy or build; cloud or on-premises; architecture model (MVC, REST API + client side JS, etc.)
-    * however, don't try to foresee all the possible design decisions at the beginning of the project (a.k.a.: "big upfront design", I also like to call it "fallacy of complete design")
-      * if something is not clearly important to be addressed at the beginning of the project (or whatever stage of the project you are), it should not be addressed. This is normally a clear sign that it does not yet need to be addressed.
-      * "use the latest moment possible to take a decision"
-        * why? because (most probably) a decision is not required before; and when you actually need to take the decision, you have already progressed on your project and have more knowledge and experience to take a "better decision" than when you try to foresee all the decisions at the beginning of the project.
-  * approach:
-    * ask the "what", "why" and "how" of the project
-    * use all the insights you get to define your plan of action
-* __2) if you face an "important decision"__
-  * "zoom out, and think", namely:
-    * ask the "what", "why" and "how" of the problem you are facing
-    * define a strategy to address that (with the end-goal of the project in mind)
-      * in a nutshell: define "in which direction you will apply your speed"
-* __repeat 2) until you reached the "end goal" of your project (which again may vary as the project progresses - i.e.: being capable to redefining your direction along the way becomes a major factor to cope with such variations on the end goal of the project).__
+* __1) always start the project with design considerations on the “important decisions” that need to be addressed (and cannot be delayed). Simply ask the the “why”, “what” and “how” of the project. Use that input to define your direction.__
+* __2) if you face an “important decision”: “zoom-out and think” (ask the “why”, “what” and “how” of the design decision).__
+* __3) repeat 2) until you reached the “end goal” of your project (which again may vary as the project progresses - i.e.: being capable to redefining your direction along the way becomes a major factor to cope with such variations on the end goal of the project).__
+
+The approach is very simple. Don’t start a project blindly, look into the “important decisions” that need to be made. “Important decisions” is my favorite definition of architecture. It represents the things that are difficult to change on a later stage.
+
+Given this, whenever we face a design decision, we should properly consider it. For example: choosing project programming languages; buy or build; cloud or on-premises; architecture model (MVC, REST API + client side JS, etc.).
+
+However, don’t try to foresee all the possible design decisions at the beginning of the project (a.k.a.: “big upfront design”, I also like to call it “fallacy of complete design”). If something is not clearly important to be addressed at the beginning of the project (or whatever stage of the project you are), it should not be addressed. This is normally a clear sign that it does not yet need to be addressed.
+
+Use the “latest moment possible to take a decision”. Why? Because (most probably) a decision is not required before; and when you actually need to take the decision, you have already progressed on your project and have more knowledge and experience to take a “better decision” than when you try to foresee all the decisions at the beginning of the project.
+
 
 ![StackOverflow](/assets/incremental-architecture.png)
 
