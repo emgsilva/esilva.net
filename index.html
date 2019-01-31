@@ -7,18 +7,21 @@ layout: default
   <h1>{{ page.title }}</h1>
   {% endif %}
 
-  <img src="assets/EduardoDaSilva.jpg" width="150px" align="left" hspace="10px">
+  <div>
+  <img src="assets/EduardoDaSilva.jpg" width="180px" align="left" hspace="10px">
 
-  My name is <a href="/about/">Eduardo da Silva</a> and I am a software engineer / architect / tech-lead working and living in the Netherlands.
-  <p/>  
-  In this website you can find interesting things I come across or work on. My goal is to share things I find interesting, and hopefully it is also relevant and useful to others.
-  <br><br><br>
-  
+  <p>My name is <a href="/about/">Eduardo da Silva</a> and I am a software engineer / architect / tech-lead working and living in the Netherlands.</p>  
+  <p>My passions are Tech Leadership and Software Architecture and how to combine those to improve how we design, engineer and build software products. This entails technical and teams developments and how to scale them. So in this website you will mostly find <a href="/blog/">articles</a> and <a href="/projects/">projects</a> on those topics. </p>
+  </div>
+
+  <br>  
+  <hr>
+
   <div>
     {% if site.posts.size > 0 %}
     <h2>{{ page.list_title | default: "Recent posts" }}</h3>
     <ul class="post-list">
-      {% for post in site.posts limit:3 %}
+      {% for post in site.posts limit:4 %}
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -36,11 +39,11 @@ layout: default
     {% endif %}
   </div>
 
-  <div align="center">
+  {% comment %} <div align="center">
     <font color="grey" size=2em>
       <br>
       /* developed with <a href="http://jekyllrb.com"><img src="assets/jekyll.png" width="50px"></a> hosted on <a href="http://github.com/emgsilva/esilva.net"><img src="assets/github.png" width="50px"></a> */
     </font>
-  </div>
+  </div> {% endcomment %}
 
 </div>
