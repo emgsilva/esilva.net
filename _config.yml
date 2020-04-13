@@ -42,6 +42,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 header_pages:
   - about.html
   - blog.html 
+  - notebooks.html
   - projects.html
 
 # Build settings
