@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A quick look on StackOverflow Developer Survey 2018"
+categories: [development]
 ---
 
 ![StackOverflow](/assets/so-logo.svg)

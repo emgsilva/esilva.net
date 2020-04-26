@@ -2,6 +2,7 @@
 layout: post
 title:  "Stop Smashing your Keyboard! Zoom out! Think!"
 permalink: /everyone-architects/stop-smashing-zoom-out-think.html
+categories: [everyone-architects, architecture]
 ---
 <!-- part of the Everyone Architect essays series -->
 
