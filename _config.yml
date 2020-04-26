@@ -26,6 +26,7 @@ header_pages:
   - articles.html 
   - notebooks.html
   - projects.html
+  - talks.html
 
 # Build settings
 markdown: kramdown
