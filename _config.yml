@@ -8,40 +8,22 @@ description: > # this means to ignore newlines until "baseurl:"
 twitter_username: emgsilva
 github_username: emgsilva
 rss: rss
-#dribbble_username: jekyll
-#facebook_username: jekyll
-#flickr_username: jekyll
-#instagram_username: jekyll
 linkedin_username: emgsilva
-#pinterest_username: jekyll
-#youtube_username: jekyll
-#googleplus_username: +jekyll
 
-# disqus
+# disqus configs
 disqus:
   shortname: esilva-net
 
+# google analytics configs
 google_analytics: UA-114511801-1
 
-# Mastodon instances
-# mastodon:
-# - username: jekyll
-#   instance: example.com
-# - username: jekyll2
-#   instance: example.com
+# set to true to show excerpts on the homepage
+show_excerpts: false
 
-show_excerpts: false # set to true to show excerpts on the homepage
-
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-# minima:
-#   date_format: "%b %-d, %Y"
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
+# pages to show on header
 header_pages:
   - about.html
-  - blog.html 
+  - articles.html 
   - notebooks.html
   - projects.html
 
@@ -52,4 +34,8 @@ theme: minima
 #   - Gemfile
 #   - Gemfile.lock
 
+# shows posts schedule for future release
 future: true
+
+# default articles prefix
+permalink: /articles/:title
