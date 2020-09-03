@@ -24,7 +24,7 @@ show_excerpts: false
 header_pages:
   - about.html
   - articles.html 
-  - notebooks.html
+  - tla_insights.html
   - projects.html
   - talks.html
 

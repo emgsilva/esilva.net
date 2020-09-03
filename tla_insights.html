@@ -1,0 +1,37 @@
+---
+layout: default
+title: TLA_insights
+permalink: /tla_insights/
+---
+
+<div class="home">
+  {% if page.title %}
+  <h1>{{ page.title }}</h1>
+  {% endif %}
+
+  <img src="/assets/tla_insights.png" height="150px" align="left" hspace="10px">
+
+  <p>TLA_insights is my record of curated insights on resources I find interesting and relevant on the topics of
+    "Technical Leadership and Architecture" (TLA for short). I publish new "records" regularly (at least once a month).
+    You can see this as a sort of newsletter, but it really is about sharing curated insights (i.e.: "Insights-letter").</p>
+
+
+  <br>
+  <ul>
+    <li><b><a href="record-1">TLA_insights record 1</a></b> [2020/09/01] First record of TLA_insights. Several
+      interesting insights on resources from: Patrick Kua (challenges to becoming a "Multiplier" / Leader), Nick Tune
+      (on visualizing Sociotechnical Architecture with DDD and Team Topologies), Stefan Tilkov (excellent discussion on
+      why API-first may be a dangerous anti-pattern; and a second one on "good enough architecture") and August Bradley
+      amazing PPV personal productivity method (among a few others).</li>
+  </ul>
+
+  <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
+    method="post" target="popupwindow"
+    onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+    <p><label for="tlemail">Enter your email to be notified of future TLA_insights records</label></p>
+    <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
+      name="embed" /><input type="submit" value="Subscribe" />
+  </form>
+
+
+</div>
