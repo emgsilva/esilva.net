@@ -8,7 +8,7 @@ layout: default
   {% endif %}
 
   <div>
-  <img src="assets/EduardoDaSilva.jpg" width="180px" align="left" hspace="10px">
+    <img src="assets/EduardoDaSilva.jpg" width="180px" align="left" hspace="10px">
 
     <p>My name is <a href="/about/">Eduardo da Silva</a> and I am Technical Leader & (Sociotechnical) Software Architect
       working and living in the Netherlands.<br>
@@ -19,29 +19,42 @@ layout: default
         href="/talks/">talks</a> related with these topics. </p>
   </div>
 
+  <img src="assets/news.png" width="50px" align="left" hspace="10px">
+  <h2>{{ page.list_title | default: "News" }}</h2>
   <br>
-  <hr>
+  <div>
+    <ul>
+      <li> I started writing a monthly "insights-letter" called "TLA_insights", where I share curated insights from
+        interesting resources in the topics of Technical Leadership and Architecture. You can find it here: <a
+          href=tla_insights>TLA_insights</a>
+      </li>
+    </ul>
+  </div>
+
+  <br>
 
   <div>
     {% if site.posts.size > 0 %}
-    <h2>{{ page.list_title | default: "Recent articles" }}</h3>
-      <ul class="post-list">
-        {% for post in site.posts limit:4 %}
-        <li>
-          {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-          <h3>
-            <a href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}
-            </a>
-          </h3>
-          {% if site.show_excerpts %} {{ post.excerpt }} {% endif %}
-        </li>
-        {% endfor %}
-      </ul>
+    <img src="assets/articles.png" width="50px" align="left" hspace="10px">
+    <h2>{{ page.list_title | default: "Recent articles" }}</h2>
+    <br>
+    <ul class="post-list">
+      {% for post in site.posts limit:4 %}
+      <li>
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {% if site.show_excerpts %} {{ post.excerpt }} {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
 
-      <h4>>> check all articles here: <a href="/articles/">Articles</a></h4>
-      {% endif %}
+    <h4>>> check all articles here: <a href="/articles/">Articles</a></h4>
+    {% endif %}
   </div>
 
   {% comment %} <div align="center">
