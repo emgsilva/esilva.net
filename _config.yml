@@ -43,3 +43,6 @@ permalink: /articles/:title
 
 plugins:
   - jekyll-feed
+
+feed:
+  path: feed.xml
