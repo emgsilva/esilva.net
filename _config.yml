@@ -40,3 +40,6 @@ future: true
 
 # default articles prefix
 permalink: /articles/:title
+
+plugins:
+  - jekyll-feed
