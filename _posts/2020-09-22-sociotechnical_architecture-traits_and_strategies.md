@@ -53,7 +53,7 @@ To address this unavoidable fact (that is Conway's law), we can apply the follow
 
 <center><img src="/assets/inverse-conways-maneuvre.png" alt="Inverse Conways Maneuvre" width="350"/></center>
 
-**Real-life Cases** *(Work-in-Progress, more stories to follow)*
+**Real-World Examples** *(Work-in-Progress, more stories to follow)*
 
 <details><summary>Data Science: from Projects, to Complicated Sub-system Teams to a Discipline in Product Teams (click to expand)</summary>
 <p>
@@ -103,7 +103,7 @@ This design approach, where the team is an integral part of the solution design 
 
 Important note: cognitive load discussion happens at Team-level, not individuals within the team. This is essential and it is important to step away from designing around individuals within the team. We want to have a team setup for success that does not depend/rely on a single person within the team, since that leads to a lot of issues (check [<a href="#team-topologies">Team-Topologies</a>] for examples on this).
 
-**Real-life Cases** *(Work-in-Progress, more stories to follow)*
+**Real-World Examples** *(Work-in-Progress, more stories to follow)*
 
 <details><summary>Teams Extraneous Cognitive Load as a driver for Platform Teams developments (click to expand)</summary>
 <p>
@@ -177,7 +177,7 @@ Given this, I see DDD + Team Topologies as an excellent combo strategy to:
 
 (In a later article I will share more insights as of "how to do this" - spoiler alert: the [DDD-crew](https://github.com/ddd-crew) is building excellent elements to help with that)
 
-**Real-life Cases** *(Work-in-Progress, more stories to follow)*
+**Real-World Examples** *(Work-in-Progress, more stories to follow)*
 
 <details><summary>Scaling ownership of customer experience and interfaces on large complex products (click to expand)</summary>
 <p>
@@ -227,7 +227,7 @@ One way to make this explicit is to follow an approach such as "Dual-Track Agile
 
 > Note: empowering team to do bottom-up / emergent product discovery does not mean "no top-down" design. These two must coexist in order to identify the best strategies for product development. For example, top-down brings the alignment between multiple products (or value streams), so that we can maximize the overall value exchange with the customer. This is where having Product Management skill within the team helps a lot in managing these different elements.
 
-**Real-life Cases** *(Work-in-Progress, more stories to follow)*
+**Real-World Examples** *(Work-in-Progress, more stories to follow)*
 
 <details><summary>... (to expand)</summary>
 <p>
@@ -261,7 +261,7 @@ Organizations and their architectures are so dynamic (customer and market change
 
 Embracing "change" helps us to cater for continuous improvements. I call this "Continuous Change / Continuous Improvement" (CC/CI) model and it is based on the idea of "Target Operating Model" [<a href="#tom-kua">Target-Operating-Model</a>], where it is envisioned that the organization operating model is continuously changing by creating "upgrades" function of "smells"/issues observed in the organization. This is a rather interesting approach and it has a lot of similarities how we evolved our software development practices: doing more iteratively development and release and stop doing multi-year big iterations. Such big changes are just too difficult, complex and costly (not to mention that we continue operating on a poor model for long time, which produces all sorts of waste).
 
-**Real-life Cases** *(Work-in-Progress, more stories to follow)*
+**Real-World Examples** *(Work-in-Progress, more stories to follow)*
 
 <details><summary>Copying Spotify 2015 Snapshot (to expand)</summary>
 <p>
