@@ -164,7 +164,7 @@ DDD does not (directly) address the team and org design. This is where combining
   - **Facilitating**: one team helps and mentors another team.
   - **X-as-a-Service**: one team provides another with something "as a service" (e.g.: an API with a clear contract that the other team can consume without the need of continuous collaboration).
 
-*(Image Credits: Team Topologies, Matthew Skelton and Manuel Pais. More insights on the key concepts of Team Topologies here [<a href="#team-topologies-key-concepts">Team-Topologies-Key-Concepts</a>])*
+<sub>*(Image Credits: Team Topologies, Matthew Skelton and Manuel Pais. More insights on the key concepts of Team Topologies here [<a href="#team-topologies-key-concepts">Team-Topologies-Key-Concepts</a>])*</sub>
 
 With these core elements we can pretty much design and setup any type of organization. The main goal is to have efficient "Stream-Aligned Teams" (SATs), who can effectively and quickly deliver value to customers. This is achieved by maximizing the cognitive load available on Stream-Aligned Teams. All the other types of teams should have a mission of making sure Stream-Aligned Teams can spend most of their cognitive load to resolve business problems (i.e.: create value).
 
@@ -213,7 +213,7 @@ By having an holistic approach to design the software and people systems ("socio
 
 <center><img src="/assets/pm-research-alpha-2020.png" alt="Types of Cognitive Load" width="350"/></center>
 
-*(Image Credits: Alpha)*
+<sub>*(Image Credits: [Alpha](https://alphahq.com/))*</sub>
 
 Given this, even if we fully address the elements discussed in Trait 3 and set up teams with clear boundaries and interrelations, we need to also consider that to optimal ownership the team needs to be enabled to drive the developments in the product (as a function of the customer needs). This is a rather important Sociotechnical element to get clear: enable teams to do discovery & delivery of their products continuously.
 
