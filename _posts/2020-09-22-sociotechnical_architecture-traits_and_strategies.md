@@ -8,6 +8,18 @@ permalink: /sociotechnical/sociotechnical-architecture_traits-and-strategies.htm
 
 > If you did not read the first article of the series (where I provide a motivation - "Why" - and an overview of what is Sociotechnical Architecture) you can check it [here](https://esilva.net/sociotechnical/sociotechnical-architecture_why-and-what.html). Overview of the whole series can be found [here](https://esilva.net/sociotechnical/intro-sociotechnical-arch).
 
+**Index:**
+
+- [Introduction](#introduction)
+- [Trait 1: Conway's Law](#conways-law)
+- [Trait 2: Team Cognitive Load](#team-cognitive-load)
+- [Trait 3: Team Boundaries & Interrelations](#team-boundaries-interrelations)
+- [Trait 4: Continuous Discovery & Delivery in Team](#continuous-discovery-delivery)
+- [Trait 5: Understand your context & Design based on that](#understand-context)
+- [References](#references)
+- [Changelog](#changelog)
+
+<a name="introduction"></a>
 ### Introduction
 
 The following diagram sketches a simplified view of the different systems at play when building software products, which basically defines the important dimensions of sociotechnical architecture. I explain these in more depth on the [first article of the series](https://esilva.net/sociotechnical/sociotechnical-architecture_why-and-what.html).
@@ -18,7 +30,8 @@ In this article I will revisit several of the traits of sociotechnical architect
 
 > **Important:** there may be other elements and traits that influence the sociotechnical architecture. Nevertheless, the ones presented on this article should provide a good starting point to address sociotechnical architecture.
 
-### Trait 1: Conway's Law
+<a name="conways-law"></a>
+### Trait 1: Conway's Law <a href="#conways-law">⇦</a>
 
 *(Trait 1 in cooking: your staff defines your cooking and experiences)*
 
@@ -51,7 +64,8 @@ To address this unavoidable fact (that is Conway's law), we can apply the follow
 </details>
 <br>
 
-### Trait 2: Team Cognitive Load
+<a name="team-cognitive-load"></a>
+### Trait 2: Team Cognitive Load <a href="#team-cognitive-load">⇦</a>
 
 *(Trait 2: Chefs cannot cook, serve and do the dishes at the same time)*
 
@@ -108,7 +122,8 @@ Important note: cognitive load discussion happens at Team-level, not individuals
 </details>
 <br>
 
-### Trait 3: Team Boundaries & Interrelations
+<a name="team-boundaries-interrelations"></a>
+### Trait 3: Team Boundaries & Interrelations <a href="#team-boundaries-interrelations">⇦</a>
 
 *(Trait 3: Restaurant value/experience is the sum of several streams of activities...)*
 
@@ -189,7 +204,8 @@ Given this, I see DDD + Team Topologies as an excellent combo strategy to:
 </details>
 <br>
 
-### Trait 4: Continuous Discovery & Delivery in Team
+<a name="continuous-discovery-delivery"></a>
+### Trait 4: Continuous Discovery & Delivery in Team <a href="#continuous-discovery-delivery">⇦</a>
 
 *(Trait 4: don't hand recipes to your chefs, empower them to discover new recipes!)*
 
@@ -222,7 +238,8 @@ One way to make this explicit is to follow an approach such as "Dual-Track Agile
 </details>
 <br>
 
-### Trait 5: Understand your context & Design based on that
+<a name="understand-context"></a>
+### Trait 5: Understand your context & Design based on that <a href="#understand-context">⇦</a>
 
 *(Trait 5: because #1 restaurant does something it does not mean it will work for you and your crew)*
 
@@ -255,6 +272,7 @@ Embracing "change" helps us to cater for continuous improvements. I call this "C
 </details>
 <br>
 
+<a name="references"></a>
 ## References
 
 - [Conways-Law] [http://www.melconway.com/Home/Conways_Law.html](http://www.melconway.com/Home/Conways_Law.html), Melvin Conway <a name="conways-law"></a>
@@ -272,6 +290,7 @@ Embracing "change" helps us to cater for continuous improvements. I call this "C
 - [First-Principles] [https://jamesclear.com/first-principles](https://jamesclear.com/first-principles), James Clear <a name="first-principles"></a>
 - [Target-Operating-Model] [https://www.thekua.com/atwork/2019/06/introducing-the-target-operating-model/](https://www.thekua.com/atwork/2019/06/introducing-the-target-operating-model/), Patrick Kua <a name="tom-kua"></a>
 
+<a name="changelog"></a>
 ## Changelog
 
 - 22/09/2020: "Beta/RFC", first public version of the article published (open "Request For Comments" - RFC)
