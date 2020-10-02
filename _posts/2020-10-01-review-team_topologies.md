@@ -30,11 +30,11 @@ The main elements presented in the book are:
 
 - Team Topologies
   - **Stream Aligned Teams (SATs)**: the teams building a part of the product that supports a certain value stream to the customer. These are the teams that build the product value for customers.
-  - **Enabling Teams**: facilitate SATs on overcoming obstacles and in that way enable them to do better.
+  - **Enabling Teams**: facilitate SATs on overcoming obstacles and in that way enable them to do better. Also detects missing capabilities.
   - **Complicated Subsystem Teams**: are teams that own complex parts of the landscape, which by being abstracted into such sub-systems that serve SATs enable their applications to be simpler and as such reduce their cognitive load (and in general increase their velocity).
   - **Platform Teams**: focus on building "internal products" that accelerate and simplify how SATs build their own applications (and products). This is done by taking away complexity of SATs, which enables them to have more cognitive load available to work on the business problems.
 
-<div align="center"><img src="/assets/team-topologies.png" alt="Team Topologies" width="650"/></div><br>
+<div align="center"><img src="/assets/team-topologies-team-types.png" alt="Team Topologies" width="650"/></div><br>
 
 - Team Interaction Modes
   - **Collaboration**: interaction mode where two (or more) teams collaborate for a defined period of time to learn and discover how to proceed on their developments (e.g.: identify boundaries of a legacy system and with that each team can own a clear boundary).

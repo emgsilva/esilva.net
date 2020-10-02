@@ -149,7 +149,7 @@ DDD does not (directly) address the team and org design. This is where combining
 
 - 4 fundamental Team Topologies to design an organization:
 
-  <center><img src="/assets/team-topologies.png" alt="Types of Cognitive Load" width="550"/></center>
+  <center><img src="/assets/team-topologies-team-types.png" alt="Types of Cognitive Load" width="650"/></center>
 
   - **Stream Aligned Teams (SATs)**: the teams building a part of the product that supports a certain value stream to the customer. These are the teams that build the product value for customers.
   - **Enabling Teams**: facilitate SATs on overcoming obstacles and in that way enable them to do better. Example, Architecture teams  may (should) be an enabling team, facilitating SATs on having a clearer "direction" for their developments, especially if product consists of many SATs (architecture helps addressing cross-cutting aspects that in general are not in general owned by any specific SAT).
@@ -158,7 +158,7 @@ DDD does not (directly) address the team and org design. This is where combining
 
 - 3 core interaction mode for teams:
 
-  <center><img src="/assets/team-topologies-interaction-modes.png" alt="Types of Cognitive Load" width="550"/></center>
+  <center><img src="/assets/team-topologies-interaction-modes.png" alt="Types of Cognitive Load" width="650"/></center>
 
   - **Collaboration**: interaction mode where two (or more) teams collaborate with each other for a defined period of time to learn and discover how to proceed on their developments (e.g.: identify boundaries of a legacy system and with that each team can own a clear boundary).
   - **Facilitating**: one team helps and mentors another team.
