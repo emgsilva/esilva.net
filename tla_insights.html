@@ -2,6 +2,7 @@
 layout: default
 title: TLA_insights
 permalink: /tla_insights/
+categories: [tla_insights]
 ---
 
 <div class="home">
@@ -12,17 +13,99 @@ permalink: /tla_insights/
   <img src="/assets/tla_insights.png" height="150px" align="left" hspace="10px">
 
   <p>TLA_insights is my record of curated insights on resources I find interesting and relevant on the topics of
-    "Technical Leadership and Architecture" (TLA for short). I publish new "records" regularly (at least once a month).
-    You can see this as a sort of newsletter, but it really is about sharing curated insights (i.e.: "Insights-letter").
+    "Technical Leadership and Architecture" (TLA for short). I publish new "records" regularly and share a digest of new
+    records at least once a month. You can see this as a sort of hybrid between an archive of curated insights records
+    and a newsletter. I hope you find it interesting. If you have question or suggestions, don't hesitate on contacting me.
   </p>
+
   <br>
-  <ul>
-    <li><b><a href="record-1">TLA_insights record 1</a></b> [Sept. 2020] First record of TLA_insights. Several
-      interesting insights on resources from: Patrick Kua (challenges to becoming a "Multiplier" / Leader), Nick Tune
-      (on visualizing Sociotechnical Architecture with DDD and Team Topologies), Stefan Tilkov (excellent discussion on
-      why API-first may be a dangerous anti-pattern; and a second one on "good enough architecture") and August Bradley
-      amazing PPV personal productivity method (among a few others).</li>
-  </ul>
+
+  <b>Navigation:</b><br>
+  &nbsp;&nbsp;<a href="#records-per-area">Records per Area</a><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="#sociotech-arch"> 1: Sociotechnical Architecture & Systems Design</a><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="#tech-leadership"> 2: Technical Leadership</a><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="#software"> 3: Software {Architecture, Engineering & Tech}</a><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<a href="#productivity"> 4: Personal Productivity</a><br>
+  &nbsp;&nbsp;<a href="#monthly-digest">Monthly Digest</a>
+
+  <br><br>
+
+  <a name="records-per-area"></a>
+  <h1>Records per Areas</h1>
+
+  <a name="sociotech-arch"></a>
+  <h2>1: Sociotechnical Architecture & Systems Design</h2>
+
+  {% for page in site.pages %}
+  {% if page.categories contains 'tla_sociotech' %}
+  <li><span class="post-meta">{{ page.date | date: date_format }}</span>
+    <a href="{{ site.baseurl }}{{ page.url }}">
+      {{ page.title }}
+    </a>
+  </li>
+  {% endif %}
+  {% endfor %}
+
+  <br>
+  <a name="tech-leadership"></a>
+  <h2>2: Technical Leadership</h2>
+
+  {% for page in site.pages %}
+  {% if page.categories contains 'tla_tech-leadership' %}
+  <li><span class="post-meta">{{ page.date | date: date_format }}</span>
+    <a href="{{ site.baseurl }}{{ page.url }}">
+      {{ page.title }}
+    </a>
+  </li>
+  {% endif %}
+  {% endfor %}
+
+  <br>
+  <a name="software"></a>
+  <h2>3: Software {Architecture, Engineering & Tech}</h2>
+
+  {% for page in site.pages %}
+  {% if page.categories contains 'tla_software' %}
+  <li><span class="post-meta">{{ page.date | date: date_format }}</span>
+    <a href="{{ site.baseurl }}{{ page.url }}">
+      {{ page.title }}
+    </a>
+  </li>
+  {% endif %}
+  {% endfor %}
+
+  <br>
+  <a name="productivity"></a>
+  <h2>4: Personal Productivity</h2>
+
+  {% for page in site.pages %}
+  {% if page.categories contains 'tla_productivity' %}
+  <li><span class="post-meta">{{ page.date | date: date_format }}</span>
+    <a href="{{ site.baseurl }}{{ page.url }}">
+      {{ page.title }}
+    </a>
+  </li>
+  {% endif %}
+  {% endfor %}
+
+  <br>
+
+
+  <a name="monthly-digest"></a>
+  <h1>Monthly Digest</h1>
+
+  <details>
+    <summary><b>TLA_insights digest 1 [Sept. 2020]</b></summary>
+    <p>
+      First digest of TLA_insights. Several interesting insights on resources from: Patrick Kua (challenges to becoming
+      a "Multiplier" / Leader), Nick Tune (on visualizing Sociotechnical Architecture with DDD and Team Topologies),
+      Stefan Tilkov (excellent discussion on why API-first may be a dangerous anti-pattern; and a second one on "good
+      enough architecture") and August Bradley amazing PPV personal productivity method (among a few others). Check
+      here: <a href="digest-1">TLA_insights digest 1</a>
+    </p>
+  </details>
+
+  <br>
 
   <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
     method="post" target="popupwindow"

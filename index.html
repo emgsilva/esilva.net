@@ -31,8 +31,7 @@ layout: default
             href="https://techlab.bol.com/sociotechnical-architecture-to-maximize-impact/">here</a>)
         </li>
         <li>
-          [Sept. 2020] I started writing a monthly long format newsletter called "TLA_insights" (Technical Architecture & Architecture insights). Here I share curated insights from interesting resources in the topics of Technical Leadership and Architecture.
-          You can find it here: <a href=tla_insights>TLA_insights</a>
+          [Sept. 2020] Started curating insights ("records") on Technical Leadership and Architecture. Records can be find here <a href=tla_insights>TLA_insights</a>. Furthermore, will share a monthly digest of new records.
         </li>
       </ul>
     </div>
@@ -46,7 +45,7 @@ layout: default
     <h2>{{ page.list_title | default: "Recent articles" }}</h2>
     <br>
     <ul class="post-list">
-      {% for post in site.posts limit:4 %}
+      {% for post in site.posts limit:3 %}
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -61,6 +60,34 @@ layout: default
     </ul>
 
     <h4>>> check all articles here: <a href="/articles/">Articles</a></h4>
+    {% endif %}
+  </div>
+
+  <br>
+
+  <div>
+    {% if site.pages.size > 0 %}
+    <img src="assets/tla_insights.png" width="50px" align="left" hspace="10px">
+    <h2>{{ page.list_title | default: "Recent TLA_insights" }}</h2>
+    <br>
+    <ul class="post-list">
+      {% assign sorted_pages = site.pages | sort:"date" %}
+      {% assign sorted_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla'" | reverse %}
+      {% for page in sorted_pages reverse limit:3 %}
+      <li>
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <span class="post-meta">{{ page.date | date: date_format }}</span>
+        <h3>
+          <a href="{{ page.url | relative_url }}">
+            {{ page.title | escape }}
+          </a>
+        </h3>
+        {% if site.show_excerpts %} {{ page.excerpt }} {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+
+    <h4>>> check all insights records here: <a href="/tla_insights/">TLA_insights</a></h4>
     {% endif %}
   </div>
 
