@@ -15,81 +15,88 @@ categories: [tla_insights]
   <p>TLA_insights is my record of curated insights on resources I find interesting and relevant on the topics of
     "Technical Leadership and Architecture" (TLA for short). I publish new "records" regularly and share a digest of new
     records at least once a month. You can see this as a sort of hybrid between an archive of curated insights records
-    and a newsletter. I hope you find it interesting. If you have question or suggestions, don't hesitate on contacting me.
+    and a newsletter. I hope you find it interesting. If you have question or suggestions, don't hesitate on contacting
+    me.
   </p>
 
   <br>
 
-  <b>Navigation:</b><br>
-  &nbsp;&nbsp;<a href="#records-per-area">Records per Area</a><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="#sociotech-arch"> 1: Sociotechnical Architecture & Systems Design</a><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="#tech-leadership"> 2: Technical Leadership</a><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="#software"> 3: Software {Architecture, Engineering & Tech}</a><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<a href="#productivity"> 4: Personal Productivity</a><br>
-  &nbsp;&nbsp;<a href="#monthly-digest">Monthly Digest</a>
+  <b>Navigation</b><br>
+  > <a href="#records-per-area">Records per Area</a><br>
+  &nbsp;&nbsp;&nbsp;<a href="#sociotech-arch"> 1: Sociotechnical Architecture & Systems Design</a><br>
+  &nbsp;&nbsp;&nbsp;<a href="#tech-leadership"> 2: Technical Leadership</a><br>
+  &nbsp;&nbsp;&nbsp;<a href="#software"> 3: Software {Architecture, Engineering & Tech}</a><br>
+  &nbsp;&nbsp;&nbsp;<a href="#productivity"> 4: Personal Productivity</a><br>
+  > <a href="#monthly-digest">Monthly Digest</a>
 
   <br><br>
 
   <a name="records-per-area"></a>
   <h1>Records per Areas</h1>
 
+  {% assign sorted_pages = site.pages %}
+  {% assign sorted_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla'" | sort:"date" %}
+  {% assign sociotech_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_sociotech'" | reverse %}
+  {% assign techleadership_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_tech-leadership'" | reverse %}
+  {% assign software_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_software'" | reverse %}
+  {% assign productivity_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_productivity'" | reverse %}
+
   <a name="sociotech-arch"></a>
   <h2>1: Sociotechnical Architecture & Systems Design</h2>
 
-  {% for page in site.pages %}
-  {% if page.categories contains 'tla_sociotech' %}
-  <li><span class="post-meta">{{ page.date | date: date_format }}</span>
-    <a href="{{ site.baseurl }}{{ page.url }}">
-      {{ page.title }}
+  {% for page in sociotech_pages reverse %}
+  <li>
+    {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+    <span class="post-meta">{{ page.date | date: date_format }}</span>
+    <a href="{{ page.url | relative_url }}">
+      {{ page.title | escape }}
     </a>
   </li>
-  {% endif %}
   {% endfor %}
 
   <br>
   <a name="tech-leadership"></a>
   <h2>2: Technical Leadership</h2>
 
-  {% for page in site.pages %}
-  {% if page.categories contains 'tla_tech-leadership' %}
-  <li><span class="post-meta">{{ page.date | date: date_format }}</span>
-    <a href="{{ site.baseurl }}{{ page.url }}">
-      {{ page.title }}
+  {% for page in techleadership_pages reverse %}
+  <li>
+    {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+    <span class="post-meta">{{ page.date | date: date_format }}</span>
+    <a href="{{ page.url | relative_url }}">
+      {{ page.title | escape }}
     </a>
   </li>
-  {% endif %}
   {% endfor %}
 
   <br>
   <a name="software"></a>
   <h2>3: Software {Architecture, Engineering & Tech}</h2>
 
-  {% for page in site.pages %}
-  {% if page.categories contains 'tla_software' %}
-  <li><span class="post-meta">{{ page.date | date: date_format }}</span>
-    <a href="{{ site.baseurl }}{{ page.url }}">
-      {{ page.title }}
+  {% for page in software_pages reverse %}
+  <li>
+    {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+    <span class="post-meta">{{ page.date | date: date_format }}</span>
+    <a href="{{ page.url | relative_url }}">
+      {{ page.title | escape }}
     </a>
   </li>
-  {% endif %}
   {% endfor %}
 
   <br>
   <a name="productivity"></a>
   <h2>4: Personal Productivity</h2>
 
-  {% for page in site.pages %}
-  {% if page.categories contains 'tla_productivity' %}
-  <li><span class="post-meta">{{ page.date | date: date_format }}</span>
-    <a href="{{ site.baseurl }}{{ page.url }}">
-      {{ page.title }}
+  {% for page in productivity_pages reverse %}
+  <li>
+    {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+    <span class="post-meta">{{ page.date | date: date_format }}</span>
+    <a href="{{ page.url | relative_url }}">
+      {{ page.title | escape }}
     </a>
   </li>
-  {% endif %}
   {% endfor %}
 
   <br>
-
 
   <a name="monthly-digest"></a>
   <h1>Monthly Digest</h1>

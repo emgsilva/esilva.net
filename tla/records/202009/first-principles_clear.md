@@ -5,7 +5,7 @@ permalink: /tla_insights/first-principles_clear
 categories: [tla, tla_tech-leadership]
 id: first-principles_clear 
 digest: 1
-date: 2020-09-01
+date: 2020-09-02
 ---
 
 [[Article](https://jamesclear.com/first-principles)]

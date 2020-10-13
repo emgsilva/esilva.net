@@ -5,7 +5,7 @@ permalink: /tla_insights/5-things-architecture_brown
 categories: [tla, tla_software]
 id: 5-things-architecture_brown
 digest: 1
-date: 2020-09-01
+date: 2020-09-02
 ---
 
 [[Article series](https://dev.to/simonbrown/series/7666)]

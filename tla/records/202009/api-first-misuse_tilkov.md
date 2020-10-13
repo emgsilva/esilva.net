@@ -5,7 +5,7 @@ permalink: /tla_insights/api-first-misuse_tilkov
 categories: [tla, tla_sociotech]
 id: api-first-misuse_tilkov
 digest: 1
-date: 2020-09-01
+date: 2020-09-02
 ---
 
 [[Tweet thread](https://twitter.com/stilkov/status/1250355396864176132?s=20%20)]

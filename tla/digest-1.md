@@ -29,48 +29,43 @@ Welcome to the digest #1 of my "Technical Leadership and Architecture insights" 
 
 I hope you have fun and find some interesting insights here. Don't hesitate to [contact](mailto:emgsilva@gmail.com) me if you have questions or want to chat about these topics.
 
+ {% assign sorted_pages = site.pages %}
+ {% assign sorted_pages = sorted_pages | where_exp: "item", "item.digest == 1" | sort:"date" %}
+ {% assign sociotech_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_sociotech'" %}
+ {% assign techleadership_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_tech-leadership'" %}
+ {% assign software_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_software'" %}
+ {% assign productivity_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_productivity'" %}
+
 <a name="sociotech"></a>
 ## 1: Sociotechnical Architecture & Systems Design</h2>
 
-{% for page in site.pages %}
-
-{% if page.digest == 1 and page.categories contains 'tla_sociotech' %}
+{% for page in sociotech_pages %}
 ### <a href="{{ site.baseurl }}{{ page.url }}"> {{ page.title }} </a>
 {{page.content}}
-{% endif %}
 {% endfor %}
 
 <a name="tech-leadership"></a>
 ## 2: Technical Leadership
 
-{% for page in site.pages %}
-
-{% if page.digest == 1 and page.categories contains 'tla_tech-leadership' %}
+{% for page in techleadership_pages %}
 ### <a href="{{ site.baseurl }}{{ page.url }}"> {{ page.title }} </a>
 {{page.content}}
-{% endif %}
 {% endfor %}
 
 <a name="software"></a>
 ## 3: Software {Architecture, Engineering & Tech}
 
-{% for page in site.pages %}
-
-{% if page.digest == 1 and page.categories contains 'tla_software' %}
+{% for page in software_pages %}
 ### <a href="{{ site.baseurl }}{{ page.url }}"> {{ page.title }} </a>
 {{page.content}}
-{% endif %}
 {% endfor %}
 
 <a name="productivity"></a>
 ## 4: Personal Productivity
 
-{% for page in site.pages %}
-
-{% if page.digest == 1 and page.categories contains 'tla_productivity' %}
+{% for page in productivity_pages %}
 ### <a href="{{ site.baseurl }}{{ page.url }}"> {{ page.title }} </a>
 {{page.content}}
-{% endif %}
 {% endfor %}
 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
