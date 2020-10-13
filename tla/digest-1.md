@@ -3,6 +3,8 @@ layout: default
 title: TLA_insights digest \#1
 permalink: /tla_insights/digest-1
 categories: [tla_digest]
+redirect_from:
+  - /tla_insights/record-1
 ---
 
 Welcome to the digest #1 of my "Technical Leadership and Architecture insights" (or TLA_insights for short).

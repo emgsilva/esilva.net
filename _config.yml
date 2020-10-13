@@ -43,6 +43,10 @@ permalink: /articles/:title
 
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
+
+whitelist: 
+  - jekyll-redirect-from
 
 feed:
   path: feed.xml
