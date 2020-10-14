@@ -4,7 +4,7 @@ title:  Team Topologies, Matthew Skelton & Manuel Pais
 permalink: /tla_insights/team-topologies_skelton-pais
 categories: [tla, tla_sociotech]
 id: team-topologies_skelton-pais
-digest: 1
+digest: 2
 date: 2020-10-09
 ---
 
