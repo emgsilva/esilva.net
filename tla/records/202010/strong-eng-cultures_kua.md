@@ -9,7 +9,11 @@ date: 2020-10-15
 show: 1
 ---
 
-[[Presentation](https://www.infoq.com/presentations/engineering-culture-examples/)]
+#### [[Presentation](https://www.infoq.com/presentations/engineering-culture-examples/)]
+
+> ![light](/assets/light-bulb.png) **My Insights:** great engineering cultures are a great undertake, they take time to build, they are not "projects" with a due date, they are a continuum, an infinite cycle of improvements. Make this explicit and make the core elements of your culture visible so people can see it and know how to contribute to it and improvement it. Another important aspect is the creation of systems that support the culture and its continuous improvement, e.g.: make sure decision making is clear and people understand scopes of decision making - team can decide things within their team, but if it crosses to multiple teams this is decided by people working on that multi-team scope. This openness and systems will enable autonomy and participation of every engineer while managing complexity (i.e.: balance autonomy and alignment), and with that bring in the ingredients needed to make a great engineering culture.
+
+### Analysis & Summary
 
 This is a great presentation by Patrick Kua on "secrets" of Strong Engineering cultures, i.e.: things to cater for in order to have an organization that moves at high-velocity, but also is a great place to work, where people feel motivated and can thrive in their activities. By having such traits, organizations also have higher changes of attracting and retaining great talent - a big challenge in our current market. Apart from the secrets (and challenges to cater for on each secret), Patrick also shares some interesting and useful recipes on how to start developing such culture and make it "more explicit".
 
@@ -32,8 +36,6 @@ The final point of the presentation is a check we can do to measure if we are im
 - 1: How many hand-offs do you have between Software Engineers and customer?
 - 2: Are software engineers involved in the HOW they solve a business problem?
 - 3: What opportunities do Software Engineers have to grow?
-
-> ![light](/assets/light-bulb.png) **My Insights:** great engineering cultures are a great undertake, they take time to build, they are not "projects" with a due date, they are a continuum, an infinite cycle of improvements. Make this explicit and make the core elements of your culture visible so people can see it and know how to contribute to it and improvement it. Another important aspect is the creation of systems that support the culture and its continuous improvement, e.g.: make sure decision making is clear and people understand scopes of decision making - team can decide things within their team, but if it crosses to multiple teams this is decided by people working on that multi-team scope. This openness and systems will enable autonomy and participation of every engineer while managing complexity (i.e.: balance autonomy and alignment), and with that bring in the ingredients needed to make a great engineering culture.
 
 **InsighTweet**
 

@@ -8,7 +8,11 @@ digest: 1
 date: 2020-09-01
 ---
 
-[[Video series](http://notionproductivity.com)]
+#### [[Video series](http://notionproductivity.com)]
+
+> ![light](/assets/light-bulb.png) **My Insights:** I am continuously sharpening my way of working and how to have a system that enables me to focus on executing on the important and relevant things. Over time I noticed that the trick is not about "planning things", but about "making sure I continuously check what are the important things to work on". I do this by reviewing my north star yearly, my Goals (and OKRs) quarterly, and then monthly and weekly make sure I am working on projects that help me to achieve those. This framing facilitates the "emergence" of clear and relevant things to work on my day to day without the "stress" of having to make the plan and deliver the plan (that is continuously changing). This is greatly supported by the PPV: systems that capture your ambitions and goals, and have routines to make sure I am progressing towards them, and based on that I have my "execution plan" emerging automatically.
+
+### Analysis & Summary
 
 [August Bradley](https://twitter.com/augustbradley) has developed a very interesting and powerful personal productivity methodology called "Pillars, Pipelines and Volts" or PPV in short. This methodology is carefully crafted and is grounded in the idea of creating systems that support us on "aligning on what is important" to grow into the areas we want to grow. With that clarity on "where we want to go" we can more easily focus on execution.
 
@@ -21,8 +25,6 @@ This is a short overview of PPV:
 I have tried many different methodologies and in time developed my own, and to be fair I think PPV formalizes many of the elements I came to develop in time, plus it adds quite a sound structure to it with a clear philosophy: "Focus & Alignment" (i.e.: create clarity where to go, review it often to make sure you are in the right path, as this will enable you to focus on execution on your "day to day"). 
 
 August presents PPV through an excellent and thorough [video series](http://notionproductivity.com/) (and is preparing supplementary material and training) so people can more easily implement this approach. Implementing this will take some effort but the outcome really pays off (if you want to shape and customize your personal productivity system to your needs). To implement PPV August uses a very flexible tool called [Notion](https://www.notion.so/), which is an app that merges several features: note taking, wiki but also enables to create flexible databases, which can be visualized in different manners. This flexibility is key to implementing PPV and variations of it (which is what most people will most likely do - to adapt and support their specific preferences and way of working). Most productivity tools tend to prescribe a way of working that does not capture all the dimensions of PPV (or customized elements we want to have), namely enabling the creation of a system of systems that operate and connect with each other to address the different needs we have to organize our lives. August states that PPV is a way to implement a "Life Operating System (OS)" and after adapting most of it on my own setup I fully agree with him.
-
-> ![light](/assets/light-bulb.png) **My Insights:** I am continuously sharpening my way of working and how to have a system that enables me to focus on executing on the important and relevant things. Over time I noticed that the trick is not about "planning things", but about "making sure I continuously check what are the important things to work on". I do this by reviewing my north star yearly, my Goals (and OKRs) quarterly, and then monthly and weekly make sure I am working on projects that help me to achieve those. This framing facilitates the "emergence" of clear and relevant things to work on my day to day without the "stress" of having to make the plan and deliver the plan (that is continuously changing). This is greatly supported by the PPV: systems that capture your ambitions and goals, and have routines to make sure I am progressing towards them, and based on that I have my "execution plan" emerging automatically.
 
 **InsighTweet**
 
