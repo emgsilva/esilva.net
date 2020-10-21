@@ -11,8 +11,8 @@ rss: rss
 linkedin_username: emgsilva
 
 # disqus configs
-disqus:
-  shortname: esilva-net
+# disqus:
+#  shortname: esilva-net
 
 # google analytics configs
 google_analytics: UA-114511801-1
