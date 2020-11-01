@@ -32,6 +32,13 @@ I hope you have fun and find some interesting insights here. Don't hesitate to c
  {% assign software_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_software'" %}
  {% assign productivity_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_productivity'" %}
 
+**TLA_insights digest #2:**
+
+{% if sociotech_pages.size > 0 %} - [Sociotechnical Architecture & Systems Design](#sociotech) {% endif %}
+{% if techleadership_pages.size > 0 %} - [Technical Leadership](#tech-leadership) {% endif %}
+{% if software_pages.size > 0 %} - [Software {Architecture, Engineering & Tech}](#software) {% endif %}
+{% if productivity_pages.size > 0 %} - [Personal Productivity](#productivity) {% endif %}
+
 {% if sociotech_pages.size > 0 %}
 <a name="sociotech"></a>
 ## 1: Sociotechnical Architecture & Systems Design</h2>
