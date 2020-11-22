@@ -15,7 +15,8 @@ categories: [tla_insights]
   <p>TLA_insights is my record of curated insights (and notes) on resources I find interesting and relevant on the
     topics of "Technical Leadership and Architecture" (TLA for short). I publish new "records" regularly in this
     page and share a digest of new records at the end of each month. You can see this as a sort of hybrid between
-    an archive of curated insights records and a newsletter. I hope you find it interesting. If you have question
+    an archive of curated insights records and a newsletter. I hope you find it interesting, if so you can sign-up to be
+    notified <a href="https://tinyletter.com/tla_insights" target="_blank">here</a>. If you have question
     or suggestions, don't hesitate on contacting me via <a href="mailto:emgsilva@gmail.com">email</a> or on
     <a href="https://twitter.com/emgsilva">Twitter</a>.
   </p>
@@ -23,12 +24,12 @@ categories: [tla_insights]
   <br>
 
   <b>Navigation</b><br>
-  > <a href="#records-per-area">Records per Area</a><br>
-  &nbsp;&nbsp;&nbsp;<a href="#sociotech-arch"> 1: Sociotechnical Architecture & Systems Design</a><br>
-  &nbsp;&nbsp;&nbsp;<a href="#tech-leadership"> 2: Technical Leadership</a><br>
-  &nbsp;&nbsp;&nbsp;<a href="#software"> 3: Software {Architecture, Engineering & Tech}</a><br>
-  &nbsp;&nbsp;&nbsp;<a href="#productivity"> 4: Personal Productivity</a><br>
-  > <a href="#monthly-digest">Monthly Digest</a>
+  <a href="#records-per-area">Records per Area</a><br>
+  &nbsp;&nbsp;&nbsp;- <a href="#sociotech-arch"> Sociotechnical Architecture & Systems Design</a><br>
+  &nbsp;&nbsp;&nbsp;- <a href="#tech-leadership"> Technical Leadership</a><br>
+  &nbsp;&nbsp;&nbsp;- <a href="#software"> Software {Architecture, Engineering & Tech}</a><br>
+  &nbsp;&nbsp;&nbsp;- <a href="#productivity"> Personal Productivity</a><br>
+  <a href="#monthly-digest">Monthly Digest</a>
 
   <br><br>
 
@@ -43,7 +44,7 @@ categories: [tla_insights]
   {% assign productivity_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_productivity'" | reverse %}
 
   <a name="sociotech-arch"></a>
-  <h2>1: Sociotechnical Architecture & Systems Design</h2>
+  <h2>Sociotechnical Architecture & Systems Design</h2>
 
   {% for page in sociotech_pages reverse %}
   <li>
@@ -57,7 +58,7 @@ categories: [tla_insights]
 
   <br>
   <a name="tech-leadership"></a>
-  <h2>2: Technical Leadership</h2>
+  <h2>Technical Leadership</h2>
 
   {% for page in techleadership_pages reverse %}
   <li>
@@ -71,7 +72,7 @@ categories: [tla_insights]
 
   <br>
   <a name="software"></a>
-  <h2>3: Software {Architecture, Engineering & Tech}</h2>
+  <h2>Software {Architecture, Engineering & Tech}</h2>
 
   {% for page in software_pages reverse %}
   <li>
@@ -85,7 +86,7 @@ categories: [tla_insights]
 
   <br>
   <a name="productivity"></a>
-  <h2>4: Personal Productivity</h2>
+  <h2>Personal Productivity</h2>
 
   {% for page in productivity_pages reverse %}
   <li>

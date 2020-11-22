@@ -37,7 +37,7 @@ I hope you have fun and find some interesting insights here. Don't hesitate to [
  {% assign productivity_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_productivity'" %}
 
 <a name="sociotech"></a>
-## 1: Sociotechnical Architecture & Systems Design</h2>
+## Sociotechnical Architecture & Systems Design</h2>
 
 {% for page in sociotech_pages %}
 ### <a href="{{ site.baseurl }}{{ page.url }}"> {{ page.title }} </a>
@@ -45,7 +45,7 @@ I hope you have fun and find some interesting insights here. Don't hesitate to [
 {% endfor %}
 
 <a name="tech-leadership"></a>
-## 2: Technical Leadership
+## Technical Leadership
 
 {% for page in techleadership_pages %}
 ### <a href="{{ site.baseurl }}{{ page.url }}"> {{ page.title }} </a>
@@ -53,7 +53,7 @@ I hope you have fun and find some interesting insights here. Don't hesitate to [
 {% endfor %}
 
 <a name="software"></a>
-## 3: Software {Architecture, Engineering & Tech}
+## Software {Architecture, Engineering & Tech}
 
 {% for page in software_pages %}
 ### <a href="{{ site.baseurl }}{{ page.url }}"> {{ page.title }} </a>
@@ -61,7 +61,7 @@ I hope you have fun and find some interesting insights here. Don't hesitate to [
 {% endfor %}
 
 <a name="productivity"></a>
-## 4: Personal Productivity
+## Personal Productivity
 
 {% for page in productivity_pages %}
 ### <a href="{{ site.baseurl }}{{ page.url }}"> {{ page.title }} </a>
