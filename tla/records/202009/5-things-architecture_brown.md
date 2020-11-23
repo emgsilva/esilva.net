@@ -25,3 +25,13 @@ In the third article Simon touches on the fact that "Software Architecture role 
 The fourth article focuses on the fact that Architecture documentation does not necessarily mean UML and complex documentation. Here Simon shares his [C4 Model](https://c4model.com), and how we can use it to document architecture by addressing different perspectives, which represent different levels of detail (like a map, and zooming into a map). This approach enables a pragmatic and simple approach where the people relevant for the discussion can be easily involved.
 
 The last article titled: "A good software architecture enables agility" is in my view one of the major realizations that a lot of people in the industry need to develop: architecture is not a blocker for agility, i.e.: do not panic if you need to spend some hours or days investing on understanding and creating a clear alignment and strategy on how to proceed on building your product. That is in fact a crucial exercise to enable your agility and move forward at high-velocity (clear direction and high speed).
+
+<br>
+
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
+  method="post" target="popupwindow"
+  onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+  <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
+  <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
+    name="embed" /><input type="submit" value="Subscribe" />
+</form>

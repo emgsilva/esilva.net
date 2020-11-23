@@ -17,3 +17,13 @@ date: 2020-09-02
 This Twitter thread by [Stefan Tilkov](https://twitter.com/stilkov) raised a very interesting discussion on the rather common misuse of the “API-first“ strategy. In classic Stefan style, he comprehensively shows several interesting points and patterns where such misuse happens. Most prominently the overuse of this technique for "encapsulation" of technical capabilities within the "enterprise". This tends to be part of the mission of many Enterprise Architects, as a way to have a good governance model over the different "parts of the enterprise". However, if APIs are purely built "inside-out" (just as a way to encapsulate and expose business capabilities) and are not built as a product, i.e.: based on the needs of the customers/clients using it (and what they are looking for), it tends to lead to a mismatch of expectations.
 
 At a given moment of the thread Simon Wardley shared a nice visualization of "types of developments" where APIs are strategic and how to start such initiatives using [his famous Wardley maps](https://twitter.com/swardley/status/1251479895479386114?s=19).
+
+<br>
+
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
+  method="post" target="popupwindow"
+  onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+  <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
+  <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
+    name="embed" /><input type="submit" value="Subscribe" />
+</form>
