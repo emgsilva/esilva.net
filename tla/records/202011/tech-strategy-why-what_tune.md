@@ -57,6 +57,10 @@ Some extra remarks:
 - It can have different forms, it is not an exact science. The important thing is to "set clear game rules and language" at the start and have a clear understanding of the "Why" for the Tech Strategy. This can vary from company to company, but in general it should be linked to the business/product strategies and vision, as a way to enable them.
 - Tech Strategies at the different levels evolve, like anything within organizations. Given this, don't write your strategies on stone, but create feedback loops/mechanisms to continuously observe your org, and take that knowledge and insights to "calibrate" the Tech vision and strategies.
 
+**InsighTweet**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: Tech Strategy, why you need it and what it can look like (in the form of a multi-level approach: enterprise &gt; departments &gt; products).<br><br>References: <a href="https://twitter.com/ntcoding?ref_src=twsrc%5Etfw">@ntcoding</a><br><br>+details ⤵️<a href="https://t.co/WyqDNcWXey">https://t.co/WyqDNcWXey</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1330987553684680704?ref_src=twsrc%5Etfw">November 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <br>
 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
