@@ -50,6 +50,10 @@ All these elements will evolve (i.e.: should be continuously updated). However, 
 - follow with an email with a copy and then add the document to the teams Wiki/Confluence/etc. (make sure there is a single location where we keep the versions of the doc we produce - with the changes we make);
 - iterate as needed and share the changes so people can "update" their view on it.
 
+**InsighTweet**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: Tech Strategy is not a project, it is a product: continuously improved and calibrated based on learnings. Goal: create more alignment and a clearer framework for decision making for teams / org.<br><br>References: <a href="https://twitter.com/sarahtarap?ref_src=twsrc%5Etfw">@sarahtarap</a><br><br>+details ⤵️<a href="https://t.co/YlnpYFixx1">https://t.co/YlnpYFixx1</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1333048014370451462?ref_src=twsrc%5Etfw">November 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <br>
 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
