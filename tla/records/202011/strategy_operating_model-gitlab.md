@@ -90,6 +90,10 @@ This clarity and connected strategies provides a lot of clarity and in a way set
 - [GitLab-Direction] [https://about.gitlab.com/direction](https://about.gitlab.com/direction)<a name="gitlab-direction"></a>
 - [GitLab-Cadence] [https://about.gitlab.com/handbook/ceo/cadence](https://about.gitlab.com/handbook/ceo/cadence)<a name="gitlab-cadence"></a>
 
+**InsighTweet**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: Strategy is a continuum, but we can define a cadence of alignment periods to set where to focus &amp; which actions (eg: work on &quot;Values&quot; to enable the 10 year vision; OKRs to align with 1-year plan).<br><br>References: <a href="https://twitter.com/gitlab?ref_src=twsrc%5Etfw">@GitLab</a> <a href="https://twitter.com/sytses?ref_src=twsrc%5Etfw">@sytses</a><br><br>+details ⤵️<a href="https://t.co/JmEKsUN5iK">https://t.co/JmEKsUN5iK</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1337002923126091776?ref_src=twsrc%5Etfw">December 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <br>
 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
