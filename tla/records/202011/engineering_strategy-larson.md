@@ -81,6 +81,10 @@ Will has many interesting insights throughout this article, but at the end it so
 
 - [Tech Radar] [https://www.thoughtworks.com/radar](https://www.thoughtworks.com/radar) <a name="tech-radar"></a>
 
+**InsighTweet**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: Engineering Strategy and Vision should be a &quot;life-cycle&quot; based on the concrete problems (&amp; designs from teams), providing extended enriched insight to guide and speed-up future technical decision making.<br><br>References: <a href="https://twitter.com/Lethain?ref_src=twsrc%5Etfw">@Lethain</a><br><br>+details ⤵️<a href="https://t.co/ATEvQM1Y2h">https://t.co/ATEvQM1Y2h</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1338819263726055425?ref_src=twsrc%5Etfw">December 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <br>
 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
