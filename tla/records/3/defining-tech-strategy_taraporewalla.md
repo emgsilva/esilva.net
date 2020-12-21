@@ -6,6 +6,11 @@ categories: [tla, tla_tech-leadership]
 id: defining-tech-strategy_taraporewalla
 digest: 3
 date: 2020-11-28
+summary: |
+  Elements to consider when creating what Sarah calls "The Strategy Document". What I find refreshing in this article is that Sarah does not stop on the writing of the document, but goes on and makes great remarks on the execution of the Tech Strategy (namely: how to go about distributing it and even more importantly "continuously improving it over time").
+insightweet: | 
+  Tech Strategy is not a project, it is a product: continuously improved and calibrated based on learnings. Goal: create more alignment and a clearer framework for decision making for teams / org.
+
 ---
 
 #### [[Article](https://sarahtaraporewalla.com/agile/design/architecture/Defining-a-Tech-Strategy)]

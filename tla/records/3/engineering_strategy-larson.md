@@ -6,6 +6,10 @@ categories: [tla, tla_tech-leadership]
 id: engineering_strategy-larson
 digest: 3
 date: 2020-12-15
+summary: |
+  Article from Will Larson that describes a "recipe" for shaping and defining "durable and grounded Engineering Strategies and Vision". This approach is rather interesting as it takes an "iterative bottom-up learning approach" where we observe the common big engineering challenges (from Design Documents on teams) and from there synthesize the (current) relevant Engineering Strategies. Then, to provide extra longer-term direction, Will proposes an extra layer focusing on Vision, which extrapolates how the different Strategies (and their relations) pan out on a 2-3 years time window.
+insightweet: |
+  Engineering Strategy and Vision should be a "life-cycle" based on the concrete problems (& designs from teams), providing extended enriched insight to guide and speed-up future technical decision making.
 ---
 
 #### [[Article](https://lethain.com/good-engineering-strategy-is-boring/)]

@@ -39,9 +39,11 @@ categories: [tla_insights]
   {% assign sorted_pages = site.pages %}
   {% assign sorted_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla'" | sort:"date" %}
   {% assign sociotech_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_sociotech'" | reverse %}
-  {% assign techleadership_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_tech-leadership'" | reverse %}
+  {% assign techleadership_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_tech-leadership'" |
+  reverse %}
   {% assign software_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_software'" | reverse %}
-  {% assign productivity_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_productivity'" | reverse %}
+  {% assign productivity_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_productivity'" |
+  reverse %}
 
   <a name="sociotech-arch"></a>
   <h2>Sociotechnical Architecture & Systems Design</h2>
@@ -104,14 +106,28 @@ categories: [tla_insights]
   <h1>Monthly Digest</h1>
 
   <details>
+    <summary><b>TLA_insights digest 3 [Nov./Dec. 2020] - Tech Vision and Strategy</b></summary>
+    <p>
+      Special "aggregate" issue on the topic of "Tech Vision and Strategy". I share several interesting insights based
+      on references from Nick Tune (on "Why" you need Tech Vision and Strategy and "What" it can look like); Sarah
+      Taraporewalla (on the "anatomy" of a Tech Strategy document and how to share & continuously execute and operate
+      it); GitLab Vision and Strategy documents (covering several interesting public documents of GitLab sharing the way
+      they set vision and strategy, and how they continuously operate it (and the cadence of activities) as a full
+      distributed company); and by Will Larson (on how to drive Engineering/Tech Strategy bottom-up from the technical
+      challenges observed on teams design documents - and how to create a feedback loop to improve future technical
+      decision making). (More entries may be added in the future) Check here: <a href="digest-3">TLA_insights digest 3 -
+        Tech Vision and Strategy</a>
+    </p>
+  </details>
+  <details>
     <summary><b>TLA_insights digest 2 [Oct. 2020]</b></summary>
     <p>
       In this issue I share several interesting insights based on references from Matthew Skelton and Manuel Pais (main
       insights on their book @TeamTopologies and another one on a great podcast interview on the topic of "modern
       architecture" and especially the traits of "modern architect); and from Patrick Kua (on the secrets and strategies
       to build Strong Engineering Culture, where Patrick shares - as usual - amazing insights on how develop structural
-      systems to support the continuous development of great engineering cultures). Check
-      here: <a href="digest-2">TLA_insights digest 2</a>
+      systems to support the continuous development of great engineering cultures). Check here: <a
+        href="digest-2">TLA_insights digest 2</a>
     </p>
   </details>
   <details>
