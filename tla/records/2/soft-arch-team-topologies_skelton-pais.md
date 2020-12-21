@@ -2,10 +2,15 @@
 layout: post
 title:  Software Architecture, Team Topologies and Platforms, Matthew Skelton & Manuel Pais
 permalink: /tla_insights/soft-arch-team-topologies_skelton-pais
-categories: [tla, tla_software]
+categories: [Software-Architecture]
+tla_area: [tla, tla_software]
 id: soft-arch-team-topologies_skelton-pais
 digest: 2
 date: 2020-10-21
+summary: | 
+  In this podcast Manuel Pais and Matthew Skelton talk about several elements of Software Architecture and traits of modern Software Architects - many well positioned on their book Team Topologies. I couldn't agree more with the core remark of the conversation, which I summarize as: the Modern Software Architect is a Sociotechnical Architect.
+insightweet: |
+  Modern Software Architects cannot anymore purely focus on the Technical systems anymore. They must be "Sociotechnical Architects": be able to consider the organizational and technical systems in the problem & solution spaces. Ignoring this is recipe for partial optimizations and in most cases a lot of "synchronization overhead and waste". 
 ---
 
 #### [[Podcast](https://www.infoq.com/podcasts/software-architecture-team-topologies/)]

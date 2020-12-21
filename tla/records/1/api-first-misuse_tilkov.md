@@ -2,10 +2,15 @@
 layout: post
 title: Recurrent misuse of API-first pattern/strategy, Stefan Tilkov
 permalink: /tla_insights/api-first-misuse_tilkov
-categories: [tla, tla_sociotech]
+categories: [Socio-Technical]
+tla_area: [tla, tla_sociotech]
 id: api-first-misuse_tilkov
 digest: 1
 date: 2020-09-02
+summary: | 
+  Very interesting Twitter thread on the misuse of API-first strategy and how to re-focus it on the important elements (especially be outside-in strategy, with customer as central designing force, instead of inside-out).
+insightweet: |
+  APIs provide "encapsulation" and a way to expose capabilities of a business. However, they should (must) be built based on the customer(s) that will use them, in true "product development" style.
 ---
 
 #### [[Tweet thread](https://twitter.com/stilkov/status/1250355396864176132?s=20%20)]

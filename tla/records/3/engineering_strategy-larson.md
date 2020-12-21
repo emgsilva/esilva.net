@@ -2,7 +2,8 @@
 layout: post
 title: Engineering Strategy, Will Larson
 permalink: /tla_insights/engineering_strategy-larson
-categories: [tla, tla_tech-leadership]
+categories: [Tech-Vision-Strategy]
+tla_area: [tla, tla_tech-leadership]
 id: engineering_strategy-larson
 digest: 3
 date: 2020-12-15

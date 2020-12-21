@@ -1,11 +1,16 @@
 ---
 layout: post
-title: Good Enough Architecture, Stevan Tilkov
+title: Good Enough Architecture, Stefan Tilkov
 permalink: /tla_insights/good-enough-architecture_tilkov
-categories: [tla, tla_software]
+categories: [Software-Architecture]
+tla_area: [tla, tla_software]
 id: good-enough-architecture_tilkov
 digest: 1
 date: 2020-09-01
+summary: |
+  In this artricle Stefan Tilkov showcases six real world architectures where something "went wrong" and "lessons learned" from that (on technical but also organizational aspects). This is a condensed show of wisdom, where we can learn a lot about several patterns and practices to consider or avoid when architecting systems.
+insightweet: |
+  There is always an architecture and as such we better make it explicitly part of our ways of working... no need to full up-front design! Focusing on "good enough" architecture is "enough" to bring alignment and maximize outcomes of our efforts.
 ---
 
 #### [[Video](https://youtu.be/PzEox3szeRc), [Slides](https://gotober.com/2019/sessions/846/slides)]

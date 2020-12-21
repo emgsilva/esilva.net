@@ -2,7 +2,8 @@
 layout: post
 title: GitLab Strategy Operating Model
 permalink: /tla_insights/strategy_operating_model-gitlab
-categories: [tla, tla_tech-leadership]
+categories: [Tech-Vision-Strategy]
+tla_area: [tla, tla_tech-leadership]
 id: direction_strategy_operating_model-gitlab
 digest: 3
 date: 2020-11-29

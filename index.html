@@ -72,7 +72,7 @@ layout: default
     <br>
     <ul class="post-list">
       {% assign sorted_pages = site.pages %}
-      {% assign sorted_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla'" %}
+      {% assign sorted_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla'" %}
       {% assign sorted_pages = site.pages | sort:"date" | reverse %}
       {% for page in sorted_pages reverse limit:3 %}
       <li>

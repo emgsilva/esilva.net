@@ -2,7 +2,8 @@
 layout: post
 title:  Defining a Tech Strategy, Sarah Taraporewalla 
 permalink: /tla_insights/defining-tech-strategy_taraporewalla
-categories: [tla, tla_tech-leadership]
+categories: [Tech-Vision-Strategy]
+tla_area: [tla, tla_tech-leadership]
 id: defining-tech-strategy_taraporewalla
 digest: 3
 date: 2020-11-28

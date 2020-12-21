@@ -2,11 +2,16 @@
 layout: post
 title: Secrets of a Strong Engineering Culture, Patrick Kua
 permalink: /tla_insights/strong-eng-cultures_kua
-categories: [tla, tla_tech-leadership]
+categories: [Engineering-Culture]
+tla_area: [tla, tla_tech-leadership]
 id: strong-eng-cultures_kua
 digest: 2
 date: 2020-10-15
 show: 1
+summary: |
+  Great presentation by Patrick Kua on "secrets" of Strong Engineering cultures, i.e.: things to cater for in order to have an organization that moves at high-velocity, but also is a great place to work, where people feel motivated and can thrive in their activities. By having such traits, organizations also have higher changes of attracting and retaining great talent - a big challenge in our current market. 
+insightweet: |
+  Building great engineering cultures is not trivial: they take time to build, they are not "projects" with a due date but are a continuum, an infinite cycle of improvements. Make this explicit and make the core elements of your culture visible so people can see it and know how to contribute to it and improvement it. 
 ---
 
 #### [[Presentation](https://www.infoq.com/presentations/engineering-culture-examples/)]

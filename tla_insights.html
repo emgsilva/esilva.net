@@ -37,12 +37,12 @@ categories: [tla_insights]
   <h1>Records per Areas</h1>
 
   {% assign sorted_pages = site.pages %}
-  {% assign sorted_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla'" | sort:"date" %}
-  {% assign sociotech_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_sociotech'" | reverse %}
-  {% assign techleadership_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_tech-leadership'" |
+  {% assign sorted_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla'" | sort:"date" %}
+  {% assign sociotech_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla_sociotech'" | reverse %}
+  {% assign techleadership_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla_tech-leadership'" |
   reverse %}
-  {% assign software_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_software'" | reverse %}
-  {% assign productivity_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_productivity'" |
+  {% assign software_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla_software'" | reverse %}
+  {% assign productivity_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla_productivity'" |
   reverse %}
 
   <a name="sociotech-arch"></a>
@@ -55,6 +55,7 @@ categories: [tla_insights]
     <a href="{{ page.url | relative_url }}">
       {{ page.title | escape }}
     </a>
+    <span style="background-color: #c1c7c3">#{{page.categories}}</span>
   </li>
   {% endfor %}
 
@@ -69,6 +70,7 @@ categories: [tla_insights]
     <a href="{{ page.url | relative_url }}">
       {{ page.title | escape }}
     </a>
+    <span style="background-color: #c1c7c3">#{{page.categories}}</span>
   </li>
   {% endfor %}
 
@@ -83,6 +85,7 @@ categories: [tla_insights]
     <a href="{{ page.url | relative_url }}">
       {{ page.title | escape }}
     </a>
+    <span style="background-color: #c1c7c3">#{{page.categories}}</span>
   </li>
   {% endfor %}
 
@@ -97,6 +100,7 @@ categories: [tla_insights]
     <a href="{{ page.url | relative_url }}">
       {{ page.title | escape }}
     </a>
+    <span style="background-color: #c1c7c3">#{{page.categories}}</span>
   </li>
   {% endfor %}
 

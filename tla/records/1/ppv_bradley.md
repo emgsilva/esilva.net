@@ -2,10 +2,15 @@
 layout: post
 title: Pillars, Pipelines and Volts (PPV), August Bradley
 permalink: /tla_insights/ppv_bradley
-categories: [tla, tla_productivity]
+categories: [Personal-Productivity]
+tla_area: [tla, tla_productivity]
 id: ppv_bradley
 digest: 1
 date: 2020-09-01
+summary: |
+  PPV (Pillars, Pipelines and Volts) is a "Personal Productivity System" created by August Bradley that focuses on having a "systems thinking" approach on how we organize our lives and all the things around it. Goal: creating systems that support us on "aligning on what is important" to grow into the areas we want to grow. With that clarity on "where we want to go" we can more easily focus on execution. August Bradley provides comprehensive overview of the methodology but also shows how to implement it in Notion.
+insightweet: |
+  PPV provides a systems that enables capturing your ambitions and goals, and have routines (and supporting tools/elements) to make sure we can progress towards them, and based on that have a plan emerging "automatically" to get us focused on executing on the right (important) things.
 ---
 
 #### [[Video series](http://notionproductivity.com)]

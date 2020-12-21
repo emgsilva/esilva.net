@@ -2,10 +2,15 @@
 layout: post
 title: Visualizing Sociotechnical Architecture with DDD and Team Topologies, Nick Tune
 permalink: /tla_insights/core-domain-charts_tune
-categories: [tla, tla_sociotech]
+categories: [Socio-Technical]
+tla_area: [tla, tla_sociotech]
 id: core-domain-chart_tune
 digest: 1
 date: 2020-09-01
+summary: |
+  This article presents a visualization Nick Tune has developed called "Core Domain Chart", which enables visualizing the core "elements/capabilities" of a business and with that strategize on different things. In the article Nick looks into how to use Team Topologies ideas into this context.
+insightweet: |
+  To drive design and strategy we must understand the different elements at play. Core Domain Charts enable to visualize the different elements and how they interact/position with each other, and with that take better decisions on how to move forward.
 ---
 
 #### [[Article](https://medium.com/nick-tune-tech-strategy-blog/visualising-sociotechnical-architecture-with-ddd-and-team-topologies-48c6be036c40)]

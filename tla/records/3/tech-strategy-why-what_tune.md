@@ -2,7 +2,8 @@
 layout: post
 title:  "Tech Strategy: You Need it, But What is it?, Nick Tune"
 permalink: /tla_insights/tech-strategy-why-what_tune
-categories: [tla, tla_tech-leadership]
+categories: [Tech-Vision-Strategy]
+tla_area: [tla, tla_tech-leadership]
 id: tech-strategy-why-what_tune
 digest: 3
 date: 2020-11-22

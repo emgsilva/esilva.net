@@ -2,10 +2,15 @@
 layout: post
 title: 5 Things Every Developer Should Know about Software Architecture, Simon Brown
 permalink: /tla_insights/5-things-architecture_brown
-categories: [tla, tla_software]
+categories: [Software-Architecture]
+tla_area: [tla, tla_software]
 id: 5-things-architecture_brown
 digest: 1
 date: 2020-09-02
+summary: |
+  Article series that provides a great overview of essential elements that Developers should know about Software Architecture (just enough up-front design; how fundamental Technical Leadership is to drive Software Architecture; the role of Software Architect and its wide-set of responsibilities; and the importance and approaches to Software Architecture documentation).
+insightweet: | 
+  Software Architecture when done right is an enabling and multiplying force.
 ---
 
 #### [[Article series](https://dev.to/simonbrown/series/7666)]

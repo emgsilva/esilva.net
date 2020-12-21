@@ -2,10 +2,15 @@
 layout: post
 title:  Maker VS Multiplier, Patrick Kua
 permalink: /tla_insights/maker-vs-multiplier_kua
-categories: [tla, tla_tech-leadership]
+categories: [Tech-Leadership]
+tla_area: [tla, tla_tech-leadership]
 id: maker-vs-multiplier_kua
 digest: 1
 date: 2020-09-01
+summary: | 
+  In this article Pat Kua explores the differences between "Maker" (or "Individual Contributor") and "Multiplier" (or "Leader"). Pat shares a lot of interesting insights on these two "modes", and provides special attention and guidelines on how to transition from a "Maker" to a "Multiplier" (which is a rather common challenge for people becoming, for example, Tech Leads).
+insightweet: |
+  When you transition from Individual Contributor (IC), or "Maker", into a Leadership role ("Multiplier"), make it explicit that you cannot be a "full-time Maker" anymore. You focus is to be "multipler or makers". 
 ---
 
 #### [[Article](https://www.patkua.com/blog/maker-vs-multiplier)]

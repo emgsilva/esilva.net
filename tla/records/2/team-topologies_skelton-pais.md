@@ -2,10 +2,15 @@
 layout: post
 title:  Team Topologies, Matthew Skelton & Manuel Pais
 permalink: /tla_insights/team-topologies_skelton-pais
-categories: [tla, tla_sociotech]
+categories: [Team-Topologies]
+tla_area: [tla, tla_sociotech]
 id: team-topologies_skelton-pais
 digest: 2
 date: 2020-10-09
+summary: |
+  Insights on the book Team Topologies, a book that brings a lot of interesting new ideas on how to approach organization / team design and its "evolution" from a "team first strategy" and "team cognitive load" perspective. The book presents clear motivation for this strategy and then proposes 4 basic team topologies and 3 types of team interaction modes to approach such org design and evolution.
+insightweet: |
+  "To me, Team Topologies is becoming a reference book to help on the design and evolution of organizations and their sociotechnical architecture!" 
 ---
 
 #### [[Book](https://www.teamtopologies.com)]

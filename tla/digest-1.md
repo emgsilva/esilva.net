@@ -5,6 +5,7 @@ permalink: /tla_insights/digest-1
 categories: [tla_digest]
 redirect_from:
   - /tla_insights/record-1
+digest: 1
 ---
 
 Welcome to the digest #1 of my "Technical Leadership and Architecture insights" (or TLA_insights for short).
@@ -22,51 +23,93 @@ Welcome to the digest #1 of my "Technical Leadership and Architecture insights" 
 
 **How is this organized?** It is basically a collection of summaries & insights from resources I find interesting. I will be organizing these into sections, which represent areas I am really interested and actively developing/researching in the wider topic of Technical Leadership and Architecture. Currently these are the areas:
 
-- [Sociotechnical Architecture & Systems Design](#sociotech)
-- [Technical Leadership](#tech-leadership)
-- [Software {Architecture, Engineering & Tech}](#software)
-- [Personal Productivity](#productivity)
+- Sociotechnical Architecture & Systems Design
+- Technical Leadership
+- Software {Architecture, Engineering & Tech}
+- Personal Productivity
 
 I hope you have fun and find some interesting insights here. Don't hesitate to [contact](mailto:emgsilva@gmail.com) me if you have questions or want to chat about these topics.
 
+## <b>TLA_insights digest #{{page.digest}}</b>
+
  {% assign sorted_pages = site.pages %}
- {% assign sorted_pages = sorted_pages | where_exp: "item", "item.digest == 1" | sort:"date" %}
- {% assign sociotech_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_sociotech'" %}
- {% assign techleadership_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_tech-leadership'" %}
- {% assign software_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_software'" %}
- {% assign productivity_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_productivity'" %}
+ {% assign sorted_pages = sorted_pages | where_exp: "item", "item.digest == page.digest" | sort:"date" %}
+ {% assign sociotech_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla_sociotech'" %}
+ {% assign techleadership_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla_tech-leadership'" %}
+ {% assign software_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla_software'" %}
+ {% assign productivity_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla_productivity'" %}
 
-<a name="sociotech"></a>
-## Sociotechnical Architecture & Systems Design</h2>
-
+{% if sociotech_pages.size > 0 %}
 {% for page in sociotech_pages %}
-### <a href="{{ site.baseurl }}{{ page.url }}"> {{ page.title }} </a>
-{{page.content}}
+### ![light](/assets/light-bulb.png) {{page.title}}<br>
+<div style="background-color: #f3f5f2 ; padding: 10px; border: 0px">
+{{page.summary}} <span style="background-color: #c1c7c3">#{{page.categories}}</span>
+</div>
+
+> {{page.insightweet}}
+
+<details>
+  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a> </summary>
+  
+  {{page.content}}
+</details>
+<br>
 {% endfor %}
+{% endif %}
 
-<a name="tech-leadership"></a>
-## Technical Leadership
-
+{% if techleadership_pages.size > 0 %}
 {% for page in techleadership_pages %}
-### <a href="{{ site.baseurl }}{{ page.url }}"> {{ page.title }} </a>
-{{page.content}}
+### ![light](/assets/light-bulb.png) {{page.title}}<br>
+<div style="background-color: #f3f5f2 ; padding: 10px; border: 0px">
+{{page.summary}} <span style="background-color: #c1c7c3">#{{page.categories}}</span>
+</div>
+
+> {{page.insightweet}}
+
+<details>
+  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
+  
+  {{page.content}}
+</details>
+<br>
 {% endfor %}
+{% endif %}
 
-<a name="software"></a>
-## Software {Architecture, Engineering & Tech}
-
+{% if software_pages.size > 0 %}
 {% for page in software_pages %}
-### <a href="{{ site.baseurl }}{{ page.url }}"> {{ page.title }} </a>
-{{page.content}}
+### ![light](/assets/light-bulb.png) {{page.title}}<br>
+<div style="background-color: #f3f5f2 ; padding: 10px; border: 0px">
+{{page.summary}} <span style="background-color: #c1c7c3">#{{page.categories}}</span>
+</div>
+
+> {{page.insightweet}}
+
+<details>
+  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
+  
+  {{page.content}}
+</details>
+<br>
 {% endfor %}
+{% endif %}
 
-<a name="productivity"></a>
-## Personal Productivity
-
+{% if productivity_pages.size > 0 %}
 {% for page in productivity_pages %}
-### <a href="{{ site.baseurl }}{{ page.url }}"> {{ page.title }} </a>
-{{page.content}}
+### ![light](/assets/light-bulb.png) {{page.title}}<br>
+<div style="background-color: #f3f5f2 ; padding: 10px; border: 0px">
+{{page.summary}} <span style="background-color: #c1c7c3">#{{page.categories}}</span>
+</div>
+
+> {{page.insightweet}}
+
+<details>
+  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
+  
+  {{page.content}}
+</details>
+<br>
 {% endfor %}
+{% endif %}
 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
     method="post" target="popupwindow"

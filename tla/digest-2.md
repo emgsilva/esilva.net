@@ -3,6 +3,7 @@ layout: default
 title: TLA_insights digest \#2
 permalink: /tla_insights/digest-2
 categories: [tla_digest]
+digest: 2
 ---
 
 Welcome to the digest #2 of my "Technical Leadership and Architecture insights" (or TLA_insights for short).
@@ -25,57 +26,84 @@ On a personal note: September and October were very eventful in terms of develop
 
 I hope you have fun and find some interesting insights here. Don't hesitate to contact me via [email](mailto:emgsilva@gmail.com) or on [Twitter](https://twitter.com/emgsilva) me if you have questions or want to chat about these topics.
 
+## <b>TLA_insights digest #{{page.digest}}</b>
+
  {% assign sorted_pages = site.pages %}
- {% assign sorted_pages = sorted_pages | where_exp: "item", "item.digest == 2" | sort:"date" %}
- {% assign sociotech_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_sociotech'" %}
- {% assign techleadership_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_tech-leadership'" %}
- {% assign software_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_software'" %}
- {% assign productivity_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_productivity'" %}
-
-**TLA_insights digest #2:**
-
-{% if sociotech_pages.size > 0 %} - [Sociotechnical Architecture & Systems Design](#sociotech) {% endif %}
-{% if techleadership_pages.size > 0 %} - [Technical Leadership](#tech-leadership) {% endif %}
-{% if software_pages.size > 0 %} - [Software {Architecture, Engineering & Tech}](#software) {% endif %}
-{% if productivity_pages.size > 0 %} - [Personal Productivity](#productivity) {% endif %}
+ {% assign sorted_pages = sorted_pages | where_exp: "item", "item.digest == page.digest" | sort:"date" %}
+ {% assign sociotech_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla_sociotech'" %}
+ {% assign techleadership_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla_tech-leadership'" %}
+ {% assign software_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla_software'" %}
+ {% assign productivity_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla_productivity'" %}
 
 {% if sociotech_pages.size > 0 %}
-<a name="sociotech"></a>
-## Sociotechnical Architecture & Systems Design</h2>
-
 {% for page in sociotech_pages %}
-### <a href="{{ site.baseurl }}{{ page.url }}"> {{ page.title }} </a>
-{{page.content}}
+### ![light](/assets/light-bulb.png) {{page.title}}<br>
+<div style="background-color: #f3f5f2 ; padding: 10px; border: 0px">
+{{page.summary}} <span style="background-color: #c1c7c3">#{{page.categories}}</span>
+</div>
+
+> {{page.insightweet}}
+
+<details>
+  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
+  
+  {{page.content}}
+</details>
+<br>
 {% endfor %}
 {% endif %}
 
 {% if techleadership_pages.size > 0 %}
-<a name="tech-leadership"></a>
-## Technical Leadership
-
 {% for page in techleadership_pages %}
-### <a href="{{ site.baseurl }}{{ page.url }}"> {{ page.title }} </a>
-{{page.content}}
+### ![light](/assets/light-bulb.png) {{page.title}}<br>
+<div style="background-color: #f3f5f2 ; padding: 10px; border: 0px">
+{{page.summary}} <span style="background-color: #c1c7c3">#{{page.categories}}</span>
+</div>
+
+> {{page.insightweet}}
+
+<details>
+  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>  
+
+  {{page.content}}
+</details>
+<br>
 {% endfor %}
 {% endif %}
 
 {% if software_pages.size > 0 %}
-<a name="software"></a>
-## Software {Architecture, Engineering & Tech}
-
 {% for page in software_pages %}
-### <a href="{{ site.baseurl }}{{ page.url }}"> {{ page.title }} </a>
-{{page.content}}
+### ![light](/assets/light-bulb.png) {{page.title}}<br>
+<div style="background-color: #f3f5f2 ; padding: 10px; border: 0px">
+{{page.summary}} <span style="background-color: #c1c7c3">#{{page.categories}}</span>
+</div>
+
+> {{page.insightweet}}
+
+<details>
+  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
+  
+  {{page.content}}
+</details>
+<br>
 {% endfor %}
 {% endif %}
 
 {% if productivity_pages.size > 0 %}
-<a name="productivity"></a>
-## Personal Productivity
-
 {% for page in productivity_pages %}
-### <a href="{{ site.baseurl }}{{ page.url }}"> {{ page.title }} </a>
-{{page.content}}
+### ![light](/assets/light-bulb.png) {{page.title}}<br>
+<div style="background-color: #f3f5f2 ; padding: 10px; border: 0px">
+{{page.summary}} <span style="background-color: #c1c7c3">#{{page.categories}}</span>
+</div>
+
+> {{page.insightweet}}
+
+<details>
+  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
+  
+  {{page.content}}
+</details>
+<br>
 {% endfor %}
 {% endif %}
 

@@ -2,10 +2,15 @@
 layout: post
 title:  First Principles, The Power of Thinking for Yourself, James Clear
 permalink: /tla_insights/first-principles_clear
-categories: [tla, tla_tech-leadership]
+categories: [Strategy]
+tla_area: [tla, tla_tech-leadership]
 id: first-principles_clear 
 digest: 1
 date: 2020-09-02
+summary: | 
+  This article gives a nice intro to what First Principles thinking is. In a nutshell First Principles thinking is about breaking things/problems down to the atomic pieces/knowledge/truths and from there build up strategies that use those atomic elements so we can best address our particular problem.
+insightweet: |
+  Focus on understanding your problems (e.g.: organization situation), its challenges and "DNA" and from there build up strategies to address your particular problems and reach your own goals, from your own atomic elements.
 ---
 
 #### [[Article](https://jamesclear.com/first-principles)]

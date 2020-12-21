@@ -36,22 +36,22 @@ If you found this issue interesting or useful make sure to [subscribe to the new
 
  {% assign sorted_pages = site.pages %}
  {% assign sorted_pages = sorted_pages | where_exp: "item", "item.digest == 3" | sort:"date" %}
- {% assign sociotech_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_sociotech'" %}
- {% assign techleadership_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_tech-leadership'" %}
- {% assign software_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_software'" %}
- {% assign productivity_pages = sorted_pages | where_exp: "item", "item.categories contains 'tla_productivity'" %}
+ {% assign sociotech_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla_sociotech'" %}
+ {% assign techleadership_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla_tech-leadership'" %}
+ {% assign software_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla_software'" %}
+ {% assign productivity_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla_productivity'" %}
 
 {% if sociotech_pages.size > 0 %}
 {% for page in sociotech_pages %}
 ### ![light](/assets/light-bulb.png) {{page.title}}<br>
 <div style="background-color: #f3f5f2 ; padding: 10px; border: 0px">
-{{page.summary}}
+{{page.summary}} <span style="background-color: #c1c7c3">#{{page.categories}}</span>
 </div>
 
 > {{page.insightweet}}
 
 <details>
-  <summary>record</summary>
+  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
   
   {{page.content}}
 </details>
@@ -63,13 +63,13 @@ If you found this issue interesting or useful make sure to [subscribe to the new
 {% for page in techleadership_pages %}
 ### ![light](/assets/light-bulb.png) {{page.title}}<br>
 <div style="background-color: #f3f5f2 ; padding: 10px; border: 0px">
-{{page.summary}}
+{{page.summary}}  <span style="background-color: #c1c7c3">#{{page.categories}}</span>
 </div>
 
 > {{page.insightweet}}
 
 <details>
-  <summary>record</summary>
+  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
   
   {{page.content}}
 </details>
@@ -81,13 +81,13 @@ If you found this issue interesting or useful make sure to [subscribe to the new
 {% for page in software_pages %}
 ### ![light](/assets/light-bulb.png) {{page.title}}<br>
 <div style="background-color: #f3f5f2 ; padding: 10px; border: 0px">
-{{page.summary}}
+{{page.summary}} <span style="background-color: #c1c7c3">#{{page.categories}}</span>
 </div>
 
 > {{page.insightweet}}
 
 <details>
-  <summary>record</summary>
+  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
   
   {{page.content}}
 </details>
@@ -99,16 +99,24 @@ If you found this issue interesting or useful make sure to [subscribe to the new
 {% for page in productivity_pages %}
 ### ![light](/assets/light-bulb.png) {{page.title}}<br>
 <div style="background-color: #f3f5f2 ; padding: 10px; border: 0px">
-{{page.summary}}
+{{page.summary}} <span style="background-color: #c1c7c3">#{{page.categories}}</span>
 </div>
 
 > {{page.insightweet}}
 
 <details>
-  <summary>record</summary>
+  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
   
   {{page.content}}
 </details>
 <br>
 {% endfor %}
 {% endif %}
+
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
+    method="post" target="popupwindow"
+    onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+    <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
+    <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
+      name="embed" /><input type="submit" value="Subscribe" />
+</form>
