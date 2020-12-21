@@ -43,7 +43,7 @@ I hope you have fun and find some interesting insights here. Don't hesitate to [
 {% for page in sociotech_pages %}
 ### ![light](/assets/light-bulb.png) {{page.title}}<br>
 <div style="background-color: #f3f5f2 ; padding: 10px; border: 0px">
-{{page.summary}} <span style="background-color: #c1c7c3">#{{page.categories}}</span>
+{{page.summary}} <span class="post-meta" > 🏷{{page.categories}}</span>
 </div>
 
 > {{page.insightweet}}
@@ -61,7 +61,7 @@ I hope you have fun and find some interesting insights here. Don't hesitate to [
 {% for page in techleadership_pages %}
 ### ![light](/assets/light-bulb.png) {{page.title}}<br>
 <div style="background-color: #f3f5f2 ; padding: 10px; border: 0px">
-{{page.summary}} <span style="background-color: #c1c7c3">#{{page.categories}}</span>
+{{page.summary}} <span class="post-meta" > 🏷{{page.categories}}</span>
 </div>
 
 > {{page.insightweet}}
@@ -79,7 +79,7 @@ I hope you have fun and find some interesting insights here. Don't hesitate to [
 {% for page in software_pages %}
 ### ![light](/assets/light-bulb.png) {{page.title}}<br>
 <div style="background-color: #f3f5f2 ; padding: 10px; border: 0px">
-{{page.summary}} <span style="background-color: #c1c7c3">#{{page.categories}}</span>
+{{page.summary}} <span class="post-meta" > 🏷{{page.categories}}</span>
 </div>
 
 > {{page.insightweet}}
@@ -97,7 +97,7 @@ I hope you have fun and find some interesting insights here. Don't hesitate to [
 {% for page in productivity_pages %}
 ### ![light](/assets/light-bulb.png) {{page.title}}<br>
 <div style="background-color: #f3f5f2 ; padding: 10px; border: 0px">
-{{page.summary}} <span style="background-color: #c1c7c3">#{{page.categories}}</span>
+{{page.summary}} <span class="post-meta" > 🏷{{page.categories}}</span>
 </div>
 
 > {{page.insightweet}}
