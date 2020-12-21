@@ -7,7 +7,7 @@ id: tech-strategy-why-what_tune
 digest: 3
 date: 2020-11-22
 summary: | 
-  Great article by Nick Tune that touches the "Why" ("the need") of Tech Strategy within (tech) organizations and "What" exactly that can look like to enable the desired effect - technical alignment and velocity.
+  Great article by Nick Tune that touches on the "Why" ("the need") of Tech Strategy within (tech) organizations and "What" exactly that can look like to enable the desired effect - technical alignment and velocity.
 insightweet: |
   Tech Strategy, why you need it and what it can look like (in the form of a multi-level approach: enterprise > departments > products).
 ---
