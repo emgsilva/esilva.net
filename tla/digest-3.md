@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TLA_insights digest \#3
+title: TLA_insights digest \#3 - Tech Vision and Strategy
 permalink: /tla_insights/digest-3
 categories: [tla_digest]
 digest: 3
