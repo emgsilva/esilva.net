@@ -1,8 +1,10 @@
 ---
 layout: default
-title: TLA_insights digest \#2
+title: "TLA_insights digest #2"
+date: 2020-11-01
 permalink: /tla_insights/digest-2
 categories: [tla_digest]
+tla_area: [tla]
 digest: 2
 ---
 

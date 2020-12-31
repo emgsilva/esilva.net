@@ -1,8 +1,11 @@
 ---
-layout: default
-title: TLA_insights digest \#3 - Tech Vision and Strategy
+# layout: default
+layout: post
+title: "TLA_insights digest #3 - Tech Vision and Strategy"
+date: 2020-12-21
 permalink: /tla_insights/digest-3
 categories: [tla_digest]
+tla_area: [tla]
 digest: 3
 ---
 
