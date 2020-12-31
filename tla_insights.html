@@ -24,7 +24,7 @@ categories: [tla_insights]
   <br>
 
   <b>Navigation</b><br>
-  <a href="#records-per-area">Records per Area</a><br>
+  <a href="#areas">TLA_insights Areas</a><br>
   &nbsp;&nbsp;&nbsp;- <a href="#sociotech-arch"> Sociotechnical Architecture & Systems Design</a><br>
   &nbsp;&nbsp;&nbsp;- <a href="#tech-leadership"> Technical Leadership</a><br>
   &nbsp;&nbsp;&nbsp;- <a href="#software"> Software {Architecture, Engineering & Tech}</a><br>
@@ -33,8 +33,8 @@ categories: [tla_insights]
 
   <br><br>
 
-  <a name="records-per-area"></a>
-  <h1>Records per Areas</h1>
+  <a name="areas"></a>
+  <h1>TLA_insights Areas</h1>
 
   {% assign sorted_pages = site.pages %}
   {% assign sorted_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla'" | sort:"date" %}
