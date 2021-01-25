@@ -28,6 +28,7 @@ categories: [tla_insights]
   &nbsp;&nbsp;&nbsp;- <a href="#sociotech-arch"> Sociotechnical Architecture & Systems Design</a><br>
   &nbsp;&nbsp;&nbsp;- <a href="#tech-leadership"> Technical Leadership</a><br>
   &nbsp;&nbsp;&nbsp;- <a href="#software"> Software {Architecture, Engineering & Tech}</a><br>
+  &nbsp;&nbsp;&nbsp;- <a href="#product"> Product {Thinking, Management & Organization}</a><br>
   &nbsp;&nbsp;&nbsp;- <a href="#productivity"> Personal Productivity</a><br>
   <a href="#monthly-digest">Monthly Digest</a>
 
@@ -42,6 +43,7 @@ categories: [tla_insights]
   {% assign techleadership_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla_tech-leadership'" |
   reverse %}
   {% assign software_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla_software'" | reverse %}
+  {% assign product_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla_product'" | reverse %}
   {% assign productivity_pages = sorted_pages | where_exp: "item", "item.tla_area contains 'tla_productivity'" |
   reverse %}
 
@@ -79,6 +81,21 @@ categories: [tla_insights]
   <h2>Software {Architecture, Engineering & Tech}</h2>
 
   {% for page in software_pages reverse %}
+  <li>
+    {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+    <span class="post-meta">{{ page.date | date: date_format }}</span>
+    <a href="{{ page.url | relative_url }}">
+      {{ page.title | escape }}
+    </a>
+    <span class="post-meta" > 🏷{{page.categories}}</span>
+  </li>
+  {% endfor %}  
+ 
+  <br>
+  <a name="product"></a>
+  <h2>Product {Thinking, Management & Organization}</h2>
+
+  {% for page in product_pages reverse %}
   <li>
     {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
     <span class="post-meta">{{ page.date | date: date_format }}</span>
