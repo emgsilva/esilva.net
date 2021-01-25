@@ -26,7 +26,7 @@ The insights and notes of this record are inspired and driven by an article from
 Naren shows a very interesting visualization to describe the entities at play on the equation of a creating a Product: Users (who *define the "need" → the problem space*) **, Business (*who define the "vision/strategies" to drive product development  → solution space*) and Technology (*the medium that connects Users and Business and delivers the product*).
 
 <div align="center"><img src="/assets/product-thinking-elements.png" alt="Product Thinking elements" width="850"/>
-<sub>(Image Credits: Naren Katakam, narenkatakam.com)</sub></div>
+<sub>(Image Credits: Naren Katakam, narenkatakam.com)</sub>
 </div><br>
 
 In a nutshell: "Product thinking is the journey from the problem space of the users to the solution space of the business. The goal of this journey is to reduce the gap between users and the business."
@@ -72,6 +72,10 @@ The author argues that in order to cultivate product thinking we must develop sy
 - [Product-Thinking-101] [https://uxplanet.org/product-thinking-101-1d71a0784f60](https://uxplanet.org/product-thinking-101-1d71a0784f60), 2020, Naren Katakam <a name="product-thinking-101"></a>
 - [Lean-Startup] [http://theleanstartup.com](http://theleanstartup.com), Eric Ries <a name="lean-startup"></a>
 - [Cynefin] [https://en.wikipedia.org/wiki/Cynefin_framework](https://en.wikipedia.org/wiki/Cynefin_framework); [The Cynefin Framework (Video)](https://www.youtube.com/watch?v=N7oz366X0-8), Dave Snowden <a name="cynefin"></a>
+
+**InsighTweet**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: Product thinking is about start/focus on the customer (&amp; &quot;problem space&quot;), understand it and from that create &quot;testable hypothesis&quot; to drive/validate the building of the product (in &quot;solution space&quot;)<br><br>Refs: <a href="https://twitter.com/narenkatakam?ref_src=twsrc%5Etfw">@narenkatakam</a><br><br>+details ⤵️<a href="https://t.co/ChxKlPHIdZ">https://t.co/ChxKlPHIdZ</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1353582633779945473?ref_src=twsrc%5Etfw">January 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
 
