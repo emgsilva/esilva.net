@@ -14,4 +14,4 @@ This was a nice conversation on the bol.com's [TechLab Podcast](https://techlab.
 
 I have also shared some insights about how I have been using many aspects from August Bradley's [PPV (Pilars-Pipelines-Vaults)](https://esilva.net/tla_insights/ppv_bradley) to set up my own personal productivity system (PPS).
 
-Check the whole podcast here: [https://techlab.bol.com/shifting-gears-to-maximize-your-personal-productivity](https://techlab.bol.com/shifting-gears-to-maximize-your-personal-productivity/)
+Check the whole podcast here: [https://techlab.bol.com/shifting-gears-to-maximize-your-personal-productivity](https://techlab.bol.com/shifting-gears-to-maximize-your-personal-productivity)
