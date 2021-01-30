@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Podcast Interview: Sociotechnical Architecture"
-categories: [productivity]
+categories: [sociotechnical]
 ---
 
 Interesting conversation on bol.com's TechLab podcast on "Sociotechnical Architecture", which *is about taking an holistic co-design approach to technical and organizational systems, given the inherent impact they have on each other.*
