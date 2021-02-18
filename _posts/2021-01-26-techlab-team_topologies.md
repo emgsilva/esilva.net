@@ -2,6 +2,7 @@
 layout: post
 title:  "Podcast Interview: Team Topologies"
 categories: [org design]
+post_id: "test"
 ---
 
 Another conversation on bol.com's TechLab podcast on the book [Team Topologies](https://esilva.net/articles/review-team_topologies).
