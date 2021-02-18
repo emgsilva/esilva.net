@@ -30,7 +30,7 @@ insightweet: |
 
 **InsighTweet**
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Prepping my (long overdue) review of the book &quot;Escaping the Build Trap&quot;. Spoiler Alert: it became my reference to the different elements of Product Thinking and Management. Thank you <a href="https://twitter.com/lissijean?ref_src=twsrc%5Etfw">@lissijean</a> for this great book and all the insights I got from it! 1/n</p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1319975560945324032?ref_src=twsrc%5Etfw">October 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: From outputs to outcomes; from shipping (large #&#39;s of) features to discover (&quot;Why&quot;) the ways (&quot;What&quot;) maximizes the value exchange with the customer, by enabling product teams to continuously do that.<br><br>References: <a href="https://twitter.com/lissijean?ref_src=twsrc%5Etfw">@lissijean</a><br><br>+details ⤵️<a href="https://t.co/rsN9OHs10F">https://t.co/rsN9OHs10F</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1362507145464406016?ref_src=twsrc%5Etfw">February 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
 
