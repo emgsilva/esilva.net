@@ -44,10 +44,9 @@ He finishes the talk with several amazing remarks, namely:
 - [System-Thinking-Ackoff] [On Systems Thinking - Video Presentation](https://www.youtube.com/watch?v=OqEeIG8aPPk), 1994, Russel Ackoff <a name="systems-thinking-ackoff"></a>
 - [Sociotechnical-Silva] [Sociotechnical Architecure & Systems](https://esilva.net/sociotechnical), Eduardo da Sivla <a name="sociotechnical-silva"></a>
 
-
 **InsighTweet**
 
-...
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: Systems thinking enables designing &quot;what we want&quot; instead of &quot;what we don&#39;t want&quot; in a given part. This is key as a system is not the sum of the behaviors of its parts, but the product of its interactions.<br><br>References: Ackoff<br><br>+details ⤵️<a href="https://t.co/qSUelsFvvS">https://t.co/qSUelsFvvS</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1367483281252433920?ref_src=twsrc%5Etfw">March 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
 
