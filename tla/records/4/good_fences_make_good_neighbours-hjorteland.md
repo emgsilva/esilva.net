@@ -40,13 +40,13 @@ Every architect dreams of systems with fully decoupled parts. However, this is r
 ## References
 
 - [Good-Fences-Hjorteland] [Good Fences Make Good Neighbours](https://www.linkedin.com/pulse/good-fences-make-neighbours-trond-hjorteland/), 2021, Trond Hjorteland<a name="good-fences-hjorteland"></a>
-- [Sociotechnical-Silva] [Sociotechnical Architecure & Systems](https://esilva.net/sociotechnical), Eduardo da Sivla <a name="sociotechnical-silva"></a>
+- [Sociotechnical-Silva] [Sociotechnical Architecure & Systems](https://esilva.net/sociotechnical), Eduardo da Silva <a name="sociotechnical-silva"></a>
 - [Articles-Hjorteland] [Articles Trond Hjorteland](https://www.linkedin.com/in/trondhjort/detail/recent-activity/posts), Trond Hjorteland<a name="articles-hjorteland"></a>
-- [Team-Topologies] [Team Topologies TLA_insights](https://esilva.net/tla_insights/team-topologies_skelton-pais), Eduardo da Sivla <a name="team-topologies-tla"></a>
+- [Team-Topologies] [Team Topologies TLA_insights](https://esilva.net/tla_insights/team-topologies_skelton-pais), Eduardo da Silva <a name="team-topologies-tla"></a>
 
 **InsighTweet**
 
-...
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: &quot;An harmonious sociotechnical system where the whole is greater than the sum of its parts cannot be reached without some holistic design&quot;... we need good fences to make good neighbors.<br><br>References: <a href="https://twitter.com/trondhjort?ref_src=twsrc%5Etfw">@trondhjort</a><br><br>+details ⤵️<a href="https://t.co/RYqQh4fSDc">https://t.co/RYqQh4fSDc</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1368957494362599426?ref_src=twsrc%5Etfw">March 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
 

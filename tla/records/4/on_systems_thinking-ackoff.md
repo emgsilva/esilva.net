@@ -42,7 +42,7 @@ He finishes the talk with several amazing remarks, namely:
 ## References
 
 - [System-Thinking-Ackoff] [On Systems Thinking - Video Presentation](https://www.youtube.com/watch?v=OqEeIG8aPPk), 1994, Russel Ackoff <a name="systems-thinking-ackoff"></a>
-- [Sociotechnical-Silva] [Sociotechnical Architecure & Systems](https://esilva.net/sociotechnical), Eduardo da Sivla <a name="sociotechnical-silva"></a>
+- [Sociotechnical-Silva] [Sociotechnical Architecure & Systems](https://esilva.net/sociotechnical), Eduardo da Silva <a name="sociotechnical-silva"></a>
 
 **InsighTweet**
 
