@@ -1,0 +1,59 @@
+---
+layout: post
+title: Good Fences Make Good Neighbours, Trond Hjorteland
+permalink: /tla_insights/good_fences_make_good_neighbours-hjorteland
+categories: [Systems-Thinking]
+tla_area: [tla, tla_sociotech]
+id: good_fences_make_good_neighbours-hjorteland
+digest: 4
+date: 2021-03-08
+summary: |
+  Review of article by Trond Hjorteland on the importance of defining the appropriate teams and technical systems boundaries. This can only be achieved by having an holistic approach to what we want to accomplish on the system that "contains" the parts (i.e.: systems thinking approach). Failing to do so will lead to local optimizations and not having "good neighbors" (and as such not optimizing the effectiness of the systems).
+insightweet: |
+  An harmonious sociotechnical system where the whole is greater than the sum of its parts cannot be reached without some holistic design. Random and uncontrolled emergence will not necessarily give that desired result on its own because the old machine model where the system is deterministically defined by its part does not suffice. (Trond Hjorteland)
+---
+
+> ![light](/assets/light-bulb.png) **My Insights:** inspiring article by Trond Hjorteland on the importance of well crafted "boundaries" between the different parts of our organizations sociotechnical systems. This is something that we all know and do: breaking down our organizations into "parts": can be teams, tribes, etc. However, those exercises are not always driven by elements that enable the overall performance and "harmony" of the system to be maximized. Common reasons for this are: "legacy" ("we always had these departments"); local optimizations (break this team in two to solve the problem, but keep technical systems that should never be owned by these teams); etc. Trond shares several interesting insights on the need to have a more holistic approach on setting up the good boundaries for the parts of our system, given that "a systems depends more on how its parts interact than on how they act separately".
+
+(Subscribe <a href="https://tinyletter.com/tla_insights" target="_blank">here</a> or <a href="https://twitter.com/emgsilva">follow me on Twitter</a> to get notified about new TLA_insights)
+
+## Analysis & Summary
+
+The insights and notes of this record are inspired and driven by an article by Trond Hjorteland [<a href="#good-fences-hjorteland">Good-Fences-Hjorteland</a>] on the importance of creating the right boundaries for the social and technical parts of our organizations. Trond has been a great source of references and insights over the past year on my sociotechnical & systems thinking exploration journey [<a href="#sociotechnical-silva">Sociotechnical-Silva</a>], so am really happy to finally write a TLA_insights entry on one of his articles. This article belongs to a great series of articles [<a href="#articles-hjorteland">Articles-Hjorteland</a>] - mostly covering the sociotechnical and systems thinking ideas and how to use those to improve how level setting up the (sociotechnical) systems to build software products.
+
+He starts the article by mentioning "why we need boundaries" in our software designs and teams. He rightly points that in many organizations we "break the domains" into technical parts for many different reasons without paying too much attention how these contribute to the properties of the overall (sociotechnical) system. A common issue of such naive boundary definition is the creation of strong technical coupling between teams. This leads to teams "dragging" each other, creating a rather dysfunctional situation. To avoid such situations we must embrace that we are dealing with highly complex sociotechnical systems and as such we must design our teams and architecture from an holistic perspective. Namely: understand what we want from the overall system and from there understand what are boundaries (and contributions) that enable to achieve the whole (this is where synthetic thinking comes into place).
+
+Trond uses a great example to showcase the need for rightly defined boundaries: "stone fences". These are low height stone constructions that can be found in many rural areas in Norway (btw: also where I grew up in the rural north of Portugal - and funny enough for the same purposes). These serve many purposes, example: defining the limits of the different neighboring farms, keeping the lifestock in place, etc. They are carefully crafted to resits the elements, however they are meant to still allow people and wildlife to move around and go on with their lives (e.g.: be able to jump the fence to help or talk with the neighbor if necessary). "They were not designed to be walls" (as in barriers that impede interactions).
+
+This centuries old philosophy of designing stone fences can be a great source of inspiration to identify and design the boundaries of our software (socio-technical) systems: we should build them with care and intention to serve the overall system around them, e.g.: enable the people & activities around them to be efficient.
+
+"Well designed modularity should make good neighbors". This is so true: if rightly modularized we can better cope with complexity (e.g.: reduce cognitive load required to work on a certain part - instead of having to understand the whole all the time). This also enables a more decoupled evolution of the system parts. As Trond rightfully mentions: such a modularization happens whether we design it or not. Any complex system will evolve into fragmenting itself into parts. So, the important point here is to be explicit and aware of this and take that into consideration when designing on our sociotechnical system: "We must place the borders so that we not only get an efficient and effective system, but also a harmonious one; where the interaction and collaboration enhance the system, not harms it." We can only do this if we approach our design by considering the sociotechnical system as a whole and, as Trond mentioned, "jointly optimize it".
+
+> **Notes:** I find very interesting parallels between "defining the fences" and Team Topologies [<a href="#team-topologies-tla">Team-Topologies</a>] "collaboration" interaction mode. In a nutshell "collaboration" can be used as a way to discover and shape where exactly we should set the "fences" (or boundaries). In general we have some ideas where, but having the "neighbors" working together and observing what makes the best location for the fence can be a very effective way to get the right modularization in place. This is like having two neighboring farmers with a challenging terrain together finding ways to set the fences so their lifestock can safely stay in their farms. They collaborate while doing that, but once they set the fences, they will go on with their own activities on their own farms. This is in general the evolution of the interaction, which in Team Topologies would be to have a clear API between the parts.
+
+Every architect dreams of systems with fully decoupled parts. However, this is rarely possible: systems are made of parts and in fact the interactions between those parts is what forms (and defines the core properties of) the system. As Ackoff so beautifully said: "a system depends more on how its parts interact than on how they act when taken separately". What does this mean? We must embrace the interdependencies and create the most appropriate "fences" we can, so a team can own its own part and minimize coordination with other teams, etc. If we purely focus on "completely independent" parts, we will never achieve maximum effectiveness of our overall system (in general organization and its products). Last but not the least, we should not forget that these parts of the system should be set up in order to improve the properties of the system as a whole (as in systems thinking).
+
+> **Notes:** the embracing of systems thinking on setting up team boundaries is key on modern organizations, especially product-led organizations. The language we use to describe and define sociotechnical architectures on product-led organizations is still "fuzzy" (Nick Tune has started a great discussion to start addressing this here -  [<a href="#sociotechnical-tune">Sociotechnical-Silva</a>]). My current mental model of this is: a team belongs to a product - being customer facing or internal facing product. That product is the "system" we want to understand and then optimize for at the perspective of a team (i.e.: this is the involving system, where the part - "team & its tech systems" - belongs to). In general this product has multiple teams, and as such this is where Trond's "defining good fences" comes in: this means well defined fences, but I think other elements will also help - I have been looking at how can we have proper co-leadership (product + people + technical) among the different teams in a product, how to evolve these, etc.. This (and how to scale this to the full product-led org) is a WIP topic on my thinking and writings, so more entries are coming on this topic.
+
+"...well-functioning and harmonious sociotechnical system where the whole is greater than the sum of its parts cannot be reached without some holistic design. Random and uncontrolled emergence will not necessarily give that desired result on its own because the old machine model where the system is deterministically defined by its part does not suffice." This is why a systems approach is so relevant when approaching setting up our teams and technical architecture (i.e.: sociotechnical architecture). This emphasizes the design from an holistic view, which provides direction to all the teams (to align and have a common north star). However, at the same time having a continuous bottom-up learning and teams being as independent as possible and enabling this combination to drive the evolution of the organization. This is very important as the organization is always changing, i.e.: we must forget about fixed org structures, as those will never allow us to keep and improve the overall properties we want for our system (organization).
+
+## References
+
+- [Good-Fences-Hjorteland] [Good Fences Make Good Neighbours](https://www.linkedin.com/pulse/good-fences-make-neighbours-trond-hjorteland/), 2021, Trond Hjorteland<a name="good-fences-hjorteland"></a>
+- [Sociotechnical-Silva] [Sociotechnical Architecure & Systems](https://esilva.net/sociotechnical), Eduardo da Sivla <a name="sociotechnical-silva"></a>
+- [Articles-Hjorteland] [Articles Trond Hjorteland](https://www.linkedin.com/in/trondhjort/detail/recent-activity/posts), Trond Hjorteland<a name="articles-hjorteland"></a>
+- [Team-Topologies] [Team Topologies TLA_insights](https://esilva.net/tla_insights/team-topologies_skelton-pais), Eduardo da Sivla <a name="team-topologies-tla"></a>
+
+**InsighTweet**
+
+...
+
+<br>
+
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
+  method="post" target="popupwindow"
+  onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+  <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
+  <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
+    name="embed" /><input type="submit" value="Subscribe" />
+</form>
