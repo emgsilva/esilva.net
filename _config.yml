@@ -25,6 +25,7 @@ header_pages:
   - about.html
   - articles.html 
   - tla_insights.html
+  - projects/sociotechnical-architecture/sociotechnical-architecture.html
   - projects.html
   - talks.html
 
