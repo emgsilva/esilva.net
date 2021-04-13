@@ -13,12 +13,12 @@ categories: [tla_insights]
   <img src="/assets/tla_insights.png" height="150px" align="left" hspace="10px">
 
   <p>TLA_insights is my record of curated insights (and notes) on resources I find interesting and relevant on the
-    topics of "Technical Leadership and Architecture" (TLA for short). I publish new "records" regularly in this
-    page and share a digest of new records at the end of each month. You can see this as a sort of hybrid between
-    an archive of curated insights records and a newsletter. I hope you find it interesting, if so you can sign-up to be
-    notified <a href="https://tinyletter.com/tla_insights" target="_blank">here</a>. If you have question
-    or suggestions, don't hesitate on contacting me via <a href="mailto:emgsilva@gmail.com">email</a> or on
-    <a href="https://twitter.com/emgsilva">Twitter</a>.
+    topics of "Technical Leadership and Architecture" (TLA for short). I publish new "records" regularly in this page
+    and regularly share a digest of new records (try to do it monthly). You can see this as an hybrid between an archive
+    of curated insights records and a newsletter. I hope you find it interesting, if so you can sign-up to be notified
+    <a href="https://tinyletter.com/tla_insights" target="_blank">here</a>. If you have question or suggestions, don't
+    hesitate on contacting me via <a href="mailto:emgsilva@gmail.com">email</a> or on <a
+      href="https://twitter.com/emgsilva">Twitter</a>.
   </p>
 
   <br>
@@ -30,7 +30,7 @@ categories: [tla_insights]
   &nbsp;&nbsp;&nbsp;- <a href="#software"> Software {Architecture, Engineering & Tech}</a><br>
   &nbsp;&nbsp;&nbsp;- <a href="#product"> Product {Thinking, Management & Organization}</a><br>
   &nbsp;&nbsp;&nbsp;- <a href="#productivity"> Personal Productivity</a><br>
-  <a href="#monthly-digest">Monthly Digest</a>
+  <a href="#digests">Digests</a>
 
   <br><br>
 
@@ -57,7 +57,7 @@ categories: [tla_insights]
     <a href="{{ page.url | relative_url }}">
       {{ page.title | escape }}
     </a>
-    <span class="post-meta" > 🏷{{page.categories}}</span>
+    <span class="post-meta"> 🏷{{page.categories}}</span>
   </li>
   {% endfor %}
 
@@ -72,7 +72,7 @@ categories: [tla_insights]
     <a href="{{ page.url | relative_url }}">
       {{ page.title | escape }}
     </a>
-    <span class="post-meta" > 🏷{{page.categories}}</span>
+    <span class="post-meta"> 🏷{{page.categories}}</span>
   </li>
   {% endfor %}
 
@@ -87,10 +87,10 @@ categories: [tla_insights]
     <a href="{{ page.url | relative_url }}">
       {{ page.title | escape }}
     </a>
-    <span class="post-meta" > 🏷{{page.categories}}</span>
+    <span class="post-meta"> 🏷{{page.categories}}</span>
   </li>
-  {% endfor %}  
- 
+  {% endfor %}
+
   <br>
   <a name="product"></a>
   <h2>Product {Thinking, Management & Organization}</h2>
@@ -102,7 +102,7 @@ categories: [tla_insights]
     <a href="{{ page.url | relative_url }}">
       {{ page.title | escape }}
     </a>
-    <span class="post-meta" > 🏷{{page.categories}}</span>
+    <span class="post-meta"> 🏷{{page.categories}}</span>
   </li>
   {% endfor %}
 
@@ -117,17 +117,32 @@ categories: [tla_insights]
     <a href="{{ page.url | relative_url }}">
       {{ page.title | escape }}
     </a>
-    <span class="post-meta" > 🏷{{page.categories}}</span>
+    <span class="post-meta"> 🏷{{page.categories}}</span>
   </li>
   {% endfor %}
 
   <br>
 
-  <a name="monthly-digest"></a>
-  <h1>Monthly Digest</h1>
+  <a name="digests"></a>
+  <h1>Digests</h1>
 
   <details>
-    <summary><b>TLA_insights digest 3 [Nov./Dec. 2020] - Tech Vision and Strategy</b></summary>
+    <summary><b>TLA_insights digest 4 [March 2021] - System Thinking & Product Thinking</b></summary>
+    <p>
+      This issue contains four entries packed of great insights: two on product thinking and two on systems thinking. On
+      systems thinking I have a 15 minute video with probably one of my favorite "intro to systems thinking". The
+      author is Russel Ackoff, who has been a leading thinker on this topic. The other systems thinking entry is by Trond
+      Hjorteland, who is very active on trying to leverage system thinking principles to improve how we approach software
+      development (namely have a sociotechnical approach to this). He has a great series of articles on this topic,
+      highly recommended. The entries on product thinking are by Melissa Perri, namely key insights from her reference book
+      "Escaping the Build Trap" (which I consider a must read for people looking at understanding modern product thinking).
+      The other entry is from Naren Katakam who gives a 101 on Product Thinking (highly recommended reference to
+      understand the very basics of product thinking in a simple and very visual manner). Check this issue here: <a
+        href="digest-4">TLA_insights digest 4</a>
+    </p>
+  </details>
+  <details>
+    <summary><b>TLA_insights digest 3 [Dec. 2020] - Tech Vision and Strategy</b></summary>
     <p>
       Special "aggregate" issue on the topic of "Tech Vision and Strategy". I share several interesting insights based
       on references from Nick Tune (on "Why" you need Tech Vision and Strategy and "What" it can look like); Sarah
@@ -144,7 +159,7 @@ categories: [tla_insights]
     <summary><b>TLA_insights digest 2 [Oct. 2020]</b></summary>
     <p>
       In this issue I share several interesting insights based on references from Matthew Skelton and Manuel Pais (main
-      insights on their book @TeamTopologies and another one on a great podcast interview on the topic of "modern
+      insights on their book Team Topologies and another one on a great podcast interview on the topic of "modern
       architecture" and especially the traits of "modern architect); and from Patrick Kua (on the secrets and strategies
       to build Strong Engineering Culture, where Patrick shares - as usual - amazing insights on how develop structural
       systems to support the continuous development of great engineering cultures). Check here: <a
