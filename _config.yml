@@ -30,7 +30,7 @@ header_pages:
   - talks.html
 
 # Build settings
-markdown: CommonMarkGhPages
+# markdown: CommonMarkGhPages
 theme: minima
 # exclude:
 #   - Gemfile
