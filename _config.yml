@@ -32,9 +32,6 @@ header_pages:
 # Build settings
 markdown: CommonMarkGhPages
 theme: minima
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
 
 # shows posts schedule for future release
 future: true
@@ -51,3 +48,6 @@ whitelist:
 
 feed:
   path: feed.xml
+
+gems:
+- jekyll-commonmark-ghpages
