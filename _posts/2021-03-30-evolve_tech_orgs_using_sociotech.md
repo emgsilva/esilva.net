@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Evolving Tech-driven Orgs Using Sociotechnical Architecture (DevOps Lisbon Meetup)"
+title:  "Evolving Tech-enabled Orgs Using Sociotechnical Architecture (DevOps Lisbon Meetup)"
 categories: [conference]
 ---
 
-On March 15th (2021) I was at [DevOps Lisbon Meetup](https://www.meetup.com/DevOps-Lisbon/events/275916783/) giving a talk on Evolving Tech-driven Orgs Using Sociotechnical Architecture and Systems Thinking. This was a great event where I had the opportunity to share and discuss some new ideas I have been exploring on my journey of learning and "consolidating" the use of systems and sociotechnical thinking as a way to support how we evolve our tech-driven organizations. This is a new talk on this topic and I am also preparing an article to articulate the ideas shared in this presentation (which will become part of my [Introduction to Sociotechnical Architecture Series](https://esilva.net/sociotechnical/intro-sociotechnical-arch)). However, I want to share the main aspects I touched, as this was the first time I combined all these points into a single talk.
+On March 15th (2021) I was at [DevOps Lisbon Meetup](https://www.meetup.com/DevOps-Lisbon/events/275916783/) giving a talk on Evolving Tech-enabled Orgs Using Sociotechnical Architecture and Systems Thinking. This was a great event where I had the opportunity to share and discuss some new ideas I have been exploring on my journey of learning and "consolidating" the use of systems and sociotechnical thinking as a way to support how we evolve our tech-enabled organizations. This is a new talk on this topic and I am also preparing an article to articulate the ideas shared in this presentation (which will become part of my [Introduction to Sociotechnical Architecture Series](https://esilva.net/sociotechnical/intro-sociotechnical-arch)). However, I want to share the main aspects I touched, as this was the first time I combined all these points into a single talk.
 
 The presentation had three main parts:
 
@@ -39,7 +39,7 @@ These ideas may be somehow counter-intuitive, as we tend (and are trained in mod
 
 ## Part II: Sociotechnical Architecture as a Way to Support Org Evolution & How to Approach it
 
-After motivating the need for systems thinking, I share my current mental model to describe the system ("whole") of tech-driven organizations. I see it as a Sociotechnical System [<a href="#sociotech-arch-silva">Sociotech-Arch-Silva</a>], where you have a customer/market, raising demands to the organization/teams, who then build/evolve the product that the customer will use. Figure below shows a representation of the parts and their core interactions.
+After motivating the need for systems thinking, I share my current mental model to describe the system ("whole") of tech-enabled organizations. I see it as a Sociotechnical System [<a href="#sociotech-arch-silva">Sociotech-Arch-Silva</a>], where you have a customer/market, raising demands to the organization/teams, who then build/evolve the product that the customer will use. Figure below shows a representation of the parts and their core interactions.
 
 <div align="center"><img src="/assets/sociotechnical-evolution-loop.png" alt="Sociotechnical Architecture" width=100%/><br></div>
 
