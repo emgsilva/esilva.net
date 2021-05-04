@@ -97,3 +97,7 @@ I am writing more on this, namely: how to approach Sociotechnical Architecture e
 - [Accelerate] [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/), Nicole Forsgren, Jez Humble, Gene Kim <a name="accelerate"></a>
 - [PM-Research-Alpha] [How Product Management is Evolving: Findings from the 2020 PM Insights Report](https://laptrinhx.com/how-product-management-is-evolving-findings-from-the-2020-pm-insights-report-3858008944), Alpha <a name="pm-research-alpha"></a>
 - [Minimalistic-Architecture-Malan-Bredemeyer] [https://www.bredemeyer.com/pdf_files/MinimalistArchitecture.PDF]()Less is More with Minimalist Architecture, Ruth Malan and Dana Bredemeyer, 2002 <a name="minimalistic-architecture-malan-bredemeyer"></a>
+
+## Conversation
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">📣 New article &quot;Sociotechnical Architecture as enabler of Product Thinking&quot;: to &quot;maximize the value exchange with customer&quot; we must enable and evolve the supporting Sociotechnical system with holistic understanding.<br><br>check it here ⤵️<a href="https://t.co/yLwRj5LSni">https://t.co/yLwRj5LSni</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1389236212460933132?ref_src=twsrc%5Etfw">May 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
