@@ -113,7 +113,7 @@ Important note: cognitive load discussion happens at Team-level, not individuals
 </p>
 </details>
 
-<details><summary>Tech Leads / Software Architects as enabler teams to scale & support Product Teams more efficiently on a large tech-driven organization (click to expand)</summary>
+<details><summary>Tech Leads / Software Architects as enabler teams to scale & support Product Teams more efficiently on a large tech-enabled organization (click to expand)</summary>
 <p>
 
 > Work-in-progress
