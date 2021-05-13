@@ -20,6 +20,8 @@ With this mental model and goal, the next question we can ask ourselves is: "how
 
 In the following I go over a few system traits that need attention when addressing product development and evolution. I will use my "Restaurant Product" running example to showcase those different traits. You can find a more detailed intro to this example and traits in [this article](https://esilva.net/sociotechnical/sociotechnical-architecture_why-and-what.html) of [intro to sociotechnical architecture series](https://esilva.net/sociotechnical/intro-sociotechnical-arch).
 
+![Restaurant Overview](/assets/restaurant-overview.png)
+
 ## (Some System) Traits for Great Tech-enabled Products
 
 ### Trait 1 - your teams and org shape your product
