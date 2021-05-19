@@ -19,7 +19,7 @@ insightweet: |
 
 ## Analysis & Summary
 
-The insights and notes of this record are inspired and driven by an article from two current thought leaders on (Sociotechnical & Software) Architecture developments: Ruth Malan and Dana Bredemeyer. This short article shares several insights they have on how to approach architecture. The article is from 2002, but it is as up-to-date and relevant as it can get. They propose a "minimalistic approach" to architecture, namely: "sort out your highest-priority architecture requirements, and then do the least you possibly can do to achieve them".
+The insights and notes of this record are inspired and driven by an [article]() from two current thought leaders on (Sociotechnical & Software) Architecture developments: Ruth Malan and Dana Bredemeyer. This short article shares several insights they have on how to approach architecture. The article is from 2002, but it is as up-to-date and relevant as it can get. They propose a "minimalistic approach" to architecture, namely: "sort out your highest-priority architecture requirements, and then do the least you possibly can do to achieve them".
 
 The article has the following structure: what are Architecture Decisions; then go into the challenges on Limiting Architecture Control and Insisting on Architecture Control; and finally discuss how to Empower with Scope. In the following I will go over these elements, highlight several quotes and elaborate on them, adding my own insights and reflections.
 
