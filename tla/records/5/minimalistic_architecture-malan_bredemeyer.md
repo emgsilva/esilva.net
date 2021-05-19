@@ -19,7 +19,7 @@ insightweet: |
 
 ## Analysis & Summary
 
-The insights and notes of this record are inspired and driven by an [article]() from two current thought leaders on (Sociotechnical & Software) Architecture developments: Ruth Malan and Dana Bredemeyer. This short article shares several insights they have on how to approach architecture. The article is from 2002, but it is as up-to-date and relevant as it can get. They propose a "minimalistic approach" to architecture, namely: "sort out your highest-priority architecture requirements, and then do the least you possibly can do to achieve them".
+The insights and notes of this record are inspired and driven by an [article](https://www.bredemeyer.com/pdf_files/MinimalistArchitecture.PDF) from two current thought leaders on (Sociotechnical & Software) Architecture developments: Ruth Malan and Dana Bredemeyer. This short article shares several insights they have on how to approach architecture. The article is from 2002, but it is as up-to-date and relevant as it can get. They propose a "minimalistic approach" to architecture, namely: "sort out your highest-priority architecture requirements, and then do the least you possibly can do to achieve them".
 
 The article has the following structure: what are Architecture Decisions; then go into the challenges on Limiting Architecture Control and Insisting on Architecture Control; and finally discuss how to Empower with Scope. In the following I will go over these elements, highlight several quotes and elaborate on them, adding my own insights and reflections.
 
@@ -74,6 +74,10 @@ The balancing act of doing "good architecture" is difficult, but when we strike 
 > "One of the benefits of a good architecture is that structural elements with well-designed interfaces become the focus for design and implementation. This lets work progress on the structural units with greater autonomy—and small teams with strong ownership are the font of innovation and productivity."
 
 In my view this is the key element to strive for in good architecture: enabling teams with the context and elements that provide them with alignment with the overall desired system properties. With that “context” teams can take full autonomy and "creativity" to best architect the internal elements of those structural units of the system. It is important to note that this does not mean that teams may not participate in system-level discussions, quite the contrary, that is totally possible. The element key is that those system-level discussions must take place - independently of whom is leading/driving them. This is a point that many organizations still misinterpret, namely: that by having "architects" or discussions at systems-level scope jeopardizes teams autonomy, when it is exactly the other way around. This systems-level alignment enables teams to best own and evolve the system elements that they are responsible for!
+
+**InsighTweet**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: striking the right architecture decisions balance, striving for a minimalistic approach, is key to enable &quot;autonomous teams&quot; on their scope &amp; maximize the overall system properties.<br><br>References: <a href="https://twitter.com/ruthmalan?ref_src=twsrc%5Etfw">@ruthmalan</a> <a href="https://twitter.com/DanaBredemeyer?ref_src=twsrc%5Etfw">@DanaBredemeyer</a><br><br>+details ⤵️<a href="https://t.co/DCdTViyK4s">https://t.co/DCdTViyK4s</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1395028802338803726?ref_src=twsrc%5Etfw">May 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
 
