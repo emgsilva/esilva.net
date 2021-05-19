@@ -6,7 +6,7 @@ categories: ["Socio-Technical"]
 tla_area: [tla, tla_sociotech]
 id: minimalistic_architecture-malan_bredemeyer
 digest: 5
-date: 2021-05-07
+date: 2021-05-19
 summary: |
   Article from two current thought leaders on (Sociotechnical & Software) Architecture developments: Ruth Malan and Dana Bredemeyer. It presents several interesting insights on how to approach architecture, namely take a "minimalistic approach" to architecture: "sort out your highest-priority architecture requirements, and then do the least you possibly can do to achieve them".
 insightweet: |
