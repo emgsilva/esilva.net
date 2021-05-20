@@ -34,6 +34,7 @@ This is a great quote, which in my view emphasizes why having architects (or peo
 These system-level essential architecture decisions tend to focus on key structural elements (e.g.: how do different teams and parts of the system are evolving) and their external visible properties and relations.
 
 > "If you can defer the decisions to a more narrowly scoped part of the system, it is not significant to the system level architecture.” (_"more narrowly scoped" wording is a 2021 update suggested by Ruth Malan to previously "lower level" term previously used._)
+
 > "The only justifiable reason for restricting intellectual freedom of designers and implementers is demonstrable contribution to strategic system properties that the organization could not otherwise achieve."
 
 However it is key to not overdo Architecture decisions. As the two previous quotes emphasize, whenever we can defer a decision to a more narrowly scoped part of the system, we should do it. Teams have ownership of decision making on this. It becomes part of the internal application architecture, which must deliver the expected interface behavior or "visible properties" and relation with other related parts of the system.
