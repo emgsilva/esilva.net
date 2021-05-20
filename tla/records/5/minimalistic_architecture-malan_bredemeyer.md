@@ -63,7 +63,7 @@ Being an architect (or anyone handling architecture decisions) can be tricky at 
 
 This is the other extreme side of architecture control, which may overdo and end-up micromanaging the governance of all decisions at all scopes and system levels. This is what I mentioned earlier as the modes that created a "bad reputation" for architecture. Such an approach is definitely not desired as it limits the flow of decision making and overall effectiveness of the different parts of the systems.
 
-> "Keep your architecture decision set to the minimum needed to achieve the most strategic architectural goals.Then work with all levels of management to ensure that these decisions stick."
+> "Keep your architecture decision set to the minimum needed to achieve the most strategic architectural goals. Then work with all levels of management to ensure that these decisions stick."
 
 To avoid the trap of "too much control", we must strive for "minimum decision making" at each scope/system level to enable achieving the “end goals” we have for the system. I really like how Ruth and Dana state that "all levels of management" should focus on ensuring those "minimal decisions" stick and as such enable people working within those systems to take the reminder set of decisions (while relying on those higher level decisions made). In a nutshell, this is what Netflix calls [Highly aligned and loosely coupled](https://jobs.netflix.com/culture) on their culture document. Their goal is to “spend time debating strategy together, and then trust each other to execute on tactics” to achieve those aligned goals.
 
