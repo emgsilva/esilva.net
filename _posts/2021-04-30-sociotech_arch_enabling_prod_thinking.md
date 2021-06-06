@@ -92,13 +92,13 @@ I am writing more on this, namely: how to approach Sociotechnical Architecture e
 - [Sociotech-Arch-Silva] [Sociotechnical Architecture](https://esilva.net/sociotechnical), Eduardo da Silva<a name="sociotech-arch-silva"></a>
 - [Escaping-Build-Trap-Perri] [Escaping the Build Trap](https://www.oreilly.com/library/view/escaping-the-build/9781491973783/), Melissa Perri<a name="escaping-build-trap-perri"></a>
 - [Product-Thinking-101-Katakam] [https://uxplanet.org/product-thinking-101-1d71a0784f60](https://uxplanet.org/product-thinking-101-1d71a0784f60), 2020, Naren Katakam <a name="product-thinking-101-katakam"></a>
-- [Conways-Law] [http://www.melconway.com/Home/Conways_Law.html](http://www.melconway.com/Home/Conways_Law.html), Melvin Conway <a name="conways-law"></a>
-- [Team-Topologies] [https://teamtopologies.com/](https://teamtopologies.com/), Matthew Skelton and Manuel Pais <a name="team-topologies"></a>
+- [Conways-Law] [Conway's Law](http://www.melconway.com/Home/Conways_Law.html), Melvin Conway <a name="conways-law"></a>
+- [Team-Topologies] [https://teamtopologies.com](https://teamtopologies.com/), Matthew Skelton and Manuel Pais <a name="team-topologies"></a>
 - [System-Thinking-Ackoff] [TLA_insights: On Systems Thinking, Russel Ackoff](https://esilva.net/tla_insights/on_systems_thinking-ackoff), Russel Ackoff <a name="systems-thinking-ackoff"></a>
 - [Good-Fences-Hjorteland] [TLA_insights: Good Fences, Trond Hjorteland](https://esilva.net/tla_insights/good_fences_make_good_neighbours-hjorteland), Trond Hjorteland <a name="good-fences-hjorteland"></a>
 - [Accelerate] [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://itrevolution.com/book/accelerate/), Nicole Forsgren, Jez Humble, Gene Kim <a name="accelerate"></a>
 - [PM-Research-Alpha] [How Product Management is Evolving: Findings from the 2020 PM Insights Report](https://laptrinhx.com/how-product-management-is-evolving-findings-from-the-2020-pm-insights-report-3858008944), Alpha <a name="pm-research-alpha"></a>
-- [Minimalistic-Architecture-Malan-Bredemeyer] [https://www.bredemeyer.com/pdf_files/MinimalistArchitecture.PDF]()Less is More with Minimalist Architecture, Ruth Malan and Dana Bredemeyer, 2002 <a name="minimalistic-architecture-malan-bredemeyer"></a>
+- [Minimalistic-Architecture-Malan-Bredemeyer] [Less is More with Minimalist Architecture](https://www.bredemeyer.com/pdf_files/MinimalistArchitecture.PDF), Ruth Malan and Dana Bredemeyer, 2002 <a name="minimalistic-architecture-malan-bredemeyer"></a>
 
 ## Conversation
 
