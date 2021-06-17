@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Podcast Interview: Team Topologies"
+title:  "Podcast Interview: Team Topologies - a DSL for organization design and evolution"
 categories: [org design]
 post_id: "test"
 ---
