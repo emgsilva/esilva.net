@@ -75,6 +75,10 @@ This "Architecture as Enabling Team" positioning also means that we have a netwo
 
 This section is "WIP" (Work-In-Progress). I am working on and developing several articles on this topic. Some on the positioning on Architecture (and other Structural functions) as Enabling Team, but also connected to my [Introduction to Sociotechnical Architecture](https://esilva.net/sociotechnical/intro-sociotechnical-arch) where I am trying to write down some ideas on "Who does and drives the evolution of Sociotechnical Architecture" (where this topic - approaches to architecture - are coming back, with the several extra dimensions, required to address the different perspectives of Sociotechnical systems).
 
+**InsighTweet**
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: Maybe we should write a book on &quot;Architecture Topologies&quot; to shape a shared language on how we organize and evolve Architecture teams/craft in organizations. <br><br>My ideas and &quot;brainstorming&quot; here ⤵️ (sparked by a great article by <a href="https://twitter.com/ghohpe?ref_src=twsrc%5Etfw">@ghohpe</a>)<a href="https://t.co/ophZ5rEvzU">https://t.co/ophZ5rEvzU</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1409854532872462344?ref_src=twsrc%5Etfw">June 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <br>
 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
