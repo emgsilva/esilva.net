@@ -17,6 +17,8 @@ insightweet: |
 
 (Subscribe <a href="https://tinyletter.com/tla_insights" target="_blank">here</a> or <a href="https://twitter.com/emgsilva">follow me on Twitter</a> to get notified about new TLA_insights)
 
+> **Update 2021-07-03: [Architecture Topologies Repo](https://github.com/emgsilva/architecture-topologies)** - given all the enthusiasm around the "Architecture Topologies" idea and opportunities, I have created a GitHub repo where we will be able to collect and consolidate ideas and topologies. It is still being setup, but hopefully soon ready for contributions.
+
 ## Analysis & Summary
 
 The insights and notes in this entry are driven by an [article](https://architectelevator.com/architecture/organizing-architecture) from Gregor Hohpe (a reference on architecture strategy, with many writings and books on this topic). In this article Gregor touches on an incredibly important topic: the topologies (models/forms) that we can adopt to approach architecture in the teams of our organizations. This is a rather relevant topic since whether one likes it or not every system has an architecture. It may be explicitly or implicitly addressed, however saying we have no time for it (or doing it "is not agile", as many falsely claim!) is a trap and recipe for "messy situations".
