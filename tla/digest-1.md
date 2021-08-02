@@ -2,7 +2,7 @@
 layout: post
 title: "TLA_insights digest #1"
 date: 2020-09-03
-permalink: /tla_insights/digest-1
+permalink: /tla_insights/digest-1/index.html
 categories: [tla_digest]
 tla_area: [tla]
 redirect_from:
