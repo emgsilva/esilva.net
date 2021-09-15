@@ -19,7 +19,12 @@ insightweet: |
 
 ## Analysis & Summary
 
-The insights and notes of this record are inspired and driven by a great short talk from Russell Ackoff on the core ideas Systems Thinking [<a href="#systems-thinking-ackoff">System-Thinking-Ackoff</a>] . Ackhoff is a well known figure in the systems thinking world and this talk is a great 15 minutes 101 on this topic.
+The insights and notes of this record are inspired and driven by a great short talk from Russell Ackoff on the core ideas Systems Thinking [<a href="#systems-thinking-ackoff">System-Thinking-Ackoff</a>] (video below). Ackhoff is a well known figure in the systems thinking world and this talk is a great 15 minutes 101 on this topic.
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe
+            src="https://www.youtube.com/embed/OqEeIG8aPPk"
+            style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen
+            scrolling="no" allow="encrypted-media"></iframe></div><br>
 
 He starts by sharing that many "project failures" come from the fact that such projects don't follow a systems thinking approach. They tend to be "anti-system applications", mostly approaching the problems from "partial/local/reductionistic" perspectives.
 
