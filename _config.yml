@@ -39,7 +39,7 @@ future: true
 # default articles prefix
 permalink: /articles/:title
 
-plugins:
+gems:
   - jekyll-feed
   - jekyll-redirect-from
 
