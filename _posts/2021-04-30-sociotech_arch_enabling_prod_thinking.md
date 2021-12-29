@@ -86,6 +86,18 @@ However, whatever step you need to take keep in mind, it is just the first step.
 
 I am writing more on this, namely: how to approach Sociotechnical Architecture evolution and who may be needed to make sure that this system evolution is catered for (these articles will be published on my [Sociotechnical Architecture and Systems](https://esilva.net/sociotechnical) page - [follow me on twitter](https://twitter.com/emgsilva) to be notified of updates).
 
+## Appendix: DDD EU conference talk video & slides
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe
+    src="https://www.youtube.com/embed/gTQFmsVkghk"
+    style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen
+    scrolling="no" allow="encrypted-media"></iframe></div> 
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">deck: <iframe
+    src="https://speakerdeck.com/player/bac72403572048f9bf308e36a2ca7228"
+    style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen
+    scrolling="no" allow="encrypted-media"></iframe></div><br>
+
 ## References
 
 - [DDD_EU-Silva] [Sociotechnical Architecture as Enabler of Product Thinking](https://esilva.net/talks/#sociotechnical-dddeu_2021), Talk on Domain-Driven Design Europe 2021, Eduardo da Silva<a name="ddd_eu-silva"></a>
