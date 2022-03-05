@@ -23,6 +23,8 @@ This Twitter thread by [Stefan Tilkov](https://twitter.com/stilkov) raised a ver
 
 At a given moment of the thread Simon Wardley shared a nice visualization of "types of developments" where APIs are strategic and how to start such initiatives using [his famous Wardley maps](https://twitter.com/swardley/status/1251479895479386114?s=19).
 
+**[2022-03-05] - new talk by Stefan on this topic:** [Why “API-first” might not be a good idea](https://youtu.be/fNLQiurGQhE)
+
 <br>
 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
