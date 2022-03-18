@@ -25,7 +25,7 @@ header_pages:
   - talks.html
 
 # Build settings
-markdown: CommonMarkGhPages
+# markdown: CommonMarkGhPages
 # markdown: kramdown
 # markdown: CommonMark
 theme: minima
@@ -40,7 +40,7 @@ permalink: /articles/:title
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-commonmark-ghpages
+  # - jekyll-commonmark-ghpages
 
 whitelist: 
   - jekyll-redirect-from
@@ -48,6 +48,6 @@ whitelist:
 feed:
   path: feed.xml
 
-commonmark:
-  options: ["UNSAFE", "SMART", "FOOTNOTES", "LIBERAL_HTML_TAG", "GITHUB_PRE_LANG", "FULL_INFO_STRING", "STRIKETHROUGH_DOUBLE_TILDE"]
-  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+# commonmark:
+  # options: ["UNSAFE", "SMART", "FOOTNOTES", "LIBERAL_HTML_TAG", "GITHUB_PRE_LANG", "FULL_INFO_STRING", "STRIKETHROUGH_DOUBLE_TILDE"]
+  # extensions: ["strikethrough", "autolink", "table", "tagfilter"]

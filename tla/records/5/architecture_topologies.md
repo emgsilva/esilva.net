@@ -31,7 +31,7 @@ In the following I share some notes and insights on the model shared by Gregor; 
 
 The model that Gregor shares has a particular emphasis on "team scope architecture", i.e.: how is architecture approached in the systems that a team owns. The model presented has four basic topologies. There may be variations and combinations, but I think these four topologies provide a great base. You can check those forms in the figure below.
 
-<div align="center"><img src="/assets/team-architecture-topologies.png" alt="Architecture Topologies" width=95%/></div><br>
+<div align="center"><img src="/assets/team-architecture-topologies.png" alt="Architecture Topologies" width="80%"/></div><br>
 
 _(Image Credits: Grego Hohpe. Note: these were inspired by materials from Michael Ploed).)_
 
@@ -58,7 +58,7 @@ There are other models of evolution, and this becomes even more explicit if we c
 
 This article provides a great insight as to the forms we can approach "team scope architecture". However, to me it is key to look at the scopes around the team scope to comprehensively address and connect the team scope to the surrounding scopes (and systems). In fact this is extensively developed by Gregor in other articles on his "Architects Elevator" metaphor - i.e.: "connecting the penthouse with the engine room". This is a topic that I also cover extensively in another [TLA_insights entry](https://esilva.net/tla_insights/minimalistic_architecture-malan_bredemeyer) from Ruth Malan and Dana Bredemeyer on "Minimalistic Architecture". In the figure you can see one of the key visualizations that Ruth and Dana share in their article on the different architecture scopes you may have on an organization.
 
-<div align="center"><img src="/assets/minimal-architecture-malan.png" alt="Architecture Scopes" width=95%/></div><br>
+<div align="center"><img src="/assets/minimal-architecture-malan.png" alt="Architecture Scopes" width="95%"/></div><br>
 
 _(Image Credits Ruth Malan and Dana Bredemeyer)_
 
@@ -70,7 +70,7 @@ With this consideration, I think it is key to consider the scopes we have within
 
 "Architecture as Enabling Team" is a term I have been using (and heard already other people mentioning) since I read the book Team Topologies. In fact I even define this speficic team as "structural enabling team". The reason comes from the fact that in general this is an enabling team (by the book definition) exist for a limited period of time. On the other hand architecture teams tend to exist for an indefinite amount of time. Nevertheless, this shares the other core ideas of the book definition: a team that exists to enable the "stream aligned teams" (or product teams) in the organization and maximize their cognitive load to operate at flow. This positioning is very interesting and opens doors for very interesting developments and novel topologies to approach architecture. For example, a person may have the Architect function, working across multiple related teams that together build a product or contribute to a common value stream to the customer (e.g.: a product from the product portfolio of the company). figure below depicts this idea (note: this is a simplified representation, aiming at showing a possible way of positioning of Architects in this topology).
 
-<div align="center"><img src="/assets/arch-as-enabling-team.jpg" alt="Architecture as Enabling Team" width=95%/></div><br>
+<div align="center"><img src="/assets/arch-as-enabling-team.jpg" alt="Architecture as Enabling Team" width="95%"/></div><br>
 
 As we can see in the Figure, this person (in this case I am calling her “Product Architect”) works at the "product scope" (which is the system that surrounds the team scope). She will be aligning on the product-wide architecture with teams (and with domain - the following scope). Furthermore, she may also play a role in coaching and enabling each team to approach architecture within the team scope (where different applications exist). So, this becomes a sort of upgrade on the version of topology #1 shared by Gregor (with bi-directional interaction), but also at the same time the team is (should be) responsible for the team scope architecture (i.e.: using topology #3, or in some cases #2). This combination enables approaching the different scopes required to address architecture, and furthermore having a model where Architects are enablers for teams on decision making (e.g.: facilitate architecture workshops, assist in improving documentation, and other elements).
 
@@ -80,7 +80,7 @@ This section is "WIP" (Work-In-Progress). I am working on and developing several
 
 **InsighTweet**
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: Maybe we should write a book on &quot;Architecture Topologies&quot; to shape a shared language on how we organize and evolve Architecture teams/craft in organizations. <br><br>My ideas and &quot;brainstorming&quot; here ⤵️ (sparked by a great article by <a href="https://twitter.com/ghohpe?ref_src=twsrc%5Etfw">@ghohpe</a>)<a href="https://t.co/ophZ5rEvzU">https://t.co/ophZ5rEvzU</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1409854532872462344?ref_src=twsrc%5Etfw">June 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: Maybe we should write a book on &quot;Architecture Topologies&quot; to shape a shared language on how we organize and evolve Architecture teams/craft in organizations. <br><br>My ideas and &quot;brainstorming&quot; here ⤵️ (sparked by a great article by <a href="https://twitter.com/ghohpe?ref_src=twsrc%5Etfw">@ghohpe</a>)<a href="https://t.co/ophZ5rEvzU">https://t.co/ophZ5rEvzU</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1409854532872462344?ref_src=twsrc%5Etfw">June 29, 2021</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></blockquote>
 
 <br>
 

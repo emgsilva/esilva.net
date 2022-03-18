@@ -38,12 +38,8 @@ I hope you enjoy these four entries! If you found this issue interesting or usef
 
 > {{page.insightweet}}
 
-<details>
-  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
-  
-  {{page.content}}
-</details>
-<br>
+<b><a href="{{ site.baseurl }}{{ page.url }}"> 🔗 full-text </a></b>
+
 {% endfor %}
 {% endif %}
 
@@ -56,12 +52,8 @@ I hope you enjoy these four entries! If you found this issue interesting or usef
 
 > {{page.insightweet}}
 
-<details>
-  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
-  
-  {{page.content}}
-</details>
-<br>
+<b><a href="{{ site.baseurl }}{{ page.url }}"> 🔗 full-text </a></b>
+
 {% endfor %}
 {% endif %}
 
@@ -74,12 +66,8 @@ I hope you enjoy these four entries! If you found this issue interesting or usef
 
 > {{page.insightweet}}
 
-<details>
-  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
-  
-  {{page.content}}
-</details>
-<br>
+<b><a href="{{ site.baseurl }}{{ page.url }}"> 🔗 full-text </a></b>
+
 {% endfor %}
 {% endif %}
 
@@ -92,12 +80,8 @@ I hope you enjoy these four entries! If you found this issue interesting or usef
 
 > {{page.insightweet}}
 
-<details>
-  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
-  
-  {{page.content}}
-</details>
-<br>
+<b><a href="{{ site.baseurl }}{{ page.url }}"> 🔗 full-text </a></b>
+
 {% endfor %}
 {% endif %}
 
@@ -110,12 +94,8 @@ I hope you enjoy these four entries! If you found this issue interesting or usef
 
 > {{page.insightweet}}
 
-<details>
-  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
-  
-  {{page.content}}
-</details>
-<br>
+<b><a href="{{ site.baseurl }}{{ page.url }}"> 🔗 full-text </a></b>
+
 {% endfor %}
 {% endif %}
 

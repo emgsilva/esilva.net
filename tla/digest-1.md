@@ -50,12 +50,8 @@ I hope you have fun and find some interesting insights here. Don't hesitate to [
 
 > {{page.insightweet}}
 
-<details>
-  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a> </summary>
-  
-  {{page.content}}
-</details>
-<br>
+<b><a href="{{ site.baseurl }}{{ page.url }}"> 🔗 full-text </a></b>
+
 {% endfor %}
 {% endif %}
 
@@ -68,12 +64,8 @@ I hope you have fun and find some interesting insights here. Don't hesitate to [
 
 > {{page.insightweet}}
 
-<details>
-  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
-  
-  {{page.content}}
-</details>
-<br>
+<b><a href="{{ site.baseurl }}{{ page.url }}"> 🔗 full-text </a></b>
+
 {% endfor %}
 {% endif %}
 
@@ -86,12 +78,8 @@ I hope you have fun and find some interesting insights here. Don't hesitate to [
 
 > {{page.insightweet}}
 
-<details>
-  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
-  
-  {{page.content}}
-</details>
-<br>
+<b><a href="{{ site.baseurl }}{{ page.url }}"> 🔗 full-text </a></b>
+
 {% endfor %}
 {% endif %}
 
@@ -104,12 +92,8 @@ I hope you have fun and find some interesting insights here. Don't hesitate to [
 
 > {{page.insightweet}}
 
-<details>
-  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
-  
-  {{page.content}}
-</details>
-<br>
+<b><a href="{{ site.baseurl }}{{ page.url }}"> 🔗 full-text </a></b>
+
 {% endfor %}
 {% endif %}
 

@@ -41,7 +41,7 @@ However it is key to not overdo Architecture decisions. As the two previous quot
 
 Figure 1 provides a nice overview on typical levels of scope within an organization. I think nowadays we may use slightly different terminology (remember the article is from 2002), however the core idea is pretty much to the point: there are scopes of decision making, which enable clear boundaries of decision making. This fosters autonomy while providing a connecting structure from more narrowly scoped parts of the system to the externally visible properties of the system we want to build in the organization.
 
-<div align="center"><img src="/assets/minimal-architecture-malan.png" alt="Minimal Architecture" width=95%/></div><br>
+<div align="center"><img src="/assets/minimal-architecture-malan.png" alt="Minimal Architecture" width="95%"/></div><br>
 
 ![Minimal Architecture](/assets/minimal-architecture-malan.png)
 

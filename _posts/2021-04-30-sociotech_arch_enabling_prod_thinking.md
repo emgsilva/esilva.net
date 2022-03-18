@@ -52,7 +52,7 @@ A cornerstone of Product Thinking is to enable teams to listen, discover and und
 
 If we analyse the traits presented in the previous section, we can see that in order to achieve the goal of Product Thinking we cannot purely focus on "What enables maximum value exchange" (the "What" system). We must also cater for other important interrelated systems, namely: "Who" is listening to the customer and building/evolving the product; and "How" is the product being built to deliver the value maximization the "What" discovers and defines. Furthermore, how do all these parts interrelate and gather relevant understanding to drive meaningful decisions that positively affect the whole system. Figure below depicts a visualization of these three parts.
 
-<div align="center"><img src="/assets/need-holistic-view.png" alt="Holistic View" width=80%/></div><br>
+<div align="center"><img src="/assets/need-holistic-view.png" alt="Holistic View" width="80%"/></div><br>
 
 These (What, Who and How) are all relevant systems on the overall goal equation of Product Thinking. It is fundamental to embrace that they must be understood from an holistic perspective in order to define strategies to improve our overall system goal. For example: to improve our Restaurant, we consider the offerings we have ("What" system), but also the crew we have and how they are organized ("Who" system) and how they build the dishes and different experiences for the customers ("How" system). They are all interrelated and their relations define the Restaurant (System).
 
@@ -64,7 +64,7 @@ Now the challenge is: how can we apply these ideas to build Tech-enabled product
 
 Building on the Systems Thinking perspective, the figure below depicts the mental model I am using to define the "involving system" (or "bigger system") to define an holistic approach to understand and evolve the systems at play when building tech-enabled products.
 
-<div align="center"><img src="/assets/sociotechnical-evolution-loop.png" alt="Sociotechnical Architecture" width=100%/></div><br>
+<div align="center"><img src="/assets/sociotechnical-evolution-loop.png" alt="Sociotechnical Architecture" width="100%"/></div><br>
 
 This is a sociotechnical system model, with three main parts/systems: the Customers (or market); the Teams (or systems of work, or organizational system); and the Software Architecture (system of software or technical systems). It also depicts their interactions, defining in this way how they normally affect each other. The goal is to have a clear model that provides a framework for a more holistic understanding and from there approach the design and evolution of the different parts with context. This activity is what I call "Sociotechnical Architecture" [<a href="#sociotech-arch-silva">Sociotech-Arch-Silva</a>]:
 

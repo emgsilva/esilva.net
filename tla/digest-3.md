@@ -53,12 +53,8 @@ If you found this issue interesting or useful make sure to [subscribe to the new
 
 > {{page.insightweet}}
 
-<details>
-  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
-  
-  {{page.content}}
-</details>
-<br>
+<b><a href="{{ site.baseurl }}{{ page.url }}"> 🔗 full-text </a></b>
+
 {% endfor %}
 {% endif %}
 
@@ -71,12 +67,8 @@ If you found this issue interesting or useful make sure to [subscribe to the new
 
 > {{page.insightweet}}
 
-<details>
-  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
-  
-  {{page.content}}
-</details>
-<br>
+<b><a href="{{ site.baseurl }}{{ page.url }}"> 🔗 full-text </a></b>
+
 {% endfor %}
 {% endif %}
 
@@ -89,12 +81,8 @@ If you found this issue interesting or useful make sure to [subscribe to the new
 
 > {{page.insightweet}}
 
-<details>
-  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
-  
-  {{page.content}}
-</details>
-<br>
+<b><a href="{{ site.baseurl }}{{ page.url }}"> 🔗 full-text </a></b>
+
 {% endfor %}
 {% endif %}
 
@@ -107,12 +95,8 @@ If you found this issue interesting or useful make sure to [subscribe to the new
 
 > {{page.insightweet}}
 
-<details>
-  <summary>record overview | <a href="{{ site.baseurl }}{{ page.url }}"> 🔗 record </a></summary>
-  
-  {{page.content}}
-</details>
-<br>
+<b><a href="{{ site.baseurl }}{{ page.url }}"> 🔗 full-text </a></b>
+
 {% endfor %}
 {% endif %}
 
