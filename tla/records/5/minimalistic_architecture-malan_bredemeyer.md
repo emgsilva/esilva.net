@@ -43,6 +43,8 @@ Figure 1 provides a nice overview on typical levels of scope within an organizat
 
 <div align="center"><img src="/assets/minimal-architecture-malan.png" alt="Minimal Architecture" width=95%/></div><br>
 
+![Minimal Architecture](/assets/minimal-architecture-malan.png)
+
 ### Limiting Architecture Control
 
 > "Lack of visibility into other parts of the system, schedule crunch, and communication overload—many factors cause developers to make decisions optimized for a local scope and often suboptimal for the overall system."
