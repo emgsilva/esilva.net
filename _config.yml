@@ -26,6 +26,7 @@ header_pages:
 
 # Build settings
 markdown: CommonMarkGhPages
+# markdown: kramdown
 theme: minima
 
 # shows posts schedule for future release
@@ -45,3 +46,7 @@ whitelist:
 
 feed:
   path: feed.xml
+
+commonmark:
+  options: ["UNSAFE", "SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
