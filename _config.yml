@@ -25,8 +25,9 @@ header_pages:
   - talks.html
 
 # Build settings
-markdown: CommonMarkGhPages
+# markdown: CommonMarkGhPages
 # markdown: kramdown
+markdown: CommonMark
 theme: minima
 
 # shows posts schedule for future release
@@ -48,5 +49,5 @@ feed:
   path: feed.xml
 
 commonmark:
-  options: ["UNSAFE", "SMART", "FOOTNOTES"]
+  options: ["UNSAFE", "SMART", "FOOTNOTES", "LIBERAL_HTML_TAG", "GITHUB_PRE_LANG", "FULL_INFO_STRING", "STRIKETHROUGH_DOUBLE_TILDE"]
   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
