@@ -25,9 +25,9 @@ header_pages:
   - talks.html
 
 # Build settings
-# markdown: CommonMarkGhPages
+markdown: CommonMarkGhPages
 # markdown: kramdown
-markdown: CommonMark
+# markdown: CommonMark
 theme: minima
 
 # shows posts schedule for future release
