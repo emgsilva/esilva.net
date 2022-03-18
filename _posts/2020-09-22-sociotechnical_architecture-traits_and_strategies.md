@@ -225,7 +225,7 @@ To accomplish Continuous Discover & Deliver in a team we need to enable the team
 
 One way to make this explicit is to follow an approach such as "Dual-Track Agile" [<a href="#dual-track-agile">Dual-Track-Agile</a>], which makes explicit that teams capacity (cognitive load) is invested on discovery and delivery activities (or tracks). One important remark (which these approaches don't always make clear) is that "discovery" is not an activity for a certain discipline within the team (in many cases UX people). It is a team activity, and whoever needs to be involved to create the experiment and do the discovery exercise should be involved.
 
-> Note: empowering team to do bottom-up / emergent product discovery does not mean "no top-down" design. These two must coexist in order to identify the best strategies for product development. For example, top-down brings the alignment between multiple products (or value streams), so that we can maximize the overall value exchange with the customer. This is where having Product Management skill within the team helps a lot in managing these different elements.
+> **Notes:** empowering team to do bottom-up / emergent product discovery does not mean "no top-down" design. These two must coexist in order to identify the best strategies for product development. For example, top-down brings the alignment between multiple products (or value streams), so that we can maximize the overall value exchange with the customer. This is where having Product Management skill within the team helps a lot in managing these different elements.
 
 **Real-World Examples** *(Work-in-Progress, more stories to follow)*
 
