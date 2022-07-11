@@ -6,7 +6,7 @@ permalink: /sociotechnical/sociotechnical-architecture_traits-and-strategies.htm
 
 `TL;DR: this is the second article of my "Introduction to Societechnical Architecture" series. In this series I cover why Sociotechnical Architecture is so relevant, what is it and how to start "doing it" when setting up your organization and strategies to build software products. In this article I will revisit all the different traits introduced in the first article (to set up a "Successful Restaurant") and elaborate on them in the context of building software products and the teams that own them. I will go over what is behind each trait, then share some strategies to address them. (Work-in-progress: I will be adding real-life examples on each of the traits, so we can further understand and consolidate each trait).`
 
-> If you did not read the first article of the series (where I provide a motivation - "Why" - and an overview of what is Sociotechnical Architecture) you can check it [here](https://esilva.net/sociotechnical/sociotechnical-architecture_why-and-what.html). Overview of the whole series can be found [here](https://esilva.net/sociotechnical/intro-sociotechnical-arch).
+> If you did not read the first article of the series (where I provide a motivation - "Why" - and an overview of what is Sociotechnical Architecture) you can check it [here](https://esilva.net/sociotechnical/sociotechnical-architecture_why-and-what.html). Overview of the whole series can be found [here](https://esilva.net/sociotechnical).
 
 **Index:**
 

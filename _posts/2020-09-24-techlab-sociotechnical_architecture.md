@@ -16,6 +16,6 @@ We touched several elements such as:
 - Talked about examples of how to apply the ideas of Sociotechnical Architecture (e.g.: how to set up Data Science into Product-led organizations);
 - ...and several other elements of thinking in a "system of systems" instead of purely focusing on the "technical architecture" (as more classically organizations focus on).
 
-All of these topics were touched while talking about "restaurants" and how important the "crew" is to get great results - this is a running example I have on my [Introduction to Sociotechnical series](https://esilva.net/sociotechnical/intro-sociotechnical-arch).
+All of these topics were touched while talking about "restaurants" and how important the "crew" is to get great results - this is a running example I have on my [Introduction to Sociotechnical series](https://esilva.net/sociotechnical).
 
 Check the whole podcast here: [https://techlab.bol.com/sociotechnical-architecture-to-maximize-impact](https://techlab.bol.com/sociotechnical-architecture-to-maximize-impact)

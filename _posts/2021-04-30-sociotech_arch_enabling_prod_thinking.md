@@ -18,7 +18,7 @@ As it can be seen, the goal of Product Thinking is to build and evolve the produ
 
 With this mental model and goal, the next question we can ask ourselves is: "how can we achieve that", i.e.: maximize the value exchange with the customer continuously and at high-velocity? There are a lot of factors that contribute to that. One important remark is: we are talking about products, not projects. This is a key distinction, as a project is an iteration on development of something and in general has a clear end goal and scope. On the other hand products tend to continuously evolve and be improved based on the learnings and needs we discover with the customer.
 
-In the following I go over a few system traits that need attention when addressing product development and evolution. I will use my "Restaurant Product" running example to showcase those different traits. You can find a more detailed intro to this example and traits in [this article](https://esilva.net/sociotechnical/sociotechnical-architecture_why-and-what.html) of [intro to sociotechnical architecture series](https://esilva.net/sociotechnical/intro-sociotechnical-arch).
+In the following I go over a few system traits that need attention when addressing product development and evolution. I will use my "Restaurant Product" running example to showcase those different traits. You can find a more detailed intro to this example and traits in [this article](https://esilva.net/sociotechnical/sociotechnical-architecture_why-and-what.html) of [intro to sociotechnical architecture series](https://esilva.net/sociotechnical).
 
 ![Restaurant Overview](/assets/restaurant-overview.png)
 

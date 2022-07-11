@@ -4,7 +4,7 @@ title:  "Evolving Tech-enabled Orgs Using Sociotechnical Architecture (DevOps Li
 categories: [conference]
 ---
 
-On March 15th (2021) I was at [DevOps Lisbon Meetup](https://www.meetup.com/DevOps-Lisbon/events/275916783/) giving a talk on Evolving Tech-enabled Orgs Using Sociotechnical Architecture and Systems Thinking. This was a great event where I had the opportunity to share and discuss some new ideas I have been exploring on my journey of learning and "consolidating" the use of systems and sociotechnical thinking as a way to support how we evolve our tech-enabled organizations. This is a new talk on this topic and I am also preparing an article to articulate the ideas shared in this presentation (which will become part of my [Introduction to Sociotechnical Architecture Series](https://esilva.net/sociotechnical/intro-sociotechnical-arch)). However, I want to share the main aspects I touched, as this was the first time I combined all these points into a single talk.
+On March 15th (2021) I was at [DevOps Lisbon Meetup](https://www.meetup.com/DevOps-Lisbon/events/275916783/) giving a talk on Evolving Tech-enabled Orgs Using Sociotechnical Architecture and Systems Thinking. This was a great event where I had the opportunity to share and discuss some new ideas I have been exploring on my journey of learning and "consolidating" the use of systems and sociotechnical thinking as a way to support how we evolve our tech-enabled organizations. This is a new talk on this topic and I am also preparing an article to articulate the ideas shared in this presentation (which will become part of my [Introduction to Sociotechnical Architecture Series](https://esilva.net/sociotechnical)). However, I want to share the main aspects I touched, as this was the first time I combined all these points into a single talk.
 
 The presentation had three main parts:
 
@@ -57,7 +57,7 @@ I have also shared another interesting visualization to depict this evolution of
 
 <div align="center"><img src="/assets/sociotechnical-architecture-evolution-diagram.png" alt="Sociotechnical Architecture Evolution Diagram" width="100%"/><br></div>
 
-With this diagram I am trying to depict a way to express the evolution, and elements that trigger evolution iterations. This is still an idea being shaped, but the goal is to make it explicit on the state of the sociotechnical architecture, the triggers we observe and the sort of hypothesis we define from the synthesis of all the data we gathered. I will be sharing more on this on a coming article on my [intro to sociotechnical series](https://esilva.net/sociotechnical/intro-sociotechnical-arch).
+With this diagram I am trying to depict a way to express the evolution, and elements that trigger evolution iterations. This is still an idea being shaped, but the goal is to make it explicit on the state of the sociotechnical architecture, the triggers we observe and the sort of hypothesis we define from the synthesis of all the data we gathered. I will be sharing more on this on a coming article on my [intro to sociotechnical series](https://esilva.net/sociotechnical).
 
 ## Part III: Examples Org Evolution and how to Approach it using Sociotechnical Architecture
 
