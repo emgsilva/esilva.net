@@ -1,8 +1,8 @@
 title: esilva.net
 author: Eduardo da Silva
 email: eduardo@esilva.net
-description: > # this means to ignore newlines until "baseurl:"
-  Articles and projects of a Tech Leader, Sociotechnical Architect, Software Engineer & Continuous Learner.
+description: > # this means to ignore newlines until "baseurl:" # Independent Consulting & Resources for Sustainable Evolution of Tech-enabled Organizations
+  Independent Consulting & Resources for Enabling Tech Leadership and Sustainable Co-Evolution of Tech-enabled Organizations (teams/org, tech systems & products - driven by customer & business goals)
 
 # social links
 twitter_username: emgsilva
@@ -17,12 +17,14 @@ show_excerpts: false
 
 # pages to show on header
 header_pages:
-  - about.html
+  - consulting.html
+  - projects/sociotechnical-architecture/sociotechnical-architecture.html
   - articles.html 
   - tla_insights.html
   - projects/sociotechnical/sociotechnical.html
   - projects.html
   - talks.html
+  - about.html
 
 # Build settings
 # markdown: CommonMarkGhPages
