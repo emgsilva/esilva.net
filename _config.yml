@@ -30,8 +30,7 @@ header_pages:
 # markdown: CommonMarkGhPages
 # markdown: kramdown
 # markdown: CommonMark
-# theme: minima
-remote_theme: jekyll/minima
+theme: minima
 
 # shows posts schedule for future release
 future: true
@@ -43,8 +42,6 @@ permalink: /articles/:title
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-remote-theme
-  # - jekyll-commonmark-ghpages
 
 whitelist: 
   - jekyll-redirect-from
