@@ -20,6 +20,7 @@ title:  "Automated Software Architecture Visualization & Emergent Understanding"
 - [Going beyond technical systems visualization](#going-beyond-technical-systems-visualization)
 - [Final Note](#final-note)
 - [References](#references)
+- [Conversation](#conversation)
 
 ## Introduction
 
@@ -123,3 +124,7 @@ I have been researching the topic of sociotechnical systems architecture visuali
 - [Software-Parade] [Software Parade](https://www.youtube.com/watch?v=4kPvUCbQXDs), Kristel Nieuwenhuys<a name="software-parade"></a>
 - [Informational-Aspirational-Architecture] [Informational and Aspirational Architecture](https://twitter.com/natpryce/status/1296799689279516672), Nat Pryce<a name="informational-aspirational-architecture"></a>
 - [Conways-Law] [Conway's Law](http://www.melconway.com/Home/Conways_Law.html), Melvin Conway <a name="conways-law"></a>
+
+## Conversation
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“The (r)evolution... will be visualized in realtime”<br><br>Automated software architecture visualization enables orgs &amp; teams to “see more &amp; better” and shape new options to design and evolve their systems.<br><br>Check out my latest article on this topic 👇🏻<a href="https://t.co/OUbbf5vC0O">https://t.co/OUbbf5vC0O</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1579841056493170690?ref_src=twsrc%5Etfw">October 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
