@@ -110,7 +110,7 @@ Why do I think that? Because the way we architect our teams and their interactio
 
 This is the first article of a series on this topic. In the following article, I will explore the topic of the last section and reflect on my learnings, developments, and perspective. In particular, I will look at the ideas discussed in this article and how to integrate the “social system” perspective,  i.e., be able to visualize and understand the sociotechnical systems architecture.
 
-I have been researching the topic of sociotechnical systems architecture visualization and understanding for a while ([esilva.net/sociotechnical](esilva.net/sociotechnical)). This is also a topic I am now actively helping companies with my consulting services ([esilva.net/consulting](esilva.net/consulting)). If any of this is of interest to you, feel free to [contact me](eduardo@esilva.net) or arrange a [free 30 min check-in](https://calendly.com/esilva-net/30min).
+I have been researching the topic of sociotechnical systems architecture visualization and understanding for a while ([esilva.net/sociotechnical](https://esilva.net/sociotechnical)). This is also a topic I am now actively helping companies with my consulting services ([esilva.net/consulting](https://esilva.net/consulting)). If any of this is of interest to you, feel free to [contact me](mailto:eduardo@esilva.net) or arrange a [free 30 min check-in](https://calendly.com/esilva-net/30min). a
 
 ## References
 
