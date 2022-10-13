@@ -20,11 +20,12 @@ title:  "Automated Software Architecture Visualization & Emergent Understanding"
 - [Going beyond technical systems visualization](#going-beyond-technical-systems-visualization)
 - [Final Note](#final-note)
 - [References](#references)
+- [Tools and Products](#tools-and-products)
 - [Conversation](#conversation)
 
 ## Introduction
 
-***The (r)evolution of the software systems architecture will be visualized in real-time.*** We are seeing a renaissance of software systems visualization with a strong focus on (always up-to-date) automatically generated visualizations created from artifacts and descriptions of the running systems. Among others, the work from Simon Brown has made considerable contributions to shaping these new and more sustainable approaches to software architecture visualization. For example, his work on the C4 Model language [<a href="#c4">C4</a>], but also with Structurizr tool [<a href="#structurizr">Structurizr</a>].Furthermore, we are also seeing the productization and commoditization of many other tools and platforms. This move allows companies to adopt these software systems visualization approaches quickly. A great example is Backstage [<a href="#backstage">Backstage</a>], a platform developed internally by Spotify for software systems visualization. Backstage has been released as an open-source project. It is now being adopted by many companies and getting contributions.
+***The (r)evolution of the software systems architecture will be visualized in real-time.*** We are seeing a renaissance of software systems visualization with a strong focus on (always up-to-date) automatically generated visualizations created from artifacts and descriptions of the running systems. Among others, the work from Simon Brown has made considerable contributions to shaping these new and more sustainable approaches to software architecture visualization. For example, his work on the C4 Model language [<a href="#c4">C4</a>], but also with Structurizr tool [<a href="#structurizr">Structurizr</a>].Furthermore, we are also seeing the productization and commoditization of many other tools and platforms. This move allows companies to adopt these software systems visualization approaches quickly. A great example is Backstage [<a href="#backstage">Backstage</a>], a platform developed internally by Spotify for software systems visualization. Backstage has been released as an open-source project. It is now being adopted by many companies and getting contributions. You can find many other interesting tools [Tools & Products](#tools-and-products) section at the end of the article.
 
 <br>
 <div align="center"><img src="/assets/evolution-software-visualization.png" alt="Evolution of software systems architecture visualization" width="100%"/></div>
@@ -110,7 +111,7 @@ Why do I think that? Because the way we architect our teams and their interactio
 
 This is the first article of a series on this topic. In the following article, I will explore the topic of the last section and reflect on my learnings, developments, and perspective. In particular, I will look at the ideas discussed in this article and how to integrate the “social system” perspective,  i.e., be able to visualize and understand the sociotechnical systems architecture.
 
-I have been researching the topic of sociotechnical systems architecture visualization and understanding for a while ([esilva.net/sociotechnical](https://esilva.net/sociotechnical)). This is also a topic I am now actively helping companies with my consulting services ([esilva.net/consulting](https://esilva.net/consulting)). If any of this is of interest to you, feel free to [contact me](mailto:eduardo@esilva.net) or arrange a [free 30 min check-in](https://calendly.com/esilva-net/30min). a
+I have been researching the topic of sociotechnical systems architecture visualization and understanding for a while ([esilva.net/sociotechnical](https://esilva.net/sociotechnical)). This is also a topic I am now actively helping companies with my consulting services ([esilva.net/consulting](https://esilva.net/consulting)). If any of this is of interest to you, feel free to [contact me](mailto:eduardo@esilva.net) or arrange a [free 30 min check-in](https://calendly.com/esilva-net/30min).
 
 ## References
 
@@ -124,6 +125,13 @@ I have been researching the topic of sociotechnical systems architecture visuali
 - [Software-Parade] [Software Parade](https://www.youtube.com/watch?v=4kPvUCbQXDs), Kristel Nieuwenhuys<a name="software-parade"></a>
 - [Informational-Aspirational-Architecture] [Informational and Aspirational Architecture](https://twitter.com/natpryce/status/1296799689279516672), Nat Pryce<a name="informational-aspirational-architecture"></a>
 - [Conways-Law] [Conway's Law](http://www.melconway.com/Home/Conways_Law.html), Melvin Conway <a name="conways-law"></a>
+
+## Tools and Products
+
+- [Archium](https://archium.io) - service catalog and architecture knowledge base automatically built distributed tracing data.
+- [Aplas](https://aplas.com) - platform for visualizing software landscapes using mapping paradigms. Big focus on flexible and customizable visualizations of software systems landscapes (including creating different annotations on the “software map”) to highlight different insights for different people in the organization.
+- [Backstage](https://backstage.io) - Spotify’s open-source software catalog and developer platform. It is quickly becoming one of the major platforms to support software cataloging at scale in organizations. It follows a plugin architecture, which allows adding support to all sorts of tools on top of it to perform different things (e.g., ingestion of data, visualizations, etc.).
+- [Structurizr](https://structurizr.org) - Tools developed by Simon Brown to create software architecture diagrams and documentation based on the [C4 Model](https://c4model.com). Structurizr lets you create a single model with multiple views, which can be rendered in many tools.
 
 ## Conversation
 
