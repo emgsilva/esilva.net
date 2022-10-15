@@ -1,8 +1,8 @@
 title: esilva.net
 author: Eduardo da Silva
 email: eduardo@esilva.net
-description: > # this means to ignore newlines until "baseurl:" # Independent Consulting & Resources for Sustainable Evolution of Tech-enabled Organizations
-  Independent Consulting & Resources for Enabling Tech Leadership and Sustainable Co-Evolution of Tech-enabled Organizations (teams/org, tech systems & products - driven by customer & business goals)
+description: > # this means to ignore newlines until "baseurl:"
+  Independent consulting & resources on enabling sociotechnical leadership and sustainable co-evolution of tech-enabled organizations (teams/org, tech systems & products - driven by customer & business goals)
 
 # social links
 twitter_username: emgsilva
@@ -27,9 +27,6 @@ header_pages:
   - about.html
 
 # Build settings
-# markdown: CommonMarkGhPages
-# markdown: kramdown
-# markdown: CommonMark
 theme: minima
 
 # shows posts schedule for future release
@@ -48,7 +45,3 @@ whitelist:
 
 feed:
   path: feed.xml
-
-# commonmark:
-  # options: ["UNSAFE", "SMART", "FOOTNOTES", "LIBERAL_HTML_TAG", "GITHUB_PRE_LANG", "FULL_INFO_STRING", "STRIKETHROUGH_DOUBLE_TILDE"]
-  # extensions: ["strikethrough", "autolink", "table", "tagfilter"]
