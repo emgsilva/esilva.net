@@ -64,7 +64,7 @@ GitLab "explicitness" on how they approach their vision, strategy and planning d
 2. **Week (5 workdays)**
     1. 1-1 cadences
     2. Team work
-3. **Month (4.3 weeks)**
+3. **Month (4 weeks)**
     - Releases
     - Retrospectives
     - KPIs
