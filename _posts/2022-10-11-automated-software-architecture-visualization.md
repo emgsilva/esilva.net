@@ -10,12 +10,12 @@ title:  "Automated Software Architecture Visualization & Emergent Understanding"
 <br>
 
 - [Introduction](#introduction)
-- [Key enablers for scalable & automated software system architecture visualization](#key-enablers-for-scalable--automated-software-system-architecture-visualization)
+- [Key enablers for scalable \& automated software system architecture visualization](#key-enablers-for-scalable--automated-software-system-architecture-visualization)
   - [Languages to describe software system architecture](#languages-to-describe-software-system-architecture)
   - [Platforms for decentralized software systems architecture visualization](#platforms-for-decentralized-software-systems-architecture-visualization)
   - [Commoditization of automatic generation of software systems architecture visualization](#commoditization-of-automatic-generation-of-software-systems-architecture-visualization)
 - [Informational architecture as a driver for emergent understanding and better aspirational architecture](#informational-architecture-as-a-driver-for-emergent-understanding-and-better-aspirational-architecture)
-  - [Informational architecture & aspirational architecture](#informational-architecture--aspirational-architecture)
+  - [Informational architecture \& aspirational architecture](#informational-architecture--aspirational-architecture)
   - [Emergent understanding](#emergent-understanding)
 - [Going beyond technical systems visualization](#going-beyond-technical-systems-visualization)
 - [Final Note](#final-note)
