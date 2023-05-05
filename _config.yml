@@ -30,7 +30,7 @@ header_pages:
   - about.html
 
 # Build settings
-remote_theme: jekyll/minima
+theme: minima
 
 # shows posts schedule for future release
 future: true
@@ -42,7 +42,6 @@ permalink: /articles/:title
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-remote-theme
 
 whitelist: 
   - jekyll-redirect-from
