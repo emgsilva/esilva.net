@@ -42,6 +42,7 @@ permalink: /articles/:title
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme
 
 whitelist: 
   - jekyll-redirect-from
