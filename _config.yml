@@ -13,7 +13,7 @@ mastodon:
   instance: mastodon.social
 
 # google analytics configs
-google_analytics: UA-114511801-1
+google_analytics: G-JBKWZPQ4KP
 
 # set to true to show excerpts on the homepage
 show_excerpts: false
@@ -30,7 +30,7 @@ header_pages:
   - about.html
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 
 # shows posts schedule for future release
 future: true
