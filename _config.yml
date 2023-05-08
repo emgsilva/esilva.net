@@ -13,7 +13,7 @@ mastodon:
   instance: mastodon.social
 
 # google analytics configs
-google_analytics: G-JBKWZPQ4KP
+google_analytics: UA-114511801
 
 # set to true to show excerpts on the homepage
 show_excerpts: false
