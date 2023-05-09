@@ -29,6 +29,9 @@ header_pages:
 # Build settings
 theme: minima
 
+# google analytics configs
+google_analytics: UA-114511801
+
 # shows posts schedule for future release
 future: true
 
