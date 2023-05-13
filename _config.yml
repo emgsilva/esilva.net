@@ -15,6 +15,9 @@ mastodon:
 # set to true to show excerpts on the homepage
 show_excerpts: false
 
+# google analytics configs
+google_analytics: UA-114511801-1
+
 # pages to show on header
 header_pages:
   - consulting.html
@@ -28,9 +31,6 @@ header_pages:
 
 # Build settings
 theme: minima
-
-# google analytics configs
-google_analytics: UA-114511801
 
 # shows posts schedule for future release
 future: true
