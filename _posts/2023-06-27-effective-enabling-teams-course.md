@@ -3,7 +3,7 @@ layout: post
 title:  "Effective Enabling Teams - Video Course"
 ---
 
-I am so happy to announce the launching of my new video course on [“Effective Enabling Teams”](https://academy.teamtopologies.com/courses/effective-enabling-teams) for Team Topologies Academy, which I created with the brilliant Manuel Pais (co-author of the Team Topologies book). This course helps understand the importance of Enabling Teams and how to kickstart and scale them to support a sustainable fast flow of change and value in an org.
+I am so happy to announce the launching of my new video course on [“Effective Enabling Teams”](https://academy.teamtopologies.com/courses/effective-enabling-teams) for Team Topologies Academy, which I created with the brilliant Manuel Pais (co-author of the Team Topologies book). This course will help you understand the importance of Enabling Teams to address capability gaps and support a fast flow of changes and value to customers. You will learn how and when to kickstart, measure and scale Enabling Teams.
 
 <div align="center"><a href="/assets/effective-enabling-teams.png"><img src="/assets/effective-enabling-teams.png" alt="Effective Enabling Teams" width="100%"/></a></div><br>
 <div align="center"><a href="/assets/effective-enabling-teams-curriculum.png"><img src="/assets/effective-enabling-teams-curriculum.png" alt="Effective Enabling Teams course curriculum" width="60%"/></a></div><br>
