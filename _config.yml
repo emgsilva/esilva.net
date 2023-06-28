@@ -20,11 +20,12 @@ google_analytics: UA-114511801-1
 
 # pages to show on header
 header_pages:
+  - projects/sociotechnical/sociotechnical.html
+  - projects/architecture-topologies/architecture-topologies.html
+  - projects/enabling-teams/enabling-teams.html
   - consulting.html
-  - projects/sociotechnical-architecture/sociotechnical-architecture.html
   - articles.html 
   - tla_insights.html
-  - projects/sociotechnical/sociotechnical.html
   - projects.html
   - talks.html
   - about.html
