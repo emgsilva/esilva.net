@@ -16,7 +16,7 @@ mastodon:
 show_excerpts: false
 
 # google analytics configs
-google_analytics: UA-114511801-1
+google_analytics: G-JBKWZPQ4KP
 
 # pages to show on header
 header_pages:
