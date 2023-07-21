@@ -50,3 +50,9 @@ The main elements presented in the book are:
 Team Topologies is one of the most relevant books I have read in recent years. In my opinion it will become a classic and foundational book to help our industry to move from the narrow obsession into the "technical systems" and consolidate proper sociotechnical approaches to architect our systems (organization and teams that own and build the technical systems). This is essential to maximize our impact. Neglecting this is a recipe for problems (i.e.: teams are not set adequately to own/build the technical systems that are provide the business impact intended).
 
 > Note: I have published some further "raw notes" on the book in this [Twitter thread](https://twitter.com/emgsilva/status/1310943371817635840).
+
+<div style="border:1px dotted black; padding:1em; background-color: beige">
+    <h3><b>ℹ️ I offer consulting services and products on this topic</b></h3>
+    <p>If you are looking for help on these topics feel free to <a href="mailto:eduardo@esilva.net">contacting me</a>, and/or check my <a href="/consulting">consulting</a> and <a href="/products">products</a> pages for more details on how I may be of help.</p>
+</div>
+<br>

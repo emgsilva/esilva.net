@@ -68,3 +68,9 @@ WIP - (will be sharing some notes on the examples soon)
 - [Systems-Understanding-Malan] [Systems Understanding](https://twitter.com/ruthmalan/status/1093294478641823744), Ruth Malan<a name="systems-understanding-malan"></a>
 - [Sociotech-Arch-Silva] [Sociotechnical Architecture](https://esilva.net/sociotechnical), Eduardo da Silva<a name="sociotech-arch-silva"></a>
 - [Systems-Thinking-Barton_Haslett] [Analysis, synthesis, systems thinking and the scientific method: Rediscovering the importance of open systems](https://www.researchgate.net/publication/229729730_Analysis_synthesis_systems_thinking_and_the_scientific_method_Rediscovering_the_importance_of_open_systems), John Barton, Tim Haslett<a name="systems-thinking-barton_haslett"></a>
+
+<div style="border:1px dotted black; padding:1em; background-color: beige">
+    <h3><b>ℹ️ I offer consulting services and products on this topic</b></h3>
+    <p>If you are looking for help on these topics feel free to <a href="mailto:eduardo@esilva.net">contacting me</a>, and/or check my <a href="/consulting">consulting</a> and <a href="/products">products</a> pages for more details on how I may be of help.</p>
+</div>
+<br>

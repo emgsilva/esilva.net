@@ -63,3 +63,9 @@ Such insights are rather useful and provide several principles to succeed in bei
 ## Conclusion
 
 Patrick is a reference for Tech Leads and a proven <a href="https://www.thekua.com/atwork/tech-lead-course/" target="_blank">mentor on the topic</a>, so this book is, in my opinion, a "must read" for people growing as Tech Leads or supporting people on growing into that role. I have learned a great deal from this book, in particular it helped me to organize and validate patterns of being a Tech Lead. I hope as an industry we can be more explicit and supportive to people taking the role of Tech Lead. They are a pillar within teams building technical products, by clearly defining and promoting the product technical vision and making sure that teams are aligned and mature. Patrick has another good resource for this, namely the <a href="https://www.thekua.com/atwork/2019/02/the-trident-model-of-career-development/" target="_blank">Trident Model</a>, which contrary to the classical model that only has ICs and Managers career paths, also adds the Technical Leadership track. I think all of these resources are great contributions on making this role much clearer and explicit within modern technical organizations.
+
+<div style="border:1px dotted black; padding:1em; background-color: beige">
+    <h3><b>ℹ️ I offer consulting services and products on this topic</b></h3>
+    <p>If you are looking for help on these topics feel free to <a href="mailto:eduardo@esilva.net">contacting me</a>, and/or check my <a href="/consulting">consulting</a> and <a href="/products">products</a> pages for more details on how I may be of help.</p>
+</div>
+<br>

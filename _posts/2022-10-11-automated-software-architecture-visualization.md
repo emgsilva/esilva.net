@@ -136,3 +136,9 @@ I have been researching the topic of sociotechnical systems architecture visuali
 ## Conversation
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“The (r)evolution... will be visualized in realtime”<br><br>Automated software architecture visualization enables orgs &amp; teams to “see more &amp; better” and shape new options to design and evolve their systems.<br><br>Check out my latest article on this topic 👇🏻<a href="https://t.co/OUbbf5vC0O">https://t.co/OUbbf5vC0O</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1579841056493170690?ref_src=twsrc%5Etfw">October 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div style="border:1px dotted black; padding:1em; background-color: beige">
+    <h3><b>ℹ️ I offer consulting services and products on this topic</b></h3>
+    <p>If you are looking for help on these topics feel free to <a href="mailto:eduardo@esilva.net">contacting me</a>, and/or check my <a href="/consulting">consulting</a> and <a href="/products">products</a> pages for more details on how I may be of help.</p>
+</div>
+<br>

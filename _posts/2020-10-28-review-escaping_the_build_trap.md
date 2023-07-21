@@ -38,3 +38,9 @@ The book is organized in five parts, in the following I give a short analysis (a
 Truly enjoyed reading this book, it provided a lot of clarity on what Product Thinking is and a wide range of of ideas and tools on how to develop true Product-led organizations. I would recommend this book to anyone interested in learning about Product Thinking, Product Manager role and Product Management. Furthermore, also very inspiring for people working on setting up and optimization product-led organizations. It is also very interesting for (Sociotechnical) Architects, and people that are working on setting up Organization Systems and Technical Systems behind the product - as Conway's Law shows these two systems are always inter-twinned, and to me they cannot be designed or evolved without having clarity on "where do we want to go as a company", i.e.: the Product Strategy and Vision.
 
 > Note: I have published some further "raw notes" on the book in this [Twitter thread](https://twitter.com/emgsilva/status/1319975560945324032).
+
+<div style="border:1px dotted black; padding:1em; background-color: beige">
+    <h3><b>ℹ️ I offer consulting services and products on this topic</b></h3>
+    <p>If you are looking for help on these topics feel free to <a href="mailto:eduardo@esilva.net">contacting me</a>, and/or check my <a href="/consulting">consulting</a> and <a href="/products">products</a> pages for more details on how I may be of help.</p>
+</div>
+<br>

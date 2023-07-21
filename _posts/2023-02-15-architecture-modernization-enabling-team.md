@@ -121,3 +121,9 @@ An anti-pattern is an AMET that does the work and makes the decisions. They have
 **Communicate and facilitate organizational learning** AMET should focus on communicating things and facilitating learning in the initiative and the organization. By doing this, the AMET helps the initiative to succeed and supports the broader organization to learn from the initiative. This can be made happen in different forms, for example, Request-For-Comments (RFCs) around significant design changes (where anyone can share input), regular progress meetings (where anyone can join and see the latest developments on the initiative), etc.
 
 **Don’t create an AMET if you don’t need one** In time organizations become more able to cope with continuous architecture modernization. As such, if the organization can handle that modernization, there is no need to create an AMET. Creating an AMET may be counterproductive since teams can self-organize to drive modernization efforts.
+
+<div style="border:1px dotted black; padding:1em; background-color: beige">
+    <h3><b>ℹ️ I offer consulting services and products on this topic</b></h3>
+    <p>If you are looking for help on these topics feel free to <a href="mailto:eduardo@esilva.net">contacting me</a>, and/or check my <a href="/consulting">consulting</a> and <a href="/products">products</a> pages for more details on how I may be of help.</p>
+</div>
+<br>

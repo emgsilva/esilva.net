@@ -15,14 +15,14 @@ permalink: /sociotechnical/sociotechnical-architecture_why-and-what.html
 **Index:**
 
 - [Introduction](#introduction)
-- [Setting up a Restaurant for Success](#restaurant-traits)
-  - [Trait 1: Conway's Law](#trait1)
-  - [Trait 2: Team Cognitive Load](#trait2)
-  - [Trait 3: Team Boundaries & Interrelations](#trait3)
-  - [Trait 4: Continuous Discovery & Delivery in Team](#trait4)
-  - [Trait 5: Understand your context & Design based on that](#trait5)
-- [Definition: Sociotechnical Architecture](#socio-tech-arch-definition)
-- [The Sociotechnical Evolution (Loop)](#socio-tech-evolution-loop)
+- [Setting up a Restaurant for Success ⇦](#setting-up-a-restaurant-for-success-)
+  - [Trait 1: your staff defines your cooking and experiences ⇦](#trait-1-your-staff-defines-your-cooking-and-experiences-)
+  - [Trait 2: Chefs cannot cook, serve and do the dishes at the same time ⇦](#trait-2-chefs-cannot-cook-serve-and-do-the-dishes-at-the-same-time-)
+  - [Trait 3: Restaurant value/experience is the sum of several streams of activities... it is not only the food in a plate ⇦](#trait-3-restaurant-valueexperience-is-the-sum-of-several-streams-of-activities-it-is-not-only-the-food-in-a-plate-)
+  - [Trait 4: don't hand recipes to your chefs, empower them to discover new recipes! ⇦](#trait-4-dont-hand-recipes-to-your-chefs-empower-them-to-discover-new-recipes-)
+  - [Trait 5: because #1 restaurant does something it does not mean it will work for you and your crew ⇦](#trait-5-because-1-restaurant-does-something-it-does-not-mean-it-will-work-for-you-and-your-crew-)
+- [Definition: Sociotechnical Architecture ⇦](#definition-sociotechnical-architecture-)
+- [The Sociotechnical Evolution (Loop) ⇦](#the-sociotechnical-evolution-loop-)
 - [Summary](#summary)
 - [References](#references)
 - [Changelog](#changelog)
@@ -116,3 +116,9 @@ In this first article I gave context and motivation on why it is so important to
 ## Changelog
 
 * 01/07/2020: "Beta/RFC", first public version of the article published (open "Request For Comments" - RFC)
+
+<div style="border:1px dotted black; padding:1em; background-color: beige">
+    <h3><b>ℹ️ I offer consulting services and products on this topic</b></h3>
+    <p>If you are looking for help on these topics feel free to <a href="mailto:eduardo@esilva.net">contacting me</a>, and/or check my <a href="/consulting">consulting</a> and <a href="/products">products</a> pages for more details on how I may be of help.</p>
+</div>
+<br>

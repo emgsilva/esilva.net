@@ -25,3 +25,9 @@ I also love and share his take on the weird discussions that are happening aroun
 ⭐️ His conclusion sums it all up pretty well: "A lot of the current takes on Platform Engineering are “wrong”, and in my opinion, they will lead people to suffer from the same old problems of siloing development and expertize. My advice is to read the Team Topologies book positioning of platform teams, practice continuous delivery and good engineering practices to manage the complexity of your systems and don’t buy the hype that this is some kind of brand new approach to software development".
 
 I fully agree with these ideas from Dave. I also propose people to look further on this topic. For example, look at the work and thinking of [Jabe Bloom](https://www.linkedin.com/in/jabebloom) on Platforms (also his podcast on the topic: [https://www.youtube.com/@Ergonautic](https://www.youtube.com/@Ergonautic)). For example, his great work on the "Three Economies" ([https://blog.jabebloom.com/2020/03/04/the-three-economies-an-introduction](https://blog.jabebloom.com/2020/03/04/the-three-economies-an-introduction)). This brings a level of depth and nuance to this discussion that, to me, is very much needed to make good progress on these discussions!
+
+<div style="border:1px dotted black; padding:1em; background-color: beige">
+    <h3><b>ℹ️ I offer consulting services and products on this topic</b></h3>
+    <p>If you are looking for help on these topics feel free to <a href="mailto:eduardo@esilva.net">contacting me</a>, and/or check my <a href="/consulting">consulting</a> and <a href="/products">products</a> pages for more details on how I may be of help.</p>
+</div>
+<br>

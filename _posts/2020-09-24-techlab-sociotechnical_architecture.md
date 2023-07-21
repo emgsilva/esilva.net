@@ -19,3 +19,9 @@ We touched several elements such as:
 All of these topics were touched while talking about "restaurants" and how important the "crew" is to get great results - this is a running example I have on my [Introduction to Sociotechnical series](https://esilva.net/sociotechnical).
 
 Check the whole podcast here: [https://techlab.bol.com/sociotechnical-architecture-to-maximize-impact](https://techlab.bol.com/sociotechnical-architecture-to-maximize-impact)
+
+<div style="border:1px dotted black; padding:1em; background-color: beige">
+    <h3><b>ℹ️ I offer consulting services and products on this topic</b></h3>
+    <p>If you are looking for help on these topics feel free to <a href="mailto:eduardo@esilva.net">contacting me</a>, and/or check my <a href="/consulting">consulting</a> and <a href="/products">products</a> pages for more details on how I may be of help.</p>
+</div>
+<br>
