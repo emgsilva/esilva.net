@@ -97,7 +97,7 @@ Following the main point of discussion of our conversation: the idea that a lot 
 
 Although Architecture was not the podcast's main topic, we naturally gravitated to the importance of how organizations approach Architecture to enable many of the ideas we were discussing - especially this emergence and consolidation of valuable and usable platforms.
 
-We discussed how important it is to modernize how we approach architecture, moving from “controlling” to more “enabling” approaches to architecture. This is a topic I have been thinking about and doing work on over the past few years - and I call it [“Architecture Organization Topologies”](https://esilva.net/architecture-topologies).
+We discussed how important it is to modernize how we approach architecture, moving from “controlling” to more “enabling” approaches to architecture. This is a topic I have been thinking about and doing work on over the past few years - and I call it [“Architecture Topologies”](https://esilva.net/architecture-topologies).
 
 What we ended up discussing is that it is essential to help organizations grow into these thinking models and ways where teams and people close to problems can leverage their knowledge (and knowledge around them related to those challenges) to better design and decide on how to address the challenges they are facing. That becomes a natural key enabler to identify organizations' most valuable and usable platforms eventually.
 
