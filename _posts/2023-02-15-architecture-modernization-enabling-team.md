@@ -4,6 +4,9 @@ title:  "Architecture Modernization Enabling Teams (AMET)"
 ---
 
 > _I co-authored this article with [Nick Tune](https://nick-tune.me/) ([article on Nick's blog](https://medium.com/nick-tune-tech-strategy-blog/architecture-modernization-enabling-teams-amet-23a7f867b284)) based on our individual experiences and experiences and learnings from working together with clients. It touches on several topics we are actively writing, developing, and [consulting](/consulting) on, in particular: [Architecture Modernization](https://www.empathysoft.co.uk), [Team Topologies - Enabling Teams](/enabling-teams), and [Architecture Topologies](/architecture-topologies) (AMET is an example of an architecture topologies' pattern that we are observing as very effective to help approaching architecture modernization initiatives and architecture practices in an organization). We are going to be exploring this and related topics in future writings._
+>
+> **📣 Update 01/2024:** check our new article on the series on Architecture Modernization Enabling Teams (AMET) here: <a href="/articles/forming-amet">Forming an Architecture Modernization Enabling Team (AMET)</a>
+
 
 <br>
 <div align="center"><a href="/assets/amet.jg"><img src="/assets/amet.jpg" alt="AMET" width="80%"/></a></div>
