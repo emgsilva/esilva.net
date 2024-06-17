@@ -35,7 +35,7 @@ When designing and building software products we have a tendency to focus most o
 To start showcasing this, I will talk about Restaurants...
 
 <a name="restaurant-traits"></a>
-## Setting up a Restaurant for Success</a>
+## Setting up a Restaurant for Success
 
 Restaurants are very interesting sociotechnical systems. They have customers who come and pay for food and nice experiences - these elements form the "value" we provide as a restaurant to our customers, and this is what we (as Restaurant, and people working on it) want to optimize for (based on the customer feedback). For example: we want to make sure we get the maximum financial earnings, have happy customers who return to the restaurant. In order to achieve that we have quite a few elements to consider in our "design space", namely: the dishes we serve, the decoration and the wine, but also the crew we put together and what they can collectively do.
 
