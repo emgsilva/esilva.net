@@ -15,14 +15,14 @@ permalink: /sociotechnical/sociotechnical-architecture_why-and-what.html
 **Index:**
 
 - [Introduction](#introduction)
-- [Setting up a Restaurant for Success ⇦](#setting-up-a-restaurant-for-success-)
-  - [Trait 1: your staff defines your cooking and experiences ⇦](#trait-1-your-staff-defines-your-cooking-and-experiences-)
-  - [Trait 2: Chefs cannot cook, serve and do the dishes at the same time ⇦](#trait-2-chefs-cannot-cook-serve-and-do-the-dishes-at-the-same-time-)
-  - [Trait 3: Restaurant value/experience is the sum of several streams of activities... it is not only the food in a plate ⇦](#trait-3-restaurant-valueexperience-is-the-sum-of-several-streams-of-activities-it-is-not-only-the-food-in-a-plate-)
-  - [Trait 4: don't hand recipes to your chefs, empower them to discover new recipes! ⇦](#trait-4-dont-hand-recipes-to-your-chefs-empower-them-to-discover-new-recipes-)
-  - [Trait 5: because #1 restaurant does something it does not mean it will work for you and your crew ⇦](#trait-5-because-1-restaurant-does-something-it-does-not-mean-it-will-work-for-you-and-your-crew-)
-- [Definition: Sociotechnical Architecture ⇦](#definition-sociotechnical-architecture-)
-- [The Sociotechnical Evolution (Loop) ⇦](#the-sociotechnical-evolution-loop-)
+- [Setting up a Restaurant for Success](#setting-up-a-restaurant-for-success)
+  - [Trait 1: your staff defines your cooking and experiences](#trait-1-your-staff-defines-your-cooking-and-experiences)
+  - [Trait 2: Chefs cannot cook, serve and do the dishes at the same time](#trait-2-chefs-cannot-cook-serve-and-do-the-dishes-at-the-same-time)
+  - [Trait 3: Restaurant value/experience is the sum of several streams of activities... it is not only the food in a plate](#trait-3-restaurant-valueexperience-is-the-sum-of-several-streams-of-activities-it-is-not-only-the-food-in-a-plate)
+  - [Trait 4: don't hand recipes to your chefs, empower them to discover new recipes!](#trait-4-dont-hand-recipes-to-your-chefs-empower-them-to-discover-new-recipes)
+  - [Trait 5: because #1 restaurant does something it does not mean it will work for you and your crew](#trait-5-because-1-restaurant-does-something-it-does-not-mean-it-will-work-for-you-and-your-crew)
+- [Definition: Sociotechnical Architecture](#definition-sociotechnical-architecture)
+- [The Sociotechnical Evolution (Loop)](#the-sociotechnical-evolution-loop)
 - [Summary](#summary)
 - [References](#references)
 - [Changelog](#changelog)
@@ -35,7 +35,7 @@ When designing and building software products we have a tendency to focus most o
 To start showcasing this, I will talk about Restaurants...
 
 <a name="restaurant-traits"></a>
-## Setting up a Restaurant for Success <a href="#restaurant-traits">⇦</a>
+## Setting up a Restaurant for Success</a>
 
 Restaurants are very interesting sociotechnical systems. They have customers who come and pay for food and nice experiences - these elements form the "value" we provide as a restaurant to our customers, and this is what we (as Restaurant, and people working on it) want to optimize for (based on the customer feedback). For example: we want to make sure we get the maximum financial earnings, have happy customers who return to the restaurant. In order to achieve that we have quite a few elements to consider in our "design space", namely: the dishes we serve, the decoration and the wine, but also the crew we put together and what they can collectively do.
 
@@ -46,27 +46,27 @@ In the following I will look into several traits to consider when setting up a r
 > \* <sub>Success can mean many different things. However, in order for us to design a system (such as a Restaurant, or a software product) there must be clarity and vision on "what is success" (especially from a business and product perspectives). This is a precondition to design. If this does not exist you cannot design, because you don't know where you want to go - what is your design space. This does not mean you may not start if you do not have a clear vision. Sometimes you don't know in advance how to fully design your system (especially on "complex" or "chaotic" problems domains - check [<a href="#cynefin">Cynefin</a>] for more info on this). However, you do need to be explicit on this and setup experiments to learn and sharpen your strategy and vision. Do not "blindly do it", you will most likely struggle (or simply fail).</sub>
 
 <a name="trait1"></a>
-### Trait 1: your staff defines your cooking and experiences <a href="#trait1">⇦</a>
+### Trait 1: your staff defines your cooking and experiences
 
 Whatever mission you have and product you envision, make sure you bring together a team that can properly implement it. For example, if you want to open a restaurant that provides amazing French food and drink experiences, you need to get chefs and wine experts on those. They need to excel in their discipline, but they also need to be able collaborate and bring together their different parts, for example: make sure the dish and wine match perfectly and provide a great experience to the customer.
 
 <a name="trait2"></a>
-### Trait 2: Chefs cannot cook, serve and do the dishes at the same time <a href="#trait2">⇦</a>
+### Trait 2: Chefs cannot cook, serve and do the dishes at the same time
 
 To be able to have a restaurant that operates smoothly and for a long time you need to make sure you have enough people, capacity and skill. You don't want to continuously stretch your crew. They will not be able to do their best work if they have more work than what they can actually do. If this happens you will be sub-optimal and your people will most likely "burn out" and / or leave.
 
 <a name="trait3"></a>
-### Trait 3: Restaurant value/experience is the sum of several streams of activities... it is not only the food in a plate <a href="#trait3">⇦</a>
+### Trait 3: Restaurant value/experience is the sum of several streams of activities... it is not only the food in a plate
 
 Your restaurant has different parts and "streams of value" that should operate as independent as possible (in order to maximize their outcomes), however they must align and come together in a coherent product to the customer. Our goal is to maximize the value exchange with the customer. For example, we want to have a good combination of dish, wine and the actual serving in order to make sure the customer is happy to pay for it, and furthermore increase the chances of coming back (maybe even recommend our restaurant to friends).
 
 <a name="trait4"></a>
-### Trait 4: don't hand recipes to your chefs, empower them to discover new recipes! <a href="#trait4">⇦</a>
+### Trait 4: don't hand recipes to your chefs, empower them to discover new recipes!
 
 Do you want to provide unique experiences to your customer, so that we you can maximize your value exchange, by for example, regularly having them coming back? Then you better allow your crew (experts on their crafts) to do their best job, experiment and continuously discover how to improve your restaurant (product).
 
 <a name="trait5"></a>
-### Trait 5: because #1 restaurant does something it does not mean it will work for you and your crew <a href="#trait5">⇦</a>
+### Trait 5: because #1 restaurant does something it does not mean it will work for you and your crew
 
 Just because the #1 restaurant in the world was successful with a given model, do not blindly copy it. Your restaurant will have a specific context, mission and constraints around it. Break those down to understand your real design space. Then build your solution from there. This does not mean you should get inspiration and learn from others. However, don't blindly apply them on your restaurant.
 
@@ -77,7 +77,7 @@ When we look into all these traits, which address "core design decisions", we se
 This holistic design strategy is foundational of "Sociotechnical systems" [<a href="#sociotechnical-systems">Sociotechnical-Systems</a>], and in the context of building software products "Sociotechnical Architecture".
 
 <a name="socio-tech-arch-definition"></a>
-## Definition: Sociotechnical Architecture <a href="#socio-tech-arch-definition">⇦</a>
+## Definition: Sociotechnical Architecture
 
 What is Sociotechnical Architecture? From my research I did not find a reference definition. My current definition is the following:
 
@@ -90,7 +90,7 @@ What is Sociotechnical Architecture? From my research I did not find a reference
 So, it really concerns with approaching design with an holistic view that can capture the inter-relations of the different systems involved, instead of purely focus into just one (classically the technical systems).
 
 <a name="socio-tech-evolution-loop"></a>
-## The Sociotechnical Evolution (Loop) <a href="#socio-tech-evolution-loop">⇦</a>
+## The Sociotechnical Evolution (Loop)
 
 By having a sociotechnical approach to architecture, we consider teams (or "system of work") and how these drive the build and evolution of the software architecture/product (or "system of software"). Teams discover, capture and interpret the input and signals from the customer (or "market"). This is the input to understand how they can maximize the value provided and exchanged (by the product) with the customer. Figure below shows this "sociotechnical evolution" loop [<a href="#sociotechnical-evolution">Sociotechnical-Evolution</a>].
 
