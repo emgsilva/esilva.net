@@ -3,7 +3,7 @@ layout: post
 title:  "Forming an Architecture Modernization Enabling Team (AMET)"
 ---
 
-> _I co-authored this article with [Nick Tune](https://nick-tune.me/) ([article on Nick's blog](https://medium.com/nick-tune-tech-strategy-blog/forming-an-architecture-modernization-enabling-team-amet-50d70a789331)) based on our experiences and learnings from working together with clients on architecture modernization initiatives. This is the second article of a series on Architecture Modernization Enabling Teams (AMETs). Find more about AMETs here: <a href="/architecture-topologies/amet">esilva.net/architecture-topologies/amet</a>_
+> _I co-authored this article with [Nick Tune](https://nick-tune.me/) ([article on Nick's blog](https://medium.com/nick-tune-tech-strategy-blog/forming-an-architecture-modernization-enabling-team-amet-50d70a789331)) based on our experiences and learnings from working together with clients on architecture modernization initiatives. This is the second article of a series on Architecture Modernization Enabling Teams (AMETs). Find more about AMETs here: <a href="/amet">esilva.net/amet</a>_
 
 <br>
 
