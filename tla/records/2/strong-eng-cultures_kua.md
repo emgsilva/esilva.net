@@ -45,13 +45,3 @@ The final point of the presentation is a check we can do to measure if we are im
 **InsighTweet**
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: Engineering Culture is a tough subject to get right! Stop trying to get it completely right, instead focus on creating systems to observe &amp; continuously improve it. <br><br>Credits: <a href="https://twitter.com/patkua?ref_src=twsrc%5Etfw">@patkua</a><a href="https://t.co/UEIfzzlx11">https://t.co/UEIfzzlx11</a> <a href="https://twitter.com/hashtag/techleadership?src=hash&amp;ref_src=twsrc%5Etfw">#techleadership</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1316829833704415232?ref_src=twsrc%5Etfw">October 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br>
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
-  method="post" target="popupwindow"
-  onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-  <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
-  <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
-    name="embed" /><input type="submit" value="Subscribe" />
-</form>

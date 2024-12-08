@@ -15,8 +15,6 @@ insightweet: |
 
 > ![light](/assets/light-bulb.png) **My Insights:** Ackoff was (and is through his legacy) an inspiring thought leader and promoter of System Thinking. This 15 minutes talk leave no doubt of that and is as a great motivation of why systems thinking perspective is key to approach problems and the design of systems. In a nutshell, and paraphrasing Ackoff: "a system is not the sum of the behaviors of its parts, but the product of its interactions". Given this, if we are purely focusing on the parts in isolation, this will never yield to the maximizing the properties (and efficiency) of the overall system. This is why I strongly believe that when building software products we can't purely focus on the "technical system" to be built (or worse, single parts of it). We must understand the customer, but also make sure we consider (empower) the people who will actually be building the product (technical system). Only then we will be able to maximize our impact (and effectiveness). This may not be trivial, but failing to do so will lead to all sorts of challenges that will block the improvement of the overall socio-technical system, or even degrade it.
 
-(Subscribe <a href="https://tinyletter.com/tla_insights" target="_blank">here</a> or <a href="https://twitter.com/emgsilva">follow me on Twitter</a> to get notified about new TLA_insights)
-
 ## Analysis & Summary
 
 The insights and notes of this record are inspired and driven by a short talk from Russell Ackoff on the core ideas Systems Thinking [<a href="#systems-thinking-ackoff">System-Thinking-Ackoff</a>] (video below). Ackhoff is a well known figure in the systems thinking world and this talk is a great 15 minutes 101 on this topic.
@@ -52,13 +50,3 @@ He finishes the talk with several amazing remarks, namely:
 **InsighTweet**
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: Systems thinking enables designing &quot;what we want&quot; instead of &quot;what we don&#39;t want&quot; in a given part. This is key as a system is not the sum of the behaviors of its parts, but the product of its interactions.<br><br>References: Ackoff<br><br>+details ⤵️<a href="https://t.co/qSUelsFvvS">https://t.co/qSUelsFvvS</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1367483281252433920?ref_src=twsrc%5Etfw">March 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br>
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
-  method="post" target="popupwindow"
-  onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-  <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
-  <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
-    name="embed" /><input type="submit" value="Subscribe" />
-</form>

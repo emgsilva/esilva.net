@@ -26,7 +26,7 @@ On a personal note: September and October were very eventful in terms of develop
 - [participated on the TechLab podcast](https://techlab.bol.com/sociotechnical-architecture-to-maximize-impact/) talking about Sociotechnical Architecture, and how this is so important to maximize the impact of our efforts while building software products;
 - published long overdue reviews: first for the book [Team Topologies](https://esilva.net/articles/review-team_topologies), which is also my first entry in this record and then for the book [Escaping the Build Trap](https://esilva.net/articles/review-escaping_the_build_trap). Both of these books are amazing resources for Sociotechnical Architects - I find them extremely complementary and a great combo to address the "sociotechnical evolution loop" (from customer understanding, to the organizational and technical systems to be set up and support to maximize/optimize the "value exchange" with customer).
 
-I hope you have fun and find some interesting insights here. Don't hesitate to contact me via [email](mailto:emgsilva@gmail.com) or on [Twitter](https://twitter.com/emgsilva) me if you have questions or want to chat about these topics.
+If you found this issue interesting or useful make sure to [follow-me on LinkedIn](https://www.linkedin.com/in/emgsilva) or [Bluesky](https://bsky.app/profile/esilva.net) so you get notified of new records in this topic and other TLA_insights areas. I hope you have fun and find some interesting insights here. Don't hesitate to [contact me](mailto:emgsilva@gmail.com) if you have questions or want to chat about these topics.
 
 ## <b>TLA_insights digest #{{page.digest}}</b>
 
@@ -92,11 +92,3 @@ I hope you have fun and find some interesting insights here. Don't hesitate to c
 
 {% endfor %}
 {% endif %}
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
-    method="post" target="popupwindow"
-    onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-    <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
-    <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
-      name="embed" /><input type="submit" value="Subscribe" />
-</form>

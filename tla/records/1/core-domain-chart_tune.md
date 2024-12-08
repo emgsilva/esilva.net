@@ -32,13 +32,3 @@ This chart can be used for different purposes, e.g.: capability portfolio overvi
 **InsighTweet**
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Core Domain Charts, by <a href="https://twitter.com/ntcoding?ref_src=twsrc%5Etfw">@ntcoding</a> should be a go-to tool to vizualize sociotechnical architecture (“capabilities” nature, topologies of teams owning them, investment strategy, etc.). Crucial to shape strategy. Find my insights in this TLA_insights record: <a href="https://t.co/roHBiH4vP2">https://t.co/roHBiH4vP2</a> <a href="https://t.co/730lZRuu2B">pic.twitter.com/730lZRuu2B</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1304062451546304513?ref_src=twsrc%5Etfw">September 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br>
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
-  method="post" target="popupwindow"
-  onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-  <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
-  <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
-    name="embed" /><input type="submit" value="Subscribe" />
-</form>

@@ -18,8 +18,6 @@ insightweet: |
 
 > ![light](/assets/light-bulb.png) **My Insights:** In modern ("Agile + DevOps + Product-led") organizations there is a tendency to not spend time/efforts looking ahead more than a few weeks in time. While I fully agree with driving our developments incrementally based on discovery with customer, I see a lot of waste and misalignment due to the lack of longer term vision and strategy on how teams take decisions on how to build their products (and platform supporting them). This is where a clear Tech Vision and Strategy can help. Tech Vision and Strategy should be enabling, grounded and realistic, so that it empowers teams to take faster and better decisions. With this teams should be achieving better outcomes, while still have freedom to find the best approach for their specific product/challenge. A key trait to achieve this is to stop treating Tech Strategy as a (one-off) project (done purely top-down), it should be treated as a product that we continuously improve and calibrate based on our learnings (mixing top-down and bottom-up perspectives). Another very important and challenging element is to create conditions to make sure it is properly executed/operated, i.e.: making sure it is usable by teams and it captures the needs of teams and business, etc. To achieve that I strongly believe that companies need to have strong enabling people/teams/communities (e.g.: Architects and/or Tech Leads) that take more explicit ownership on "maintaining" this in close collaboration with teams and leadership.
 
-(Subscribe <a href="https://tinyletter.com/tla_insights" target="_blank">here</a> to get notified about new TLA_insights)
-
 ### Analysis & Summary
 
 The notes and insights of this record are driven by [an article by Sarah Taraporewalla](https://sarahtaraporewalla.com/agile/design/architecture/Defining-a-Tech-Strategy), which focuses on elements to consider when creating what Sarah calls "The Strategy Document". What I find refreshing in this article is that Sarah does not stop on the writing of the document, but goes on and makes great remarks on the execution of the Tech Strategy (namely: how to go about distributing it and even more importantly "continuously improving it over time").
@@ -59,13 +57,3 @@ All these elements will evolve (i.e.: should be continuously updated). However, 
 **InsighTweet**
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: Tech Strategy is not a project, it is a product: continuously improved and calibrated based on learnings. Goal: create more alignment and a clearer framework for decision making for teams / org.<br><br>References: <a href="https://twitter.com/sarahtarap?ref_src=twsrc%5Etfw">@sarahtarap</a><br><br>+details ⤵️<a href="https://t.co/YlnpYFixx1">https://t.co/YlnpYFixx1</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1333048014370451462?ref_src=twsrc%5Etfw">November 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br>
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
-  method="post" target="popupwindow"
-  onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-  <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
-  <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
-    name="embed" /><input type="submit" value="Subscribe" />
-</form>

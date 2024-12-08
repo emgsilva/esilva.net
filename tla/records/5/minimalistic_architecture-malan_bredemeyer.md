@@ -15,8 +15,6 @@ insightweet: |
 
 > ![light](/assets/light-bulb.png) **My Insights:** This short article Ruth Malan and Dana Bredemeyer is packed with insights on how to approach and balance architecture activities in tech-enabled organizations. I resonate a lot with the proposed ideas, especially the striving for a minimalistic architecture approach: "doing just enough" (i.e.: no more, no less). What does that mean? Architects (and/or whoever drives architecture decisions) should focus on addressing the system priorities so that the teams working on those particular elements of the system can maximize their effectiveness for the overall system (instead of a “local optimization”). This approach also strives for leaving the maximum amount of room on decision making for teams working on the "more narrowly scoped" elements of the system, instead of overdoing those decisions from the higher-level system perspective.
 
-(Subscribe <a href="https://tinyletter.com/tla_insights" target="_blank">here</a> or <a href="https://twitter.com/emgsilva">follow me on Twitter</a> to get notified about new TLA_insights)
-
 ## Analysis & Summary
 
 The insights and notes of this record are inspired and driven by an [article](https://www.bredemeyer.com/pdf_files/MinimalistArchitecture.PDF) from two current thought leaders on (Sociotechnical & Software) Architecture developments: Ruth Malan and Dana Bredemeyer. This short article shares several insights they have on how to approach architecture. The article is from 2002, but it is as up-to-date and relevant as it can get. They propose a "minimalistic approach" to architecture, namely: "sort out your highest-priority architecture requirements, and then do the least you possibly can do to achieve them".
@@ -80,13 +78,3 @@ In my view this is the key element to strive for in good architecture: enabling 
 **InsighTweet**
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: striking the right architecture decisions balance, striving for a minimalistic approach, is key to enable &quot;autonomous teams&quot; on their scope &amp; maximize the overall system properties.<br><br>References: <a href="https://twitter.com/ruthmalan?ref_src=twsrc%5Etfw">@ruthmalan</a> <a href="https://twitter.com/DanaBredemeyer?ref_src=twsrc%5Etfw">@DanaBredemeyer</a><br><br>+details ⤵️<a href="https://t.co/DCdTViyK4s">https://t.co/DCdTViyK4s</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1395028802338803726?ref_src=twsrc%5Etfw">May 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br>
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
-  method="post" target="popupwindow"
-  onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-  <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
-  <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
-    name="embed" /><input type="submit" value="Subscribe" />
-</form>

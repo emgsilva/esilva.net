@@ -15,8 +15,6 @@ insightweet: |
 
 > ![light](/assets/light-bulb.png) **My Insights:** inspiring article by Trond Hjorteland on the importance of well crafted "boundaries" between the different parts of our organizations sociotechnical systems. This is something that we all know and do: breaking down our organizations into "parts": can be teams, tribes, etc. However, those exercises are not always driven by elements that enable the overall performance and "harmony" of the system to be maximized. Common reasons for this are: "legacy" ("we always had these departments"); local optimizations (break this team in two to solve the problem, but keep technical systems that should never be owned by these teams); etc. Trond shares several interesting insights on the need to have a more holistic approach on setting up the good boundaries for the parts of our system, given that "a systems depends more on how its parts interact than on how they act separately".
 
-(Subscribe <a href="https://tinyletter.com/tla_insights" target="_blank">here</a> or <a href="https://twitter.com/emgsilva">follow me on Twitter</a> to get notified about new TLA_insights)
-
 ## Analysis & Summary
 
 The insights and notes of this record are inspired and driven by an article by Trond Hjorteland [<a href="#good-fences-hjorteland">Good-Fences-Hjorteland</a>] on the importance of creating the right boundaries for the social and technical parts of our organizations. Trond has been a great source of references and insights over the past year on my sociotechnical & systems thinking exploration journey [<a href="#sociotechnical-silva">Sociotechnical-Silva</a>], so am really happy to finally write a TLA_insights entry on one of his articles. This article belongs to a great series of articles [<a href="#articles-hjorteland">Articles-Hjorteland</a>] - mostly covering the sociotechnical and systems thinking ideas and how to use those to improve how level setting up the (sociotechnical) systems to build software products.
@@ -48,13 +46,3 @@ Every architect dreams of systems with fully decoupled parts. However, this is r
 **InsighTweet**
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: &quot;An harmonious sociotechnical system where the whole is greater than the sum of its parts cannot be reached without some holistic design&quot;... we need good fences to make good neighbors.<br><br>References: <a href="https://twitter.com/trondhjort?ref_src=twsrc%5Etfw">@trondhjort</a><br><br>+details ⤵️<a href="https://t.co/RYqQh4fSDc">https://t.co/RYqQh4fSDc</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1368957494362599426?ref_src=twsrc%5Etfw">March 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br>
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
-  method="post" target="popupwindow"
-  onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-  <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
-  <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
-    name="embed" /><input type="submit" value="Subscribe" />
-</form>

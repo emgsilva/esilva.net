@@ -15,8 +15,6 @@ insightweet: |
 
 > ![light](/assets/light-bulb.png) **My Insights:** this entry explores several insights and ideas sparked by a very interesting article by Gregor Hohpe on typical forms ("topologies") to approach architecture in teams within an organization (i.e.: "team scope architecture"). The article triggered several interesting conversations, which showcase that we still don't have a good common shared language to talk about this topic (even though it is unquestionably important). Nevertheless, I think this article (and efforts like this) are key to having relevant conversations that can shape our understanding and language on this topic. In fact, while reading the article and participating in the conversations I started seeing a lot of parallels between this discussion and the ones we see in the book Team Topologies: a language to discuss teams’ design and evolution. These efforts enable the shaping of a language to discuss how to approach architecture in an organization (maybe we can call it "Architecture Teams Topologies", "Architecture Discipline Topologies" or simply "Architecture Topologies"). In this entry I also develop further on a topic that is not really part of the scope of the article but is rather related, namely: when we talk about approaches to architecture in a team's context it is rather essential to also consider the scopes surrounding them. Why? Because every team and their systems are part of a surrounding system that will inevitably influence each other, so are the architecture approaches we take. I reflect a bit on that in the last section of the text but will detail this further in a separate article.
 
-(Subscribe <a href="https://tinyletter.com/tla_insights" target="_blank">here</a> or <a href="https://twitter.com/emgsilva">follow me on Twitter</a> to get notified about new TLA_insights)
-
 > **Update 2021-07-03: [Architecture Topologies Repo](https://github.com/emgsilva/architecture-topologies)** - given all the enthusiasm around the "Architecture Topologies" idea and opportunities, I have created a GitHub repo where we will be able to collect and consolidate ideas and topologies. It is still being setup, but hopefully soon ready for contributions.
 
 ## Analysis & Summary
@@ -81,13 +79,3 @@ This section is "WIP" (Work-In-Progress). I am working on and developing several
 **InsighTweet**
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: Maybe we should write a book on &quot;Architecture Topologies&quot; to shape a shared language on how we organize and evolve Architecture teams/craft in organizations. <br><br>My ideas and &quot;brainstorming&quot; here ⤵️ (sparked by a great article by <a href="https://twitter.com/ghohpe?ref_src=twsrc%5Etfw">@ghohpe</a>)<a href="https://t.co/ophZ5rEvzU">https://t.co/ophZ5rEvzU</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1409854532872462344?ref_src=twsrc%5Etfw">June 29, 2021</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></blockquote>
-
-<br>
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
-  method="post" target="popupwindow"
-  onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-  <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
-  <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
-    name="embed" /><input type="submit" value="Subscribe" />
-</form>

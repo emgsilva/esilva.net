@@ -15,8 +15,6 @@ insightweet: |
 
 > ![light](/assets/light-bulb.png) **My Insights:** Escaping the Build Trap by Melissa Perri has become my go-to for the basics of Product Thinkings and Management. However, it does not stop there, it also shades light on the aspects required to setup the organizational systems and how to approach them (e.g.: consider setting up your teams and technical systems around value streams). To me this is a very interesting step towards having an holistic view of the systems required to achieve the end goals of Product Thinking: "maximizing the value exchange with customer". Failing to cater for this, and focusing purely on "understanding the customer", is recipe for issues down the road (i.e.: have great ideas but ill setup for the teams and technical artifacts they work with). This is why I find this book refreshing and a step forward on help setting up product-led organizations.
 
-(Subscribe <a href="https://tinyletter.com/tla_insights" target="_blank">here</a> or <a href="https://twitter.com/emgsilva">follow me on Twitter</a> to get notified about new TLA_insights)
-
 ## Analysis & Summary
 
 > (In the following you can read my book review, originally published here: [Review & Reflect: Escaping the Build Trap
@@ -31,13 +29,3 @@ insightweet: |
 **InsighTweet**
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: From outputs to outcomes; from shipping (large #&#39;s of) features to discover (&quot;Why&quot;) the ways (&quot;What&quot;) maximizes the value exchange with the customer, by enabling product teams to continuously do that.<br><br>References: <a href="https://twitter.com/lissijean?ref_src=twsrc%5Etfw">@lissijean</a><br><br>+details ⤵️<a href="https://t.co/rsN9OHs10F">https://t.co/rsN9OHs10F</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1362507145464406016?ref_src=twsrc%5Etfw">February 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br>
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
-  method="post" target="popupwindow"
-  onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-  <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
-  <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
-    name="embed" /><input type="submit" value="Subscribe" />
-</form>

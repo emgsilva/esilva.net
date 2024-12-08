@@ -15,8 +15,6 @@ insightweet: |
 
 > ![light](/assets/light-bulb.png) **My Insights:** defining company and product (or Tech) vision and strategy is just one part of the equation. Many times people forget about the goal of such activities, which is (in my view): to help the company to understand where to move to ("the vision") and (in different time-windows) what strategies and/or plans to move forward in order to take steps towards that vision. GitLab has a rather explicit approach to comprehensively address this, which I find very refreshing. They define clear time-windows and a cadence of activities per phase. This is key and crucial, as we cannot have the same type of actions/activities on a 1 year time-window and a 10 (or even more 30) year window. In far future time-windows (e.g.: 10 or 30 years time) we plans make no sense (the world is a "Chaotic System" - as in Cynefin [<a href="#cynefin">Cynefin</a>], so you "cannot" plan in such time-windows). However, that does not mean we can set a "vision" and/or "north star" to set a common long-term goal/direction for the whole company and product. Furthermore, there are things we can work on in the present to enable moving towards that vision. These tend to be "Values" and foundations for growth, which don't necessarily need a clear plan for a 30 year window. The shorter term strategies, e.g.: 3 year strategies, are much more closer to plans of action. For these we can define "strategic themes" which are more specific and zoom-in into the specific topics to work on the product development in coming years. With that, we can (for example) yearly define even more concrete investment plans, which then can be aligned by the whole company in a regular fashion (e.g.: Quarterly via OKRs and measuring KPIs that enable assessing progress). This connected strategic approach with the right sort of action/focus per period is a powerful tool to enable developing and moving forward as a company and product - i.e.: defines a sort of "Strategy Operating Model".
 
-(Subscribe <a href="https://tinyletter.com/tla_insights" target="_blank">here</a> or <a href="https://twitter.com/emgsilva">follow me on Twitter</a> to get notified about new TLA_insights)
-
 ### Analysis & Summary
 
 The insights and notes of this record are inspired and driven by multiple "open resources" from GitLab used to provide the company with an aligned "direction and strategy" for their organization and product development. In this article I mostly focus on the general principles behind the company and product vision and strategy. However, these can be easily extended and used to define Tech organization vision and strategy. 
@@ -98,13 +96,3 @@ This clarity and connected strategies provides a lot of clarity and in a way set
 **InsighTweet**
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: Strategy is a continuum, but we can define a cadence of alignment periods to set where to focus &amp; which actions (eg: work on &quot;Values&quot; to enable the 10 year vision; OKRs to align with 1-year plan).<br><br>References: <a href="https://twitter.com/gitlab?ref_src=twsrc%5Etfw">@GitLab</a> <a href="https://twitter.com/sytses?ref_src=twsrc%5Etfw">@sytses</a><br><br>+details ⤵️<a href="https://t.co/JmEKsUN5iK">https://t.co/JmEKsUN5iK</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1337002923126091776?ref_src=twsrc%5Etfw">December 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br>
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
-  method="post" target="popupwindow"
-  onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-  <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
-  <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
-    name="embed" /><input type="submit" value="Subscribe" />
-</form>

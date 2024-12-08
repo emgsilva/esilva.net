@@ -17,7 +17,7 @@ This is a long overdue "digest"... this delay is mostly caused by quite some oth
 
 Most of these entries are direct references and preparation materials for several talks and articles I worked on over the past 2-3 months. Namely, my Domain-Driven Design Europe (DDD EU) talk on ["Sociotechnical Architecture as Enabler of Product Thinking"](https://esilva.net/talks/#sociotechnical-dddeu_2021) and a talk I gave for DevOps Lisbon Meetup entitled ["Evolving Tech-enabled Orgs Using Sociotechnical Architecture"](https://esilva.net/talks/#sociotechnical-devopslisbon_2021). I had a lot of fun on these two talks and there are a lot of interesting discussions and follow-up activities. I want to highlight one, namely an interview for InfoQ with Manuel Pais (co-author from Team Topologies), which was placed as a follow-up from the DevOps Lisbon talk. In this interview we go into the subject of why [DevOps is Not Enough for Scaling and Evolving Tech-enabled Organizations](https://www.infoq.com/articles/devops-not-enough-scaling-tech-driven-organizations/), and what other things we need to consider to address that. I have published a [new article on Sociotechnical Architecture](https://esilva.net/articles/evolve_tech_orgs_using_sociotech) and have two others being prepared on the same topic, so stay tuned for more.
 
-I hope you enjoy these four entries! If you found this issue interesting or useful make sure to [subscribe to the newsletter](https://tinyletter.com/tla_insights) or [follow-me on twitter](https://twitter.com/emgsilva) so you get notified of new records in these and other topics. I hope you have fun and find some interesting insights here. Don't hesitate to [contact me](mailto:emgsilva@gmail.com) if you have questions or want to chat about these topics.
+If you found this issue interesting or useful make sure to [follow-me on LinkedIn](https://www.linkedin.com/in/emgsilva) or [Bluesky](https://bsky.app/profile/esilva.net) so you get notified of new records in this topic and other TLA_insights areas. I hope you have fun and find some interesting insights here. Don't hesitate to [contact me](mailto:emgsilva@gmail.com) if you have questions or want to chat about these topics.
 
 ## <b>TLA_insights digest #4 - System Thinking & Product Thinking</b>
 
@@ -98,11 +98,3 @@ I hope you enjoy these four entries! If you found this issue interesting or usef
 
 {% endfor %}
 {% endif %}
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
-    method="post" target="popupwindow"
-    onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-    <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
-    <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
-      name="embed" /><input type="submit" value="Subscribe" />
-</form>

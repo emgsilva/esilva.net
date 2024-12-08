@@ -15,8 +15,6 @@ insightweet: |
 
 > ![light](/assets/light-bulb.png) **My Insights:** product thinking is an approach and philosophy to build products that makes customer the center and the starting point for all the product development activities. The primary goal is to be able to build the product from the understanding of the problem(s) the customer faces. We can still take other elements in consideration (e.g.: business vision & strategy, technology options, etc.), but customer should be the main driver. This means we start the product development from the "problem space" (which is the space of problems the customer faces) and from there we discover and identify "hypothesis" (with certain "assumptions") that can be tested/validated while driving the building of a solution delivered as a product (i.e.: specify the "solution space"). Product thinking is in growing adoption, however many organizations still take a "shy" approach to its adoption, namely it still has to compete with the rather prevalent classical "inside-out business-driven" strategies (which tend to be more "sales driven") or "technology driven" strategies (which are equally "inside-out" design with focus on technical aspects). We still have some ground to cover, but as this articles shows product thinking is a powerful way to build products and is not so difficult to adopt. However, organizations need to embrace and change to maximize its potential. Failing to do so (and rely on sales and technical-driven strategies) leads to building products that are mismatch with customer expectations and with that loosing opportunities or simply fail as a product. An important remark is: product thinking is just one variable in the whole system of systems that need to build and continuously improve our products - more on that in [https://esilva.net/sociotechnical](https://esilva.net/sociotechnical)
 
-(Subscribe <a href="https://tinyletter.com/tla_insights" target="_blank">here</a> or <a href="https://twitter.com/emgsilva">follow me on Twitter</a> to get notified about new TLA_insights)
-
 ## Analysis & Summary
 
 The insights and notes of this record are inspired and driven by an article from Naren Katakam [<a href="#product-thinking-101">Product-Thinking-101</a>]. This article provides a quick, clear and pragmatic introduction the the main aspects behind "Product Thinking", namely: What is it, Why it is important; and How to cultivate it. This is a great article for people that want to quickly grasp the main elements at play in product thinking and furthermore get some useful pointers on how to start on it (i.e.: it makes justice to its name and truly is a nice 101 to product thinking).
@@ -76,13 +74,3 @@ The author argues that in order to cultivate product thinking we must develop sy
 **InsighTweet**
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: Product thinking is about start/focus on the customer (&amp; &quot;problem space&quot;), understand it and from that create &quot;testable hypothesis&quot; to drive/validate the building of the product (in &quot;solution space&quot;)<br><br>Refs: <a href="https://twitter.com/narenkatakam?ref_src=twsrc%5Etfw">@narenkatakam</a><br><br>+details ⤵️<a href="https://t.co/ChxKlPHIdZ">https://t.co/ChxKlPHIdZ</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1353582633779945473?ref_src=twsrc%5Etfw">January 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br>
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
-  method="post" target="popupwindow"
-  onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-  <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
-  <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
-    name="embed" /><input type="submit" value="Subscribe" />
-</form>

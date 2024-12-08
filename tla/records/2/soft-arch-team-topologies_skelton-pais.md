@@ -32,13 +32,3 @@ They cover several other elements very relevant to Modern Software Architects, n
 **InsighTweet**
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: Modern Software Architect should/must be a Sociotechnical Architect! We cannot purely focus in just one of the systems at play, they all influence each other!<br><br>References: <a href="https://twitter.com/TeamTopologies?ref_src=twsrc%5Etfw">@TeamTopologies</a>, <a href="https://twitter.com/manupaisable?ref_src=twsrc%5Etfw">@manupaisable</a>, <a href="https://twitter.com/matthewpskelton?ref_src=twsrc%5Etfw">@matthewpskelton</a><a href="https://t.co/UFOELgKEKT">https://t.co/UFOELgKEKT</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1319016320990695426?ref_src=twsrc%5Etfw">October 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br>
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
-  method="post" target="popupwindow"
-  onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-  <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
-  <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
-    name="embed" /><input type="submit" value="Subscribe" />
-</form>

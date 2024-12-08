@@ -34,13 +34,3 @@ August presents PPV through an excellent and thorough [video series](http://noti
 **InsighTweet**
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Pillars, Pipelines &amp; Vaults (PPV), by <a href="https://twitter.com/augustbradley?ref_src=twsrc%5Etfw">@augustbradley</a> is one of the most robust personal productivity systems I have seen.<br><br>It is designed to provide &quot;Focus &amp; Alignment&quot; to work on the things that matter.<br><br>Find my insights on PPV in this TLA_insights record <a href="https://t.co/W5eURmRSY2">https://t.co/W5eURmRSY2</a> <a href="https://t.co/QvYLO0bOzh">pic.twitter.com/QvYLO0bOzh</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1305869808651689988?ref_src=twsrc%5Etfw">September 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br>
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
-  method="post" target="popupwindow"
-  onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-  <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
-  <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
-    name="embed" /><input type="submit" value="Subscribe" />
-</form>

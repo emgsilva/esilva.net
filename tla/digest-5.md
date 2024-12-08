@@ -25,7 +25,7 @@ When I published the entry on "Architecture Topologies" I got many interesting r
 
 On a personal note, and since the last digest: I have also published a new original article called [Sociotechnical Architecture as Enabler of Product Thinking](https://esilva.net/articles/sociotech_arch_enabling_prod_thinking). The article is a continuation (and deep dive) on my talk from DevOps Lisbon Meetup (["Evolving Tech-enabled Orgs Using Sociotechnical Architecture"](https://esilva.net/talks/#sociotechnical-devopslisbon_2021)) and follow-up interview I had an Manuel Pais (co-author from Team Topologies) - [DevOps is Not Enough for Scaling and Evolving Tech-Driven Organizations](https://www.infoq.com/articles/devops-not-enough-scaling-tech-driven-organizations/). This is a topic I am rather active lately (including first-hand experiences on [bol.com](http://bol.com/)'s product-led organization developments). This article, among other things, touches key elements and traits that I think we need to consider to truly empower tech-enabled product-led organizations. (Spoiler alert: it is not just product thinking, nor DevOps, each on their own silo). This topic also relates closely with the topic of this TLA_insights digest, namely the ideas of having structures and dynamics that holistically empower product development (from all the key perspectives needed, e.g.: value, people and technical). The article raised quite some interesting discussions and sparks, and there will be new articles on this topic in the near future.
 
-I hope you enjoy these four entries! If you found this issue interesting or useful make sure to [subscribe to the newsletter](https://tinyletter.com/tla_insights) or [follow-me on twitter](https://twitter.com/emgsilva) so you get notified of new records in these and other topics. I hope you have fun and find some interesting insights here. Don't hesitate to [contact me](mailto:emgsilva@gmail.com) if you have questions or want to chat about these topics.
+If you found this issue interesting or useful make sure to [follow-me on LinkedIn](https://www.linkedin.com/in/emgsilva) or [Bluesky](https://bsky.app/profile/esilva.net) so you get notified of new records in this topic and other TLA_insights areas. I hope you have fun and find some interesting insights here. Don't hesitate to [contact me](mailto:emgsilva@gmail.com) if you have questions or want to chat about these topics.
 
 ## <b>{{page.title}}</b>
 
@@ -106,11 +106,3 @@ I hope you enjoy these four entries! If you found this issue interesting or usef
 
 {% endfor %}
 {% endif %}
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
-    method="post" target="popupwindow"
-    onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-    <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
-    <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
-      name="embed" /><input type="submit" value="Subscribe" />
-</form>

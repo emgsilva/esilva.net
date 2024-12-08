@@ -15,8 +15,6 @@ insightweet: |
 
 > ![light](/assets/light-bulb.png) **My Insights:** In this article Alberto Brandolini (inventor of [EventStorming](https://www.eventstorming.com)) goes over the parallels, connections and complementary points of Team Topologies and Context Mapping (and in general Strategic Domain-Driven Design (DDD) aspects). Although DDD tends to be associated with the "technical and functional aspect" of software architecture (the "models"), the reality is that all of the aspects of DDD are equally applicable (and relate) to organizational architecture aspects (ones that are very explicitly covered in Team Topologies book). Alberto explores the core ideas of each approach and presents several interesting insights on where these approaches complement each other and address issues that are still rather neglected and may benefit from applying this “combo” (namely "organic growth of our organizations" without explicit design and strategy). I am seeing these two approaches being picked up a lot, most of the time in separation, but some people are bringing them together. I see a lot of value in their combination and think their combined usage will be gaining more traction, as they provide a lot of interesting elements to address sociotechnical architecture evolution in a more robust manner.
 
-(Subscribe <a href="https://tinyletter.com/tla_insights" target="_blank">here</a> or <a href="https://twitter.com/emgsilva">follow me on Twitter</a> to get notified about new TLA_insights)
-
 ## Analysis & Summary
 
 The insights and notes of this record are inspired and driven by an [article](https://blog.avanscoperta.it/2021/04/22/about-team-topologies-and-context-mapping) from Alberto Brandolini (inventor of [EventStorming](https://www.eventstorming.com)) on the core ideas, parallels, connections and complementary points of Team Topologies and Context Mapping (and in general Strategic Domain-Driven Design (DDD) aspects). Alberto explores these ideas and presents several interesting insights that I am sure will increasingly gain more traction - as these two approaches really complement and enrich each other on a lot of aspects to approach sociotechnical architecture evolution.
@@ -48,13 +46,3 @@ Alberto finishes the article by making a great remark on organization evolution:
 **InsighTweet**
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&gt; 💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: Organizations need to start &quot;speaking&quot; a clearer language to understand &amp; drive sociotechnical architecture evolution. <a href="https://twitter.com/TeamTopologies?ref_src=twsrc%5Etfw">@TeamTopologies</a> and DDD Context Mapping offer many elements for that language.<br><br>References: <a href="https://twitter.com/ziobrando?ref_src=twsrc%5Etfw">@ziobrando</a><br><br>+details ⤵️<a href="https://t.co/wIE7VhTMgT">https://t.co/wIE7VhTMgT</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1390609721619632132?ref_src=twsrc%5Etfw">May 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br>
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
-  method="post" target="popupwindow"
-  onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-  <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
-  <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
-    name="embed" /><input type="submit" value="Subscribe" />
-</form>

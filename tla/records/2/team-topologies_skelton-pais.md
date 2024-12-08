@@ -47,13 +47,3 @@ The book has a lot of amazing complementary [resources](https://teamtopologies.c
 **InsighTweet**
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: Team Topologies provides a language to design and evolve orgs and their sociotechnical architecture, i.e.: set up teams that can own &amp; iterate on their products at high-velocity.<br><br>References: <a href="https://twitter.com/TeamTopologies?ref_src=twsrc%5Etfw">@teamTopologies</a>, <a href="https://twitter.com/manupaisable?ref_src=twsrc%5Etfw">@manupaisable</a>, <a href="https://twitter.com/matthewpskelton?ref_src=twsrc%5Etfw">@matthewpskelton</a><a href="https://t.co/wRFbvFZjSY">https://t.co/wRFbvFZjSY</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1317098468524101634?ref_src=twsrc%5Etfw">October 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br>
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
-  method="post" target="popupwindow"
-  onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-  <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
-  <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
-    name="embed" /><input type="submit" value="Subscribe" />
-</form>

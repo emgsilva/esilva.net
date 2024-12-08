@@ -17,8 +17,6 @@ insightweet: |
 
 > ![light](/assets/light-bulb.png) **My Insights:** Tech Strategy is a rather ambiguous term and construct in most organizations and for most people. This has many reasons, but the fact is all organizations have a Tech Strategy (like they have a Software Architecture): sometimes it is explicit and people "see it" and align to it, sometimes it is just an non-explicit thing that exists but is interpreted differently by different people. This last form is very risky and most of the time does not enable to maximize the alignment of the different parts of the organization. That leads to incoherent and conflicting decisions, e.g.: different teams working in extremely different tech stacks, or owning non-essential infrastructure platform systems, among many other things. Having clear (enabling and non-blocking) Tech Strategies is very important for organizations to optimize their "operating model" and how to support their teams on best building their products. As discussed in the referenced article (by Nick Tune), these Tech Strategies may be defined at different levels of abstraction, e.g.: an Enterprise wide Tech Strategy, to provide the "core elements that are common to all the products and teams in the whole organization"; and then have more specific strategies per departments (if needed) and products (as they are almost always at different levels of development and deal with different customer challenges). This enables people to be aligned, and if well defined will not block teams autonomy to take the best decisions on their particular context, but enable them to take those decisions more easily. Furthermore, and essentially: Tech Strategies should be defined to drive the Business Vision and Strategy, i.e.: should not be a pure "technical exercise" but a supporting construct to enable the end goal/ambition of the organization, i.e.: they will change overtime and must adapt/evolve to match each other.
 
-(Subscribe <a href="https://tinyletter.com/tla_insights" target="_blank">here</a> to get notified about new TLA_insights)
-
 ### Analysis & Summary
 
 These insights and notes are focused on Tech Strategy, and are driven by a great article by Nick Tune that touches the "Why" ("the need") of Tech Strategy within (tech) organizations and "What" exactly that can look like to enable the desired effect - technical alignment and velocity.
@@ -65,13 +63,3 @@ Some extra remarks:
 **InsighTweet**
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">💡 <a href="https://twitter.com/hashtag/TLA_insights?src=hash&amp;ref_src=twsrc%5Etfw">#TLA_insights</a>: Tech Strategy, why you need it and what it can look like (in the form of a multi-level approach: enterprise &gt; departments &gt; products).<br><br>References: <a href="https://twitter.com/ntcoding?ref_src=twsrc%5Etfw">@ntcoding</a><br><br>+details ⤵️<a href="https://t.co/WyqDNcWXey">https://t.co/WyqDNcWXey</a></p>&mdash; Eduardo da Silva (@emgsilva) <a href="https://twitter.com/emgsilva/status/1330987553684680704?ref_src=twsrc%5Etfw">November 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br>
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/tla_insights"
-  method="post" target="popupwindow"
-  onsubmit="window.open('https://tinyletter.com/tla_insights', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-  <p><label for="tlemail">Enter your email to be notified of future TLA_insights</label></p>
-  <p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1"
-    name="embed" /><input type="submit" value="Subscribe" />
-</form>
