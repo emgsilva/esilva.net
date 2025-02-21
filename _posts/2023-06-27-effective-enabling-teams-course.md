@@ -5,10 +5,10 @@ title:  "Effective Enabling Teams - Video Course"
 
 I am so happy to announce the launching of my new video course on [“Effective Enabling Teams”](https://academy.teamtopologies.com/courses/effective-enabling-teams) for Team Topologies Academy, which I created with the brilliant Manuel Pais (co-author of the Team Topologies book). This course will help you understand the importance of Enabling Teams to address capability gaps and support a fast flow of changes and value to customers. You will learn how and when to kickstart, measure and scale Enabling Teams.
 
-<div align="center"><a href="/assets/effective-enabling-teams.png"><img src="/assets/effective-enabling-teams.png" alt="Effective Enabling Teams" width="100%"/></a></div><br>
+<div align="center"><a href="/assets/effective-enabling-teams.png"><img src="/assets/effective-enabling-teams.png" alt="Effective Enabling Teams" width="80%"/></a></div><br>
 <div align="center"><a href="/assets/effective-enabling-teams-curriculum.png"><img src="/assets/effective-enabling-teams-curriculum.png" alt="Effective Enabling Teams course curriculum" width="60%"/></a></div><br>
 
-__🔗 link to course: [https://academy.teamtopologies.com/courses/effective-enabling-teams](https://academy.teamtopologies.com/courses/effective-enabling-teams)__
+__🔗 link to course: [https://academy.teamtopologies.com/courses/effective-enabling-teams](https://academy.teamtopologies.com/courses/effective-enabling-teams)__ (⭐️ use eduardo15off code for 15% off on the course - and all Team Topologies Academy courses)
 
 To me, Enabling Teams is a very versatile and strategic team and set of behaviors that, when appropriately leveraged, allow organizations to effectively accelerate their ability to learn and address missing capabilities. This is essential to achieve a “sustainable fast flow of change”! When this is ignored or downplayed (something I very often see - to save costs, and many other “short-termism focused” reasons), the organizations often stagnate and struggle to respond to the many changes coming from their environment (customers, competitors, markets, technological changes, etc.).
 
@@ -34,6 +34,8 @@ I hope you enjoy the course. Feel free to share your feedback; we want to learn 
    src="https://speakerdeck.com/player/73da634417064387916347061aec500d"
    style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen
    scrolling="no" allow="encrypted-media"></iframe></div>
+
+<br><br>
 
 <div style="border:1px dotted black; padding:1em; background-color: beige">
     <h3><b>ℹ️ I offer consulting services and products on this topic</b></h3>
