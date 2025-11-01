@@ -1,67 +1,74 @@
 ---
 layout: default
+title: Eduardo da Silva — Independent Consultant
+permalink: /
+description: "Independent consultant helping tech organizations modernize architecture, teams and leadership to achieve fast flow of value sustainably."
 ---
 
-<div class="home">
-  {% if page.title %}
-  <h1>{{ page.title }}</h1>
-  {% endif %}
+<main class="home">
+  <header class="hero">
+    <div class="hero__content">
+      <h1 class="hero__title">Eduardo da Silva, PhD</h1>
+      <p class="hero__lead">Independent consultant helping tech-enabled organizations modernize architecture, teams and leadership so they can achieve fast flow of value sustainably.</p>
 
-  <div>
-    <img src="assets/photo-eduardo.jpg" width="170px" align="right" hspace="10px">
+      <p>
+        <a href="https://calendly.com/esilva-net/30min" class="cta">☎️ Book a free 30‑min call</a> &nbsp;&nbsp; 
+        <a href="mailto:eduardo@esilva.net" class="link--muted">📧 Email me</a>
+      </p>
 
-    <p>My name is <a href="/about/">Eduardo da Silva</a>, and I am an Independent Consultant on Modernization of Organization Dynamics, Architecture and Leadership. I also am a <a href="https://teamtopologies.com/ttvp">Team Topologies Valued Practitioner (TTVP)</a>.</p>
-    <p><b>My mission is to help (software) tech-enabled organizations to modernize/improve so they can achieve a faster and more sustainable flow of value & change</b> - so, reach better business outcomes (value) and cope with the ever-changing environment (customers, business goals, markets, technological changes, etc.). I do this by bringing modern thinking models (Sociotechnical Systems Thinking, Architecture & Leadership Modernization, Team Topologies, DDD, etc.); helping shape more suitable architecture and operating models; and coaching leaders and teams to sustainably drive the necessary organizational changes. </p>
-    <p>On this website, you can find information on my <a href="/consulting">consulting services</a>, <a href="/products">products</a>, my <a href="/articles/">writings</a> and <a href="/talks/">talks</a>, among other things.</p>
-    <p><b>🤝 <a href="https://calendly.com/esilva-net/30min">Book free 30-min video-call</a> to discuss possible collaborations.</b></p>
-  </div>
-  <br>
+      🧭 <strong>What I do:</strong> Consulting on architecture and organizational modernization/improvement, training & coaching leaders and teams.<br>
+      👥 <strong>Who I help:</strong> Tech-enabled organizations, in particular engineering and product leadership and teams.<br>
+      🎯 <strong>Outcome:</strong> Sustainable fast flow of value, better decision-making, stronger teams and organization capability.<br>
+      <br>
+      <p>On this website, you can find my <a href="/consulting">consulting services</a> and <a href="/products">products</a>, and also check my <a href="/articles/">writings</a>, <a href="/talks/">talks</a>, among other things.</p>
+    </div>
 
-  <img src="assets/products.png" width="50px" align="left" hspace="10px">
-  <h2>{{ page.list_title | default: "Highlighted Products & Services" }}</h2>
-  <br>
+    <div class="hero__img">
+      <img src="assets/photo-eduardo.jpg" alt="Eduardo da Silva">
+    </div>
+  </header>
 
-  ⭐️ <b><a href="https://academy.teamtopologies.com/courses/effective-enabling-teams"> 📹 Effective Enabling Teams video course</a></b> - where, together with Manuel Pais (co-author of Team Topologies book), we provide a solid intro to Enabling Teams, and how to kickstart them, measure their value, and scale them for effective organizational learning and capability building. (💡 use eduardo15off code for 15% off on the course)<br>
-  ⭐️ <b><a href="/products/architecture-modernization-kickstarter">Sociotechnical Architecture Modernization Kickstarter program</a></b> - if you need help understanding and effectively kickstart executing the modernization of your organization, architecture and leadership.<br>
-  ⭐️ <b><a href="/products/architecture-topologies-modernization">Architecture Topologies Modernization program</a></b> - if you need help modernizing your approach to architecture (and practices around that) so you can maximize your organization and teams' ability to learn and, with that, better design and decide.<br>
-  ⭐️ <b><a href="/products/modernization-assessment">Modernization Strategic Assessment & Advice</a></b> - if you need strategic advice (and assessment) on where you are and what may be some good options to start approaching your organization, architecture and leadership.<br><br>
-  
-  <p>I provide several other products and services to help you up-skill, such as: <a href="/products#guided-workshops">⚒️ Guided Workshops</a>, <a href="/products#cohorts">👥 Multi-Week/Month Learn-by-Doing Cohorts</a>, <a href="/products#coaching">📈 Individual and Team Coaching</a>, <a href="/products#video-courses">📽️ Video Courses</a>, and <a href="/products#talks">🗣️ Talks, Keynotes and Inspiration Sessions</a>.</p>
+  <section class="features">
+    <h2>FEATURED SERVICES</h2>
+    <div class="features__grid">
+      <article class="feature-card">
+        <h3>Architecture Modernization Kickstarter</h3>
+        <p>Multi-month program to orient, kickstart and enable modernization work with your teams.</p>
+        <a href="/products/architecture-modernization-kickstarter">Learn more →</a>
+      </article>
 
-  <br>
+      <article class="feature-card">
+        <h3>Effective Enabling Teams</h3>
+        <p>Course to create enabling teams and scale organizational learning & improvement.</p>
+        <a href="https://academy.teamtopologies.com/courses/effective-enabling-teams">Course →</a>
+      </article>
 
-  <div>
-    {% if site.posts.size > 0 %}
-    <img src="assets/articles.png" width="50px" align="left" hspace="10px">
-    <h2>{{ page.list_title | default: "Recent articles" }}</h2>
-    <br>
-    <ul class="post-list">
+      <article class="feature-card">
+        <h3>Modernization Assessment & Advice</h3>
+        <p>Strategic assessment to identify prioritized modernization steps and quick wins.</p>
+        <a href="/products/modernization-assessment">Explore →</a>
+      </article>
+    </div>
+    
+  </section>
+
+  {% if site.posts.size > 0 %}
+  <section class="posts">
+    <h2>RECENT THINKING</h2>
+    <ul class="posts__list">
       {% for post in site.posts limit:3 %}
-      <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {% if site.show_excerpts %} {{ post.excerpt }} {% endif %}
+      <li class="posts__item">
+        <a href="{{ post.url | relative_url }}" class="posts__link">{{ post.title | escape }}</a>
+        <div class="posts__meta">
+          {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          {% if site.show_excerpts %} — {{ post.excerpt }} {% endif %}
+        </div>
       </li>
       {% endfor %}
     </ul>
+    <p class="posts__more"><a href="/articles/">All articles →</a></p>
+  </section>
+  {% endif %}
 
-    <h4>>> check all articles here: <a href="/articles/">Articles</a></h4>
-    {% endif %}
-  </div>
-
-  {% comment %} <div align="center">
-    <font color="grey" size=2em>
-      <br>
-      /* developed with <a href="http://jekyllrb.com"><img src="assets/jekyll.png" width="50px"></a> hosted on <a
-         href="http://github.com/emgsilva/esilva.net"><img src="assets/github.png" width="50px"></a> */
-    </font>
-  </div> {% endcomment %}
-
-  <a rel="me" style="color:white" href="https://mastodon.social/@eduardodasilva">.</a>
-
-</div>
+</main>
