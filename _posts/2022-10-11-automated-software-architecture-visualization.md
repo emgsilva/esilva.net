@@ -128,7 +128,6 @@ I have been researching the topic of sociotechnical systems architecture visuali
 
 ## Tools and Products
 
-- [Archium](https://archium.io) - service catalog and architecture knowledge base automatically built distributed tracing data.
 - [Aplas](https://aplas.com) - platform for visualizing software landscapes using mapping paradigms. Big focus on flexible and customizable visualizations of software systems landscapes (including creating different annotations on the “software map”) to highlight different insights for different people in the organization.
 - [Backstage](https://backstage.io) - Spotify’s open-source software catalog and developer platform. It is quickly becoming one of the major platforms to support software cataloging at scale in organizations. It follows a plugin architecture, which allows adding support to all sorts of tools on top of it to perform different things (e.g., ingestion of data, visualizations, etc.).
 - [Structurizr](https://structurizr.org) - Tools developed by Simon Brown to create software architecture diagrams and documentation based on the [C4 Model](https://c4model.com). Structurizr lets you create a single model with multiple views, which can be rendered in many tools.
