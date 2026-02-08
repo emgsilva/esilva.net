@@ -57,6 +57,11 @@ This article is a deep dive into several foundational organizational dynamics pa
   - [Towards sustainable architecture capability with Enabling + Platform patterns](#towards-sustainable-architecture-capability-with-enabling--platform-patterns)
 - [References](#references)
 
+<div style="border:1px dotted black; padding:1em; background-color: beige">
+    <h3><b>ℹ️ I offer consulting services and products on this topic</b></h3>
+    <p>If you are looking for help on these topics feel free to <a href="mailto:eduardo@esilva.net">contacting me</a>, and/or check my <a href="/consulting">consulting</a> and <a href="/products">products</a> pages for more details on how I may be of help.</p>
+</div>
+
 ## Modern Organizations MUST learn and improve fast(er)
 
 Over the past few decades, we have seen an incredible transformation in our ability and speed to build and bring to market software and tech-enabled products. In essence, the rate of change in how such innovations are delivered, the market, and customer expectations has been staggering. I was born at the very beginning of the 80s and practically grew up without any technology around me. I am one of the last generations born without a computer at home. However, over these four decades or so, we have seen an explosion of technological innovations, from personal computers becoming a commodity to the Internet becoming widely available, to Cloud and, nowadays, AI, to name a few big step-changes.
@@ -543,4 +548,9 @@ Over the past few years, I have applied the very same patterns (Enabling + Platf
 [Engagement-Gallup] "U.S. Employee Engagement Sinks to 10-Year Low", https://www.gallup.com/workplace/654911/employee-engagement-sinks-year-low.aspx <a name="galup"> </a> <br>
 [OST] Open Systems Theory, https://opensystemstheory.org <a name="ost"> </a> <br>
 [Team Topologies] Team Topologies, https://teamtopologies.com <a name="team-topologies"> </a> <br>
+
+<div style="border:1px dotted black; padding:1em; background-color: beige">
+    <h3><b>ℹ️ I offer consulting services and products on this topic</b></h3>
+    <p>If you are looking for help on these topics feel free to <a href="mailto:eduardo@esilva.net">contacting me</a>, and/or check my <a href="/consulting">consulting</a> and <a href="/products">products</a> pages for more details on how I may be of help.</p>
+</div>
 

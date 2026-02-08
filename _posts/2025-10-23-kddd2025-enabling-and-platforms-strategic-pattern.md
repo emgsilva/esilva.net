@@ -35,3 +35,8 @@ I had the pleasure of speaking again at the Kandddinsky conference— one of my 
 💡Bottom line: Enabling + Platforms Pattern is a strategic pattern to help organizations address their path of learning new skills, shaping, and scaling the capabilities that they require to respond to the needs arising in their environment. As such, I believe this is a strategic pattern for achieving sustainable continuous improvement.
 
 Stay tuned for a more comprehensive write-up on this topic - I will publish it here: [https://esilva.net/enabling-and-platforms-for-sustainable-improvement](https://esilva.net/enabling-and-platforms-for-sustainable-improvement)
+<div style="border:1px dotted black; padding:1em; background-color: beige">
+    <h3><b>ℹ️ I offer consulting services and products on this topic</b></h3>
+    <p>If you are looking for help on these topics feel free to <a href="mailto:eduardo@esilva.net">contacting me</a>, and/or check my <a href="/consulting">consulting</a> and <a href="/products">products</a> pages for more details on how I may be of help.</p>
+</div>
+
