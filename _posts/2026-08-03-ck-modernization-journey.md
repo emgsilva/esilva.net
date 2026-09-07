@@ -30,11 +30,11 @@ This deep-dive article provides a detailed overview and analysis of the evolutio
   - [Platform Strategy: deeply understanding the challenges and landscape](#platform-strategy-deeply-understanding-the-challenges-and-landscape)
   - [Kickstarting Architecture Modernization](#kickstarting-architecture-modernization)
   - [First Domain Modernization Kickstarter Workshop](#first-domain-modernization-kickstarter-workshop)
-  - [Overview of Domain Modernization Process \& Tools](#overview-of-domain-modernization-process--tools)
+  - [Overview of Domain Modernization Process & Tools](#overview-of-domain-modernization-process--tools)
   - [Pivotal Workshop: Customer Experiences](#pivotal-workshop-customer-experiences)
   - [Sustainable Domains Reorganization and Positive Outcomes](#sustainable-domains-reorganization-and-positive-outcomes)
 - [Part 3: Towards Cross-functional Value Streams (2024 - Now)](#part-3-towards-cross-functional-value-streams-2024---now)
-  - [Breaking silos beyond Product \& Technology](#breaking-silos-beyond-product--technology)
+  - [Breaking silos beyond Product & Technology](#breaking-silos-beyond-product--technology)
   - [Cross-functional Value Streams Operating Model](#cross-functional-value-streams-operating-model)
 - [Closing Remarks](#closing-remarks)
 
@@ -55,7 +55,7 @@ In this article, we will share our journey of starting up and scaling up, along 
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-growth.png" alt="Circle K eMobility Journey of Growth" width="100%" />
+  <a href="/assets/ck-emobility-growth.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-growth.png" alt="Circle K eMobility Journey of Growth" width="100%" /></a>
   <br>
   Figure - Circle K eMobility Journey of Growth
 </div>
@@ -67,7 +67,7 @@ In this first phase, from 2018 to about 2022, what we could call the "Startup ph
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-startup-phase.png" alt="Startup phase" width="100%" />
+  <a href="/assets/ck-emobility-startup-phase.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-startup-phase.png" alt="Startup phase" width="100%" /></a>
   <br>
   Figure - Startup phase
 </div>
@@ -83,7 +83,7 @@ The following diagram provides an overview of the organization at its start, aro
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-tt-phase1.png" alt="Team Topologies Phase 1 - Startup" width="100%" />
+  <a href="/assets/ck-emobility-tt-phase1.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-tt-phase1.png" alt="Team Topologies Phase 1 - Startup" width="100%" /></a>
   <br>
   Figure - Team Topologies Phase 1 - Startup
 </div>
@@ -103,7 +103,7 @@ Around 2021, building on the experimentation and validation learnings from Norwa
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-expansion-outside-norway.png" alt="Expansion outside Norway" width="100%" />
+  <a href="/assets/ck-emobility-expansion-outside-norway.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-expansion-outside-norway.png" alt="Expansion outside Norway" width="100%" /></a>
   <br>
   Figure - Expansion outside Norway
 </div>
@@ -115,7 +115,7 @@ Even though during those first years there was a strong focus on experimenting a
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-hakon-testimony.png" alt="Testimony Hakon Stiksrud" width="100%" />
+  <a href="/assets/ck-emobility-hakon-testimony.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-hakon-testimony.png" alt="Testimony Hakon Stiksrud" width="100%" /></a>
   <br>
   Figure - Testimony Hakon Stiksrud
 </div>
@@ -127,7 +127,7 @@ The years went by, and the growth continued; so did the ambitions to further sca
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-tt-phase2.png" alt="Growth and scaling challenges" width="100%" />
+  <a href="/assets/ck-emobility-tt-phase2.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-tt-phase2.png" alt="Growth and scaling challenges" width="100%" /></a>
   <br>
   Figure - Growth and scaling challenges
 </div>
@@ -150,7 +150,7 @@ Informed by those challenges and signals for evolution, the organization took se
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-tt-phase3.png" alt="Improvement interventions to cope with growth challenges" width="100%" />
+  <a href="/assets/ck-emobility-tt-phase3.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-tt-phase3.png" alt="Improvement interventions to cope with growth challenges" width="100%" /></a>
   <br>
   Figure - Improvement interventions to cope with growth challenges
 </div>
@@ -173,7 +173,7 @@ However, at this stage, there was an intense focus on building new features and 
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-tt-phase4.png" alt="Undefined teams and interactions" width="100%" />
+  <a href="/assets/ck-emobility-tt-phase4.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-tt-phase4.png" alt="Undefined teams and interactions" width="100%" /></a>
   <br>
   Figure - Undefined teams and interactions
 </div>
@@ -184,7 +184,7 @@ These unclear team boundaries and scope led to complex interactions and work dyn
 For example, the Product team was based in Oslo, Norway, and, together with business stakeholders, would define all sorts of requirements and projects for the Engineering Teams based in Warsaw, Poland. The teams in Warsaw were building the necessary systems to support the company's products, but they were working in a rather organic way, with everyone implementing changes on the same systems, often a monolithic application with distinct capabilities. This was creating a "Big Ball of Mud" (BBoM) [BBoM-REF], i.e., many teams/people adding logic from different problems in the same entangled systems.
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-tt-phase4-challenge-bbom.png" alt="Big Ball of Mud" width="100%" />
+  <a href="/assets/ck-emobility-tt-phase4-challenge-bbom.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-tt-phase4-challenge-bbom.png" alt="Big Ball of Mud" width="100%" /></a>
   <br>
   Figure - Big Ball of Mud
 </div>
@@ -194,7 +194,7 @@ In parallel, there were other very relevant challenges with the new Platform (Pl
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-tt-phase4-challenge-outsourced-core.png" alt="Challenges of outsourcing core capabilities" width="100%" />
+  <a href="/assets/ck-emobility-tt-phase4-challenge-outsourced-core.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-tt-phase4-challenge-outsourced-core.png" alt="Challenges of outsourcing core capabilities" width="100%" /></a>
   <br>
   Figure - Challenges of outsourcing core capabilities
 </div>
@@ -206,7 +206,7 @@ The combination of rapid growth and market demand and an increasingly unsuitable
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-tt-phase4-challenge-bbom-burning-platform.png" alt="Becoming a burning platform" width="100%" />
+  <a href="/assets/ck-emobility-tt-phase4-challenge-bbom-burning-platform.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-tt-phase4-challenge-bbom-burning-platform.png" alt="Becoming a burning platform" width="100%" /></a>
   <br>
   Figure - Becoming a burning platform
 </div>
@@ -222,7 +222,7 @@ Motivated by the major challenges shared in the previous section, and with the g
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-phase2-scaling-sustainably.png" alt="Designing for speed, scale and adaptability" width="100%" />
+  <a href="/assets/ck-emobility-phase2-scaling-sustainably.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-phase2-scaling-sustainably.png" alt="Designing for speed, scale and adaptability" width="100%" /></a>
   <br>
   Figure - Designing for speed, scale and adaptability
 </div>
@@ -256,7 +256,7 @@ When Eduardo and Nick started working, they positioned themselves as an "Enablin
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-eduardo-nick-enabling-team.png" alt="Eduaredo and Nick as an Enabling Team" width="100%" />
+  <a href="/assets/ck-emobility-eduardo-nick-enabling-team.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-eduardo-nick-enabling-team.png" alt="Eduaredo and Nick as an Enabling Team" width="100%" /></a>
   <br>
   Figure - Eduardo and Nick (Modernization Consultants) as an Enabling Team
 </div>
@@ -272,7 +272,7 @@ The outcome of the listening sessions was a better understanding of several clus
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-amet.png" alt="Architecture Modernization Enabling Team (AMET)" width="100%" />
+  <a href="/assets/ck-emobility-amet.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-amet.png" alt="Architecture Modernization Enabling Team (AMET)" width="100%" /></a>
   <br>
   Figure - Architecture Modernization Enabling Team (AMET)
 </div>
@@ -290,7 +290,7 @@ With the decision on the domain to kickstart the modernization efforts, the AMET
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-first-kickstarter-workshop.png" alt="First domain modernization kickstawrter workshop" width="100%" />
+  <a href="/assets/ck-emobility-first-kickstarter-workshop.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-first-kickstarter-workshop.png" alt="First domain modernization kickstawrter workshop" width="100%" /></a>
   <br>
   Figure - First domain modernization kickstarter workshop
 </div>
@@ -302,7 +302,7 @@ However, after that first "chaotic exploration", Eduardo & Nick brought everyone
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-first-domain-mapped.png" alt="First domain mapped" width="100%" />
+  <a href="/assets/ck-emobility-first-domain-mapped.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-first-domain-mapped.png" alt="First domain mapped" width="100%" /></a>
   <br>
   Figure - First domain mapped
 </div>
@@ -318,7 +318,7 @@ After that first domain, we applied a similar process to other domains. Below is
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-modernization-process-tools.png" alt="Modernization process and tools" width="100%" />
+  <a href="/assets/ck-emobility-modernization-process-tools.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-modernization-process-tools.png" alt="Modernization process and tools" width="100%" /></a>
   <br>
   Figure - Modernization process and tools
 </div>
@@ -340,7 +340,7 @@ This was a rather big workshop, and again we did some good pre-workshop preparat
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-all-cx-workshop.png" alt="All customer experiences workshop" width="100%" />
+  <a href="/assets/ck-emobility-all-cx-workshop.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-all-cx-workshop.png" alt="All customer experiences workshop" width="100%" /></a>
   <br>
   Figure - All customer experiences workshop
 </div>
@@ -350,7 +350,7 @@ Furthermore, another key goal of this workshop was to understand the key groupin
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-all-cx-workshop-outcome.png" alt="Outcome of the all customer experiences workshop" width="100%" />
+  <a href="/assets/ck-emobility-all-cx-workshop-outcome.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-all-cx-workshop-outcome.png" alt="Outcome of the all customer experiences workshop" width="100%" /></a>
   <br>
   Figure - Outcome of the all customer experiences workshop
 </div>
@@ -362,7 +362,7 @@ The customer experiences workshop and follow-up activities helped accelerate sev
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-tt-phase5.png" alt="Domains reorganization towards clearer product groups" width="100%" />
+  <a href="/assets/ck-emobility-tt-phase5.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-tt-phase5.png" alt="Domains reorganization towards clearer product groups" width="100%" /></a>
   <br>
   Figure - Domains reorganization towards clearer product groups
 </div>
@@ -374,7 +374,7 @@ This is hard work and requires "rewiring" the organization's operating model. Ho
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-modernization-improvements-outcomes.png" alt="Modernization improvements outcomes" width="100%" />
+  <a href="/assets/ck-emobility-modernization-improvements-outcomes.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-modernization-improvements-outcomes.png" alt="Modernization improvements outcomes" width="100%" /></a>
   <br>
   Figure - Modernization improvements outcomes
 </div>
@@ -388,7 +388,7 @@ This is a strategic move [REF-PRODTECH] that many organizations are increasingly
 
 <br>
 <div align="center">
-  <img src="/assets/prod-tech-silos.png" alt="The Product and Technology silo" width="100%" />
+  <a href="/assets/prod-tech-silos.png" target="_blank" rel="noopener noreferrer"><img src="/assets/prod-tech-silos.png" alt="The Product and Technology silo" width="100%" /></a>
   <br>
   Figure - The product and technology silo (classic organizational constraint)
 </div>
@@ -402,7 +402,7 @@ We can understand where those constraints are by exploring the end-to-end value-
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-breaking-silos-outside-prodtech.png" alt="Addressing the undefined interactions with supporting functions outside product and technology" width="100%" />
+  <a href="/assets/ck-emobility-breaking-silos-outside-prodtech.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-breaking-silos-outside-prodtech.png" alt="Addressing the undefined interactions with supporting functions outside product and technology" width="100%" /></a>
   <br>
   Figure - Addressing the undefined interactions with supporting functions outside product and technology
 </div>
@@ -426,7 +426,7 @@ Given this context, we started exploring options to structurally break down the 
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-new-operating-model.png" alt="Cross-functional Value Streams Operating Model" width="100%" />
+  <a href="/assets/ck-emobility-new-operating-model.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-new-operating-model.png" alt="Cross-functional Value Streams Operating Model" width="100%" /></a>
   <br>
   Figure - Cross-functional Value Streams Operating Model
 </div>
@@ -442,7 +442,7 @@ The following Team Topologies diagram illustrates how eMobility teams, value str
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-new-operating-model-tt.png" alt="Team Topology after moving towards cross-functional value streams operating model" width="100%" />
+  <a href="/assets/ck-emobility-new-operating-model-tt.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-new-operating-model-tt.png" alt="Team Topology after moving towards cross-functional value streams operating model" width="100%" /></a>
   <br>
   Figure - Team Topology after moving towards cross-functional value streams operating model
 </div>
@@ -460,13 +460,13 @@ This wasn't an easy change, but the impact and improvements became visible withi
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-testimony-elin.png" alt="Testimony Elin Boe - Cross-functional value streams operating model" width="100%" />
+  <a href="/assets/ck-emobility-testimony-elin.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-testimony-elin.png" alt="Testimony Elin Boe - Cross-functional value streams operating model" width="100%" /></a>
   <br>
   Figure - Testimony Elin Boe - Cross-functional value streams operating model
 </div>
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-testimony-maria.png" alt="Testimony Maria Estenstad Friis - Cross-functional value streams operating model" width="100%" />
+  <a href="/assets/ck-emobility-testimony-maria.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-testimony-maria.png" alt="Testimony Maria Estenstad Friis - Cross-functional value streams operating model" width="100%" /></a>
   <br>
   Figure - Testimony Maria Estenstad Friis - Cross-functional value streams operating model
 </div>
@@ -478,7 +478,7 @@ In this article, we provide a deep dive into the evolution of Circle K's eMobili
 
 <br>
 <div align="center">
-  <img src="/assets/ck-emobility-continuous-modernization.png" alt="Journey of continuous modernization and improvement based on the environment needs" width="100%" />
+  <a href="/assets/ck-emobility-continuous-modernization.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-continuous-modernization.png" alt="Journey of continuous modernization and improvement based on the environment needs" width="100%" /></a>
   <br>
   Figure - Journey of continuous modernization and improvement based on the environment needs
 </div>
