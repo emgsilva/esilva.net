@@ -53,24 +53,24 @@ To accomplish that, Circle K created a new organization called "eMobility". This
 
 In this article, we will share our journey of starting up and scaling up, along with the challenges we faced and the improvements we made over the years to cope with the rapid growth it required.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-growth.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-growth.png" alt="Circle K eMobility Journey of Growth" width="100%" /></a>
-  <br>
-  Figure - Circle K eMobility Journey of Growth
-</div>
+<img src="/assets/ck-emobility-growth.png" alt="Figure - Circle K eMobility Journey of Growth" width="100%" />
 <br>
+Figure - Circle K eMobility Journey of Growth
+</div>
+
+<br><br>
 
 ## Part 1: Startup Phase (2018 - 2022)
 
 In this first phase, from 2018 to about 2022, what we could call the "Startup phase", there was a big focus on kickstarting and validating things. This is why the starting initiative was called "Norway as a Lab". That framing had a clear objective: to experiment and learn how Circle K could grow its capabilities in Electric Vehicle (EV) charging and the emerging ecosystem around it.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-startup-phase.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-startup-phase.png" alt="Startup phase" width="100%" /></a>
-  <br>
-  Figure - Startup phase
+<img src="/assets/ck-emobility-startup-phase.png" alt="Startup phase" width="100%" />
+<br>
+Figure - Startup phase
 </div>
+
 <br><br>
 
 It is important to highlight that doing so in Norway was also strategic, since Norway has been a worldwide pioneer in EV adoption, with many incentives and infrastructure available compared with other countries.
@@ -81,12 +81,12 @@ It is important to highlight that doing so in Norway was also strategic, since N
 
 The following diagram provides an overview of the organization at its start, around 2018.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-tt-phase1.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-tt-phase1.png" alt="Team Topologies Phase 1 - Startup" width="100%" /></a>
-  <br>
-  Figure - Team Topologies Phase 1 - Startup
+<img src="/assets/ck-emobility-tt-phase1.png" alt="Team Topologies Phase 1 - Startup" width="100%" />
+<br>
+Figure - Team Topologies Phase 1 - Startup
 </div>
+
 <br><br>
 
 As we can observe, the organization was essentially one team of Business, Sales, Operations, and Network people. Business and sales people focused on exploring opportunities to establish charging locations, while operations and network people were more hands-on with setting up and managing the infrastructure. This was a small group of people who worked very closely together as a startup. Their focus was on Norway and, in particular, B2C customers.
@@ -101,36 +101,36 @@ As shown in the picture above, this was an external platform for Circle K eMobil
 
 Around 2021, building on the experimentation and validation learnings from Norway, eMobility began expanding into other Scandinavian countries.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-expansion-outside-norway.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-expansion-outside-norway.png" alt="Expansion outside Norway" width="100%" /></a>
-  <br>
-  Figure - Expansion outside Norway
+<img src="/assets/ck-emobility-expansion-outside-norway.png" alt="Expansion outside Norway" width="100%" />
+<br>
+Figure - Expansion outside Norway
 </div>
+
 <br><br>
 
 At the time, there were around 500 Charge Points running on the initial platform setup, but this growth also meant establishing a "Competence Center" and placing greater focus on Operational support to enable that expansion. At the same time, there were steps towards supporting a fully digital charging experience, built on top of the white-label platform in use.
 
 Even though during those first years there was a strong focus on experimenting and validating, there was also a clear goal of building a strong foundation of competence and a team with the right skills and mindset to cope with the organization's rapid growth. This was a deliberate and crucial focus, as we can see in the following testimony from Hakon Stiksrud, VP of Global eMobility.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-hakon-testimony.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-hakon-testimony.png" alt="Testimony Hakon Stiksrud" width="100%" /></a>
-  <br>
-  Figure - Testimony Hakon Stiksrud
-</div>
+<img src="/assets/ck-emobility-hakon-testimony.png" alt="Testimony Hakon Stiksrud" width="100%" />
 <br>
+Figure - Testimony Hakon Stiksrud
+</div>
+
+<br><br>
 
 ### Growth and Scaling Challenges
 
 The years went by, and the growth continued; so did the ambitions to further scale. This also meant that, naturally, some challenges began to emerge to support that scaling. The following diagram details some of the most relevant challenges observed around 2021.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-tt-phase2.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-tt-phase2.png" alt="Growth and scaling challenges" width="100%" /></a>
-  <br>
-  Figure - Growth and scaling challenges
+<img src="/assets/ck-emobility-tt-phase2.png" alt="Growth and scaling challenges" width="100%" />
+<br>
+Figure - Growth and scaling challenges
 </div>
+
 <br><br>
 
 In particular, there were four interesting challenges:
@@ -148,12 +148,12 @@ These challenges were natural at this stage of the business and were driven by i
 
 Informed by those challenges and signals for evolution, the organization took several improvement steps. The following diagram details the main improvement interventions (✅).
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-tt-phase3.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-tt-phase3.png" alt="Improvement interventions to cope with growth challenges" width="100%" /></a>
-  <br>
-  Figure - Improvement interventions to cope with growth challenges
+<img src="/assets/ck-emobility-tt-phase3.png" alt="Improvement interventions to cope with growth challenges" width="100%" />
+<br>
+Figure - Improvement interventions to cope with growth challenges
 </div>
+
 <br><br>
 
 In essence, there were two main areas of improvement:
@@ -171,45 +171,46 @@ Even though the improvement interventions introduced in the previous section wor
 
 However, at this stage, there was an intense focus on building new features and scaling the key functions needed to continue growing the business. This was done in a way that led to the architecture of the teams and systems being built rather organically. As depicted in the following diagram, at this moment, several teams were working together on the same systems and problems, with many unclear (or "undefined") interactions with each other because their focus and scope of work were blurred.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-tt-phase4.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-tt-phase4.png" alt="Undefined teams and interactions" width="100%" /></a>
-  <br>
-  Figure - Undefined teams and interactions
+<img src="/assets/ck-emobility-tt-phase4.png" alt="Undefined teams and interactions" width="100%" />
+<br>
+Figure - Undefined teams and interactions
 </div>
+
 <br><br>
 
 > **💡 Phase of "Undefined Interactions" and "Undefined Team Types"** - as you can see in the diagram above, there are several "undefined interactions" and "undefined team types". When modeling organizations using Team Topologies language, it is important to express that these "undefined" teams and interactions exist and don't fit the fundamental Team Topologies team types or interaction modes. Being explicit about these, particularly when they are "undefined", is very important, as it makes clear that attention and intervention are needed to move towards a "valid" team type and interaction mode.
 These unclear team boundaries and scope led to complex interactions and work dynamics, which hindered the ability to support a sustainable, fast flow of value creation.
 For example, the Product team was based in Oslo, Norway, and, together with business stakeholders, would define all sorts of requirements and projects for the Engineering Teams based in Warsaw, Poland. The teams in Warsaw were building the necessary systems to support the company's products, but they were working in a rather organic way, with everyone implementing changes on the same systems, often a monolithic application with distinct capabilities. This was creating a "Big Ball of Mud" (BBoM) [BBoM-REF], i.e., many teams/people adding logic from different problems in the same entangled systems.
-<br>
+
 <div align="center">
-  <a href="/assets/ck-emobility-tt-phase4-challenge-bbom.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-tt-phase4-challenge-bbom.png" alt="Big Ball of Mud" width="100%" /></a>
-  <br>
-  Figure - Big Ball of Mud
+<img src="/assets/ck-emobility-tt-phase4-challenge-bbom.png" alt="Big Ball of Mud" width="100%" />
+<br>
+Figure - Big Ball of Mud
 </div>
+
 <br><br>
 
 In parallel, there were other very relevant challenges with the new Platform (Platform 2), which looked very promising; however, it quickly began to pose several challenges for the company in scaling and building new offerings. This manifested in various ways, particularly because the platform's "core capabilities" did not meet eMobility's needs. Addressing those challenges and extending the platform with the necessary features was slow or nearly impossible. This led to a lot of "compensation work" built on the eMobility team's side, which posed several challenges for the company. That became even more evident when expanding into new regions.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-tt-phase4-challenge-outsourced-core.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-tt-phase4-challenge-outsourced-core.png" alt="Challenges of outsourcing core capabilities" width="100%" /></a>
-  <br>
-  Figure - Challenges of outsourcing core capabilities
+<img src="/assets/ck-emobility-tt-phase4-challenge-outsourced-core.png" alt="Challenges of outsourcing core capabilities" width="100%" />
+<br>
+Figure - Challenges of outsourcing core capabilities
 </div>
+
 <br><br>
 
 > **💡 Outsourcing core capabilities/domains will hinder the ability to move fast and build the organization's differentiating capabilities.** "Own the core domains" is a key strategic pattern from Domain-Driven Design (DDD). Companies that outsource their "core domains", or highly differentiating capabilities, tend to have difficulty moving fast, since these often change frequently and require unique in-house knowledge, development, and continuous experimentation. It is essential that companies own those core domains and capabilities and can evolve them as they see fit. This is a fundamental consideration for build-vs-buy strategies. This is not to say that there may be related capabilities that we can still outsource or buy off the shelf. Still, the capabilities that are core and that we know will change often, or that require very specific domain knowledge, should NOT be outsourced to external partners.
 
 The combination of rapid growth and market demand and an increasingly unsuitable architecture of systems and teams (the "Sociotechnical Architecture") was leading to a "Burning Platform"[REF] situation. The organization and its systems were unfit to cope with the exponential growth around them.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-tt-phase4-challenge-bbom-burning-platform.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-tt-phase4-challenge-bbom-burning-platform.png" alt="Becoming a burning platform" width="100%" /></a>
-  <br>
-  Figure - Becoming a burning platform
+<img src="/assets/ck-emobility-tt-phase4-challenge-bbom-burning-platform.png" alt="Becoming a burning platform" width="100%" />
+<br>
+Figure - Becoming a burning platform
 </div>
+
 <br><br>
 
 Even though these signals were challenging, they were very clear, and the eMobility leadership listened and took action, marking a pivotal moment for the organization. Amid rapid change and market demands, they took a step back, decided to "slow down," and fix fundamental aspects of their approach and operating model. Given their growth and scaling needs, it became clear they needed to pivot towards a model in which they "own the core" capabilities of their business and adopt an operating model suited to meet customer and market demands. And that is what happened, triggering the next phase of the organization's evolution focused on "scaling up sustainably".
@@ -220,12 +221,12 @@ Even though these signals were challenging, they were very clear, and the eMobil
 
 Motivated by the major challenges shared in the previous section, and with the goal of achieving a more sustainable, fast flow of value creation, the eMobility leadership set a simple goal for this phase: "design for speed, scale and adaptability". This led to a series of objectives detailed in the following diagram.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-phase2-scaling-sustainably.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-phase2-scaling-sustainably.png" alt="Designing for speed, scale and adaptability" width="100%" /></a>
-  <br>
-  Figure - Designing for speed, scale and adaptability
+<img src="/assets/ck-emobility-phase2-scaling-sustainably.png" alt="Designing for speed, scale and adaptability" width="100%" />
+<br>
+Figure - Designing for speed, scale and adaptability
 </div>
+
 <br><br>
 
 To accomplish those objectives, the following activities were defined:
@@ -254,12 +255,12 @@ At this moment, the working group and eMobility leadership had a good enough und
 
 When Eduardo and Nick started working, they positioned themselves as an "Enabling Team" with the mission of positioning, kickstarting, and facilitating the complex modernization efforts started in the Platform Strategy initiative.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-eduardo-nick-enabling-team.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-eduardo-nick-enabling-team.png" alt="Eduaredo and Nick as an Enabling Team" width="100%" /></a>
-  <br>
-  Figure - Eduardo and Nick (Modernization Consultants) as an Enabling Team
+<img src="/assets/ck-emobility-eduardo-nick-enabling-team.png" alt="Eduaredo and Nick as an Enabling Team" width="100%" />
+<br>
+Figure - Eduardo and Nick (Modernization Consultants) as an Enabling Team
 </div>
+
 <br><br>
 
 With a clear mandate from eMobility leadership to support deep modernization efforts, Eduardo and Nick began several initiatives to become acquainted with the organization's challenges. The sense-making and understanding work done in the previous months provided a great starting point, but now it was time to get even deeper. However, now the question was: "In which domains and capabilities should the modernization efforts start?" There were about 12 candidate areas; however, after a few discussions with people from different functions and perspectives, it became evident that one area was, at the time, a "major blocker" for many of the strategic activities underway, including upcoming important business initiatives related to expansion into other countries. This area concerned platform capabilities to support charging activities. This was clearly a core domain for eMobility, but at the time most capabilities were handled in a suboptimal, cumbersome setup, with many capabilities managed by external platforms and a lot of "compensation logic" across several in-house systems. Given this, it became clear that focusing on this area and its "constraints" would help address several challenges.
@@ -270,12 +271,12 @@ To gain that "good enough understanding" of the situation, Eduardo and Nick spen
 
 The outcome of the listening sessions was a better understanding of several clusters of challenges and topics to explore. With that, Eduardo and Nick began shaping ideas for next steps to explore and address those challenges. However, to effectively kickstart those activities and ensure strong support not just for the next step but throughout the entire modernization efforts ahead, they established an "Architecture Modernization Enabling Team (AMET)" [REF-AMET]. The AMET is an enabling team focused on kickstarting and facilitating complex modernization efforts. The following diagram provides an overview of the introduction given to teams when we kicked off the eMobility AMET.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-amet.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-amet.png" alt="Architecture Modernization Enabling Team (AMET)" width="100%" /></a>
-  <br>
-  Figure - Architecture Modernization Enabling Team (AMET)
+<img src="/assets/ck-emobility-amet.png" alt="Architecture Modernization Enabling Team (AMET)" width="100%" />
+<br>
+Figure - Architecture Modernization Enabling Team (AMET)
 </div>
+
 <br><br>
 
 As you can observe from the diagram above, the AMET had a mix of people from different functions. There was the Product & Technology Director (sponsor and connector to the eMobility Management Team), we had Architects (with a lot of understanding of the business and technology contexts in eMobility), a Group Product Manager (who had been pivotal on helping kickstart product management in the organization) and a Software Development Manager (or Engineering Manager, highly involved in setting up the engineering teams and with a deep understanding of their situation and challenges).
@@ -288,24 +289,24 @@ This combination of people gave us a lot of knowledge and understanding of the s
 
 With the decision on the domain to kickstart the modernization efforts, the AMET started organizing the first in-person workshop, a "Kickstarter Workshop" [REF]. This is a workshop technique Eduardo & Nick developed to build a deep understanding of the domains to be modernized and to kickstart modernization efforts with high involvement from people with knowledge of those domains, including those building the actual solutions to those domain problems. In this case, this was a group of about 30 people from business, product, engineering, and other important areas, such as network operations (very important for EV Charging).
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-first-kickstarter-workshop.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-first-kickstarter-workshop.png" alt="First domain modernization kickstawrter workshop" width="100%" /></a>
-  <br>
-  Figure - First domain modernization kickstarter workshop
+<img src="/assets/ck-emobility-first-kickstarter-workshop.png" alt="First domain modernization kickstawrter workshop" width="100%" />
+<br>
+Figure - First domain modernization kickstarter workshop
 </div>
+
 <br><br>
 
 The workshop has several activities, but the core activity focuses on using Event Storming (and other collaborative modeling techniques) to map out the domain, discuss its key journeys, and begin aligning on the different "subdomains" within it. This mapping is done with the whole group and, at times, seems chaotic, particularly as groups map their first flows and important journeys in parallel on a big, empty wall, using Post-its of different colors.
 
 However, after that first "chaotic exploration", Eduardo & Nick brought everyone in front of the wall and started walking through all of the things mapped. This walkthrough of the timeline (wording from Event Storming) helps bring everyone on the same page and to a shared understanding, including necessary discussions and clarifications when things are unclear. This effort can take several hours; in this case, it took more than a day. However, this is worth it, as at this stage there is a good map of the domain, including where the challenges are and some initial ideas for possible improvements and interventions.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-first-domain-mapped.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-first-domain-mapped.png" alt="First domain mapped" width="100%" /></a>
-  <br>
-  Figure - First domain mapped
+<img src="/assets/ck-emobility-first-domain-mapped.png" alt="First domain mapped" width="100%" />
+<br>
+Figure - First domain mapped
 </div>
+
 <br><br>
 
 Furthermore, this workshop was not just a mapping exercise. It was also a means to bring all the people involved in this area of the organization together, raise awareness of the modernization efforts about to begin, and, in a sense, make clear they were very much in the driver's seat to make them happen. This was challenging for many people, as it was the first time these topics had been discussed in such depth, and by the end of the day, it was clear that quite a few changes were needed. That makes most people feel uncomfortable, as it means that things will be changing around them. However, in this group, there was also considerable excitement, as they faced significant challenges in building and maintaining their systems, and even greater ones in creating the necessary innovations. So, knowing that improvements were coming and that there would be space and support to build things right made most people rather receptive to the changes ahead.
@@ -316,12 +317,12 @@ Furthermore, this workshop was not just a mapping exercise. It was also a means 
 
 After that first domain, we applied a similar process to other domains. Below is a "one-pager" describing the three-step process we refined to gradually modernize each domain.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-modernization-process-tools.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-modernization-process-tools.png" alt="Modernization process and tools" width="100%" /></a>
-  <br>
-  Figure - Modernization process and tools
+<img src="/assets/ck-emobility-modernization-process-tools.png" alt="Modernization process and tools" width="100%" />
+<br>
+Figure - Modernization process and tools
 </div>
+
 <br><br>
 
 We always started by gaining a deeper understanding of the domain, its capabilities, important challenges, etc. We did that through interviews with different people. Then we would do Event Storming or Value Stream Mapping, typically in person, to map all essential capabilities in the domain and discuss the challenges and opportunities with domain experts and teams working within it.
@@ -338,47 +339,47 @@ Even though the initial efforts were focused on specific domains to kickstart le
 
 This was a rather big workshop, and again we did some good pre-workshop preparations. We had more than 30 people in a large room for three days and took our time to create a detailed overview of all the experiences. From that ("outside-in" view), we anchored all the important domains of eMobility.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-all-cx-workshop.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-all-cx-workshop.png" alt="All customer experiences workshop" width="100%" /></a>
-  <br>
-  Figure - All customer experiences workshop
+<img src="/assets/ck-emobility-all-cx-workshop.png" alt="All customer experiences workshop" width="100%" />
+<br>
+Figure - All customer experiences workshop
 </div>
+
 <br><br>
 
 Furthermore, another key goal of this workshop was to understand the key groupings of domains in eMobility. At this phase of modernization, it became clear that we needed to understand how to decentralize product development activities, given the different concerns, the products being created, and the users leveraging them. By examining these natural boundaries, we were able to determine how to align the teams and domains to work more effectively. As an outcome of this workshop, we identified two main customer-facing "Product Groups" (one aligned with B2C customers and another with B2B customers) and an internal-facing platform (which would implement all the core capabilities used to build the eMobility products for B2C and B2B customers).
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-all-cx-workshop-outcome.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-all-cx-workshop-outcome.png" alt="Outcome of the all customer experiences workshop" width="100%" /></a>
-  <br>
-  Figure - Outcome of the all customer experiences workshop
-</div>
+<img src="/assets/ck-emobility-all-cx-workshop-outcome.png" alt="Outcome of the all customer experiences workshop" width="100%" />
 <br>
+Figure - Outcome of the all customer experiences workshop
+</div>
+
+<br><br>
 
 ### Sustainable Domains Reorganization and Positive Outcomes
 
 The customer experiences workshop and follow-up activities helped accelerate several important modernization steps, evolving the eMobility team topology toward the model shown in the following diagram.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-tt-phase5.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-tt-phase5.png" alt="Domains reorganization towards clearer product groups" width="100%" /></a>
-  <br>
-  Figure - Domains reorganization towards clearer product groups
+<img src="/assets/ck-emobility-tt-phase5.png" alt="Domains reorganization towards clearer product groups" width="100%" />
+<br>
+Figure - Domains reorganization towards clearer product groups
 </div>
+
 <br><br>
 
 As you can see, the main change here is to move towards a model in which teams own and evolve specific domain capabilities, and with that start addressing the challenges of the "Big Ball of Mud" (BBoM) and several other elements that were increasingly slowing down the ability of eMobility to continue scaling and expanding. Still, as you can see in the diagram above, the systems were still crossing teams and product groups. Understanding the natural domain boundaries is not the same as transforming and "refactoring" your systems and teams to align with them. However, taking this step, aligning the leadership of those product groups, and prioritizing the necessary modernization work (which included important cross-product collaboration efforts) were essential to see this evolution through. Effectively, the modernization (and refactoring) work took 2+ years, during which teams gradually evolved the landscape while delivering business value at an ever-increasing pace.
 
 This is hard work and requires "rewiring" the organization's operating model. However, as the following diagram shows, the investment pays off, and we saw significant improvements for Circle K eMobility. For example, there was greater ability to achieve goals due to fewer dependencies, a significant improvement in development speed, and higher-quality work. Overall, this was a big step forward in addressing the blockers highlighted in the previous sections and created a solid foundation to continue scaling and expanding eMobility products into more countries and to support new products.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-modernization-improvements-outcomes.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-modernization-improvements-outcomes.png" alt="Modernization improvements outcomes" width="100%" /></a>
-  <br>
-  Figure - Modernization improvements outcomes
-</div>
+<img src="/assets/ck-emobility-modernization-improvements-outcomes.png" alt="Modernization improvements outcomes" width="100%" />
 <br>
+Figure - Modernization improvements outcomes
+</div>
+
+<br><br>
 
 ## Part 3: Towards Cross-functional Value Streams (2024 - Now)
 
@@ -386,13 +387,13 @@ The improvements and modernization described in the previous sections helped mak
 
 This is a strategic move [REF-PRODTECH] that many organizations are increasingly investing in, as it helps address the most common blockers to the fast flow of value creation: having the people who understand, prioritize, build, and evolve the domain and platform capabilities not working together (being the traditional "product" and "technology" silos). Addressing this constraint is crucial to maximizing the ability to learn, design, and decide, and, in turn, to maximizing value creation.
 
-<br>
 <div align="center">
-  <a href="/assets/prod-tech-silos.png" target="_blank" rel="noopener noreferrer"><img src="/assets/prod-tech-silos.png" alt="The Product and Technology silo" width="100%" /></a>
-  <br>
-  Figure - The product and technology silo (classic organizational constraint)
-</div>
+<img src="/assets/prod-tech-silos.png" alt="The Product and Technology silo" width="100%" />
 <br>
+Figure - The product and technology silo (classic organizational constraint)
+</div>
+
+<br><br>
 
 ### Breaking silos beyond Product & Technology
 
@@ -400,12 +401,12 @@ The Product and Technology silo is often the biggest constraint to address and, 
 
 We can understand where those constraints are by exploring the end-to-end value-creation journey. In our case, it was clear that several functions and teams outside Product and Technology played crucial roles in those activities. Those "supporting functions" were crucial; still, they were working very differently and were disconnected from the newly created Product Groups and their teams. The outcome was that activities across these teams and groups were ineffective and inefficient. This was clear in the conversations with people from those different groups and teams: there was quite some frustration on "both sides" due to too many surprises and incidents in their activities. In essence, the interactions and ways of working among the Product and Technology "Product Groups" and the supporting functions were unclear and undefined, as were their boundaries, as shown in the following diagram. So, as the next step of the modernization journey, we focused on exploring how we could improve those boundaries and dynamics.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-breaking-silos-outside-prodtech.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-breaking-silos-outside-prodtech.png" alt="Addressing the undefined interactions with supporting functions outside product and technology" width="100%" /></a>
-  <br>
-  Figure - Addressing the undefined interactions with supporting functions outside product and technology
+<img src="/assets/ck-emobility-breaking-silos-outside-prodtech.png" alt="Addressing the undefined interactions with supporting functions outside product and technology" width="100%" />
+<br>
+Figure - Addressing the undefined interactions with supporting functions outside product and technology
 </div>
+
 <br><br>
 
  > 💡 **Pattern: Keep on addressing the "biggest constraint" and the "undefined interactions" to achieve more sustainable creation of value.** Modernization work is not a project; it should be a continuous effort of addressing the most impactful constraints. That is the most effective way to continuously improve our (sociotechnical) system, as we know from the Theory of Constraints [REF]. Another important clue for areas for improvement is "undefined interactions" between different teams or groups within the organization (or interactions that occur in a very organic and effective way, without a clear goal or purpose). This type of signal is often a strong indicator of areas for improvement, as seen in the example described above between the newly formed Product Groups and supporting functions in eMobility. Addressing these constraints should help maximize the organization's ability to create value in more sustainable ways.
@@ -424,12 +425,12 @@ All those "ceremonies and processes" would for sure help address some of the sur
 
 Given this context, we started exploring options to structurally break down the functional silos between Product Groups and Supporting Functions, and to move towards having all necessary functions across the organization's essential value streams work together continuously, rather than relying solely on "coordination processes". The following diagram depicts this change and the actual approach we defined to consolidate that idea in the New eMobility Operating Model.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-new-operating-model.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-new-operating-model.png" alt="Cross-functional Value Streams Operating Model" width="100%" /></a>
-  <br>
-  Figure - Cross-functional Value Streams Operating Model
+<img src="/assets/ck-emobility-new-operating-model.png" alt="Cross-functional Value Streams Operating Model" width="100%" />
+<br>
+Figure - Cross-functional Value Streams Operating Model
 </div>
+
 <br><br>
 
 As you may have noticed in the diagram, we started using the term "Value Stream" to describe these new groups of functions that needed to work together. By definition, a Value Stream is "the entire set of actions and processes required to design, produce, and deliver a product or service to a customer", and this expressed well what we were trying to address with this structural and operating model change. In essence, we took the existing "Product Groups", where "Product" and "Technology" functions worked on the core products, and incorporated any other essential people and functions needed to own and address the full set of activities required to design, produce, and deliver value to customers. Those became the cross-functional value streams of eMobility.
@@ -440,12 +441,12 @@ In practice, this structural evolution was simplified by the fact that we alread
 
 The following Team Topologies diagram illustrates how eMobility teams, value streams, and supporting functions were positioned and worked after these changes.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-new-operating-model-tt.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-new-operating-model-tt.png" alt="Team Topology after moving towards cross-functional value streams operating model" width="100%" /></a>
-  <br>
-  Figure - Team Topology after moving towards cross-functional value streams operating model
+<img src="/assets/ck-emobility-new-operating-model-tt.png" alt="Team Topology after moving towards cross-functional value streams operating model" width="100%" />
+<br>
+Figure - Team Topology after moving towards cross-functional value streams operating model
 </div>
+
 <br><br>
 
 You can see the "Value Streams", with people from the supporting functions incorporated into them, typically working across all of the teams of the value stream, and being part of the value stream leadership group.
@@ -458,30 +459,32 @@ These, and many other principles, were discussed and documented in the eMobility
 
 This wasn't an easy change, but the impact and improvements became visible within a few months, as you can see in the following testimonies from people leading some of the supporting functions.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-testimony-elin.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-testimony-elin.png" alt="Testimony Elin Boe - Cross-functional value streams operating model" width="100%" /></a>
-  <br>
-  Figure - Testimony Elin Boe - Cross-functional value streams operating model
-</div>
+<img src="/assets/ck-emobility-testimony-elin.png" alt="Testimony Elin Boe - Cross-functional value streams operating model" width="100%" />
 <br>
-<div align="center">
-  <a href="/assets/ck-emobility-testimony-maria.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-testimony-maria.png" alt="Testimony Maria Estenstad Friis - Cross-functional value streams operating model" width="100%" /></a>
-  <br>
-  Figure - Testimony Maria Estenstad Friis - Cross-functional value streams operating model
+Figure - Testimony Elin Boe - Cross-functional value streams operating model
 </div>
+
+<br><br>
+
+<div align="center">
+<img src="/assets/ck-emobility-testimony-maria.png" alt="Testimony Maria Estenstad Friis - Cross-functional value streams operating model" width="100%" />
+<br>
+Figure - Testimony Maria Estenstad Friis - Cross-functional value streams operating model
+</div>
+
 <br><br>
 
 ## Closing Remarks
 
 In this article, we provide a deep dive into the evolution of Circle K's eMobility organization, from a small startup in Norway in 2018 to a scale-up operating across Europe and expanding globally.
 
-<br>
 <div align="center">
-  <a href="/assets/ck-emobility-continuous-modernization.png" target="_blank" rel="noopener noreferrer"><img src="/assets/ck-emobility-continuous-modernization.png" alt="Journey of continuous modernization and improvement based on the environment needs" width="100%" /></a>
-  <br>
-  Figure - Journey of continuous modernization and improvement based on the environment needs
+<img src="/assets/ck-emobility-continuous-modernization.png" alt="Journey of continuous modernization and improvement based on the environment needs" width="100%" />
+<br>
+Figure - Journey of continuous modernization and improvement based on the environment needs
 </div>
+
 <br><br>
 
 As we can see in the diagram above, the organization has changed a lot over time, as a function of its growth and scaling needs, and changes will continue happening; there is no "target state", simply a suitable model to support current needs, and listen to the signals to evolve accordingly. That shows how important it is to continuously listen to signals indicating blockers to value creation and act on them. Those signals and improvement interventions are different in the different phases of the organization's journey - for example, the challenges and improvement interventions are very different in the startup and scaleup phases.

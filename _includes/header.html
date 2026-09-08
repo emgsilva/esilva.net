@@ -29,4 +29,28 @@
       </div>
     </nav>
   </div>
+
+  <link rel="stylesheet" href="/assets/css/medium-zoom.css" />
+  <script src="/assets/js/medium-zoom.min.js"></script>
+  <script>
+    function initMediumZoom() {
+      const images = document.querySelectorAll('img');
+      console.log('Medium Zoom: found', images.length, 'images');
+      console.log('Medium Zoom: window.mediumZoom type =', typeof window.mediumZoom);
+      if (images.length > 0 && typeof window.mediumZoom === 'function') {
+        window.mediumZoom(images, {
+          background: 'rgba(0,0,0,0.85)',
+          margin: 24
+        });
+        console.log('Medium Zoom initialized');
+      } else {
+        console.warn('Medium Zoom: library not loaded or no images');
+      }
+    }
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initMediumZoom);
+    } else {
+      initMediumZoom();
+    }
+  </script>
 </header>
