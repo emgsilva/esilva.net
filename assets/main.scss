@@ -15,6 +15,8 @@ $grey-color-dark: #656565;
 	padding: 36px 20px;
 	font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 	color: #222;
+	font-size: 16px;
+	line-height: 1.6;
 }
 
 .hero {
@@ -31,14 +33,15 @@ $grey-color-dark: #656565;
 
 .hero__title {
 	margin: 0 0 6px 0;
-	font-size: clamp(1.6rem, 3.2vw, 2.4rem);
-	line-height: 1.05;
+	font-size: clamp(2rem, 4vw, 3rem);
+	line-height: 1.1;
 }
 
 .hero__lead {
 	margin: 8px 0 16px 0;
 	color: #333;
-	font-size: 1.05rem;
+	font-size: 1.1rem;
+	line-height: 1.5;
 }
 
 .cta {
@@ -116,6 +119,47 @@ footer {
 /* Utilities */
 .link--muted { color: #0066cc; text-decoration: underline; }
 .list--compact { padding-left: 18px; margin-top: 8px; color: #444; line-height: 1.5; }
-.posts__link { font-weight: 600; color: #222; text-decoration: none; }
-.posts__meta { color: #666; font-size: 0.9rem; margin-top: 6px; }
+.posts__link { 
+	font-weight: 600; 
+	color: #222; 
+	text-decoration: none;
+	font-size: 1.2rem;
+}
+.posts__meta { 
+	color: #666; 
+	font-size: 1rem; 
+	margin-top: 6px; 
+}
+
+/* Article content styling */
+.post-content {
+  font-size: 17px;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.post-content p {
+  margin: 1em 0;
+}
+
+.post-content h1, 
+.post-content h2, 
+.post-content h3 {
+  margin: 1.5em 0 0.5em;
+  line-height: 1.2;
+}
+
+.post-content h1 {
+  font-size: 2rem;
+}
+
+.post-content h2 {
+  font-size: 1.8rem;
+}
+
+.post-content h3 {
+  font-size: 1.6rem;
+}
 
