@@ -25,7 +25,7 @@ This deep-dive article provides a detailed overview and analysis of the evolutio
   - [Expansion Outside Norway](#expansion-outside-norway)
   - [Growth and Scaling Challenges](#growth-and-scaling-challenges)
   - [Improvement Interventions](#improvement-interventions)
-  - [Too much focus on moving fast and building new features | Becoming a Burning Platform](#too-much-focus-on-moving-fast-and-building-new-features--becoming-a-burning-platform)
+  - [Becoming a Burning Platform](#becoming-a-burning-platform)
 - [Part 2: Scaling Up Sustainably (2022 - 2024)](#part-2-scaling-up-sustainably-2022---2024)
   - [Platform Strategy: deeply understanding the challenges and landscape](#platform-strategy-deeply-understanding-the-challenges-and-landscape)
   - [Kickstarting Architecture Modernization](#kickstarting-architecture-modernization)
