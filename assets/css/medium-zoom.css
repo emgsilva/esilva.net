@@ -1,2 +1,44 @@
-.medium-zoom-overlay{position:fixed;top:0;right:0;bottom:0;left:0;opacity:0;transition:opacity .3s;will-change:opacity}.medium-zoom--opened .medium-zoom-overlay{cursor:pointer;cursor:zoom-out;opacity:1}.medium-zoom-image{cursor:pointer;cursor:zoom-in;transition:transform .3s cubic-bezier(.2,0,.2,1)!important}.medium-zoom-image--hidden{visibility:hidden}.medium-zoom-image--opened{position:relative;cursor:pointer;cursor:zoom-out;will-change:transform}
-img { cursor: zoom-in; }
+.medium-zoom-overlay {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  opacity: 0;
+  background: rgba(0, 0, 0, 0.9);
+  transition: opacity 0.3s;
+  will-change: opacity;
+  z-index: 1000;
+}
+
+.post-content img,
+.zoomable-content img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1.5rem auto 0.75rem;
+  cursor: zoom-in;
+}
+
+.medium-zoom--opened .medium-zoom-overlay {
+  cursor: zoom-out;
+  opacity: 1;
+}
+
+.medium-zoom-image--opened {
+  cursor: zoom-out;
+  z-index: 1001;
+  max-width: 90%;
+  max-height: 90%;
+  background: white;
+  padding: 6px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+}
+
+.image-caption {
+  text-align: center;
+  font-style: italic;
+  margin: 0.5rem 0 1.5rem;
+  color: #666;
+}
+

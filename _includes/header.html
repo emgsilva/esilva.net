@@ -34,23 +34,68 @@
   <script src="/assets/js/medium-zoom.min.js"></script>
   <script>
     function initMediumZoom() {
-      const images = document.querySelectorAll('img');
-      console.log('Medium Zoom: found', images.length, 'images');
-      console.log('Medium Zoom: window.mediumZoom type =', typeof window.mediumZoom);
+      // Only target images in post content and zoomable content, excluding images in the header or other areas
+      const images = document.querySelectorAll('.post-content img, .zoomable-content img');
+      
       if (images.length > 0 && typeof window.mediumZoom === 'function') {
         window.mediumZoom(images, {
-          background: 'rgba(0,0,0,0.85)',
-          margin: 24
+          background: 'rgba(0, 0, 0, 0.9)',
+          margin: 48,
+          scrollOffset: 100,
+          container: {
+            top: 80 // Account for fixed header
+          },
+          template: '#zoom-template', // Custom template for captions
+          onShow: (event) => {
+            const img = event.target;
+            const caption = img.nextElementSibling?.classList.contains('image-caption') ? 
+                         img.nextElementSibling.textContent : img.getAttribute('alt') || '';
+            if (caption) {
+              const captionEl = document.createElement('div');
+              captionEl.textContent = caption;
+              captionEl.style.position = 'fixed';
+              captionEl.style.bottom = '20px';
+              captionEl.style.left = '50%';
+              captionEl.style.transform = 'translateX(-50%)';
+              captionEl.style.color = 'white';
+              captionEl.style.background = 'rgba(0, 0, 0, 0.7)';
+              captionEl.style.padding = '8px 16px';
+              captionEl.style.borderRadius = '4px';
+              captionEl.style.fontSize = '14px';
+              captionEl.style.textAlign = 'center';
+              captionEl.style.maxWidth = '80%';
+              captionEl.style.zIndex = '1002';
+              document.body.appendChild(captionEl);
+            }
+          },
+          onHide: () => {
+            const captionEl = document.querySelector('div[style*="position: fixed"]');
+            if (captionEl) {
+              document.body.removeChild(captionEl);
+            }
+          }
         });
-        console.log('Medium Zoom initialized');
-      } else {
-        console.warn('Medium Zoom: library not loaded or no images');
+        
+        // Add click handler to close when clicking overlay
+        const overlay = document.querySelector('.medium-zoom-overlay');
+        if (overlay) {
+          overlay.addEventListener('click', function() {
+            window.mediumZoom().close();
+          });
+        }
       }
     }
-    if (document.readyState === 'loading') {
-      document.addEventListener('DOMContentLoaded', initMediumZoom);
-    } else {
+    
+    // Initialize after everything is loaded
+    if (document.readyState === 'complete') {
       initMediumZoom();
+    } else {
+      window.addEventListener('load', initMediumZoom);
     }
   </script>
+  
+  <!-- Custom zoom template for showing captions -->
+  <template id="zoom-template">
+    <div class="zoom-caption"></div>
+  </template>
 </header>
