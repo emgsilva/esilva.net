@@ -11,7 +11,7 @@ This deep-dive article provides a detailed overview and analysis of the evolutio
 
 **Authors:** This article was written by <a href="https://www.linkedin.com/in/emgsilva">Eduardo da Silva</a> (Independent Consultant specialized in Enabling Continuous Modernization, working with Circle K eMobility since 2023), with input and feedback from <a href="https://www.linkedin.com/in/jsolhoy">Jan Solhoy</a> (CPTO Circle K eMobility from 2022-2026), <a href="https://www.linkedin.com/in/guro-fladvad-st%C3%B8rdal-38a7b0a3">Guro Stordal</a> (Director of Technology Circle K eMobility) & <a href="https://www.linkedin.com/in/kassian-p-473b5475">Kassian Pause</a> (Director of Product Circle K eMobility).
 
-> 💡**Eduardo Notes:** Throughout the article, we share several insights, patterns, and anti-patterns (💡) to support effective modernizations.
+> 💡**Notes:** Throughout the article, we share several insights, patterns, and anti-patterns to support effective modernizations.
 
 > **Credits:** Special thanks to everyone at Circle K eMobility. The outcomes and accomplishments we highlight in this article are the result of your daily efforts. Keep up the good work.
 
