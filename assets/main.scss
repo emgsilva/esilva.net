@@ -80,6 +80,25 @@ $grey-color-dark: #656565;
 	border: 1px solid #f0f0f0;
 	background: #fff;
 }
+/* Highlighted card for a new offering: full row, above the other cards */
+.feature-card--new {
+	flex: 1 1 100%;
+	border: 2px solid #0066cc;
+	background: #f2f7fd;
+}
+.feature-card__badge {
+	display: inline-block;
+	margin-right: 6px;
+	padding: 2px 10px;
+	border-radius: 999px;
+	background: #0066cc;
+	color: #fff;
+	font-size: 0.8rem;
+	font-weight: 700;
+	letter-spacing: 0.06em;
+	text-transform: uppercase;
+	vertical-align: middle;
+}
 
 .posts {
 	margin-top: 34px;
@@ -119,3 +138,201 @@ footer {
 .posts__link { font-weight: 600; color: #222; text-decoration: none; }
 .posts__meta { color: #666; font-size: 0.9rem; margin-top: 6px; }
 
+
+/* Enabling Continuous Modernization landing page (/continuous-modernization).
+   Everything is scoped under .cm so no other page is affected. */
+.cm {
+	$cm-accent: #0066cc;
+
+	a { color: $cm-accent; }
+
+	h2 {
+		margin: 0 0 8px 0;
+		font-size: 1.6rem;
+		font-weight: 700;
+		color: #222;
+	}
+	h3 {
+		margin: 0 0 6px 0;
+		font-size: 1.15rem;
+		font-weight: 700;
+		color: #222;
+	}
+	p { color: #333; }
+
+	.cm-eyebrow {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 8px 12px;
+		margin: 0 0 12px 0;
+	}
+	.cm-label {
+		font-size: 0.9rem;
+		font-weight: 700;
+		letter-spacing: 0.04em;
+		text-transform: uppercase;
+		color: $cm-accent;
+	}
+	.cm-tag {
+		padding: 2px 10px;
+		border-radius: 999px;
+		background: #e8f1fb;
+		color: #004c99;
+		font-size: 0.875rem;
+		font-weight: 600;
+	}
+
+	.cm-title {
+		margin: 0 0 20px 0;
+		font-size: clamp(1.9rem, 5vw, 2.6rem);
+		font-weight: 700;
+		line-height: 1.15;
+		color: #222;
+	}
+	.cm-accent { color: $cm-accent; }
+
+	.cm-hero__grid,
+	.cm-cards,
+	.cm-columns,
+	.cm-interest__grid {
+		display: grid;
+		grid-template-columns: 1fr;
+		gap: 20px;
+	}
+
+	.cm-lead {
+		margin: 0 0 20px 0;
+		font-size: 1.1rem;
+		line-height: 1.6;
+	}
+	.cm-intro { margin: 0 0 20px 0; }
+	.cm-small {
+		margin: 8px 0 0 0;
+		font-size: 0.875rem;
+		color: #555;
+	}
+
+	.cm-actions {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 10px 16px;
+		margin: 0;
+	}
+	.cm-btn {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		box-sizing: border-box;
+		min-height: 44px;
+		padding: 10px 18px;
+		border-radius: 8px;
+		font-weight: 600;
+		text-decoration: none;
+	}
+	a.cta,
+	a.cta:visited { color: #fff; }
+	a.cta:hover { background: #0055aa; text-decoration: none; }
+	a.cm-btn--outline,
+	a.cm-btn--outline:visited {
+		border: 2px solid $cm-accent;
+		background: transparent;
+		color: $cm-accent;
+	}
+	a.cm-btn--outline:hover { background: #e8f1fb; text-decoration: none; }
+	.cm-textlink {
+		display: inline-flex;
+		align-items: center;
+		min-height: 44px;
+		text-decoration: underline;
+	}
+
+	.cm-price {
+		padding: 20px;
+		border: 1px solid #e6e6e6;
+		border-radius: 10px;
+		background: #fff;
+
+		p { margin: 0; }
+	}
+	.cm-price__label {
+		font-size: 0.875rem;
+		font-weight: 600;
+		color: #555;
+	}
+	.cm-price__amount {
+		font-size: 2.4rem;
+		font-weight: 700;
+		line-height: 1.2;
+		color: #222;
+	}
+	.cm-price__unit {
+		font-size: 0.875rem;
+		color: #555;
+	}
+	.cm-price .cm-price__text {
+		margin-top: 12px;
+		font-size: 0.95rem;
+	}
+
+	.cm-section {
+		margin-top: 48px;
+		padding-top: 32px;
+		border-top: 1px solid #efefef;
+	}
+
+	.cm-card {
+		padding: 20px;
+		border: 1px solid #e6e6e6;
+		border-radius: 10px;
+		background: #fff;
+
+		p:last-child { margin-bottom: 0; }
+	}
+	.cm-card--accent {
+		border: 2px solid $cm-accent;
+	}
+	.cm-card__number {
+		margin: 0 0 6px 0;
+		font-size: 0.95rem;
+		font-weight: 700;
+		letter-spacing: 0.06em;
+		color: $cm-accent;
+	}
+
+	.cm-columns {
+		margin-top: 28px;
+
+		p { margin: 0; }
+	}
+
+	.cm-highlight {
+		margin: 28px 0 0 0;
+		padding: 14px 16px;
+		border-left: 4px solid $cm-accent;
+		border-radius: 0 8px 8px 0;
+		background: #f2f7fd;
+		font-weight: 600;
+		color: #222;
+	}
+
+	.cm-interest__grid { margin-top: 12px; }
+	.cm-form iframe {
+		display: block;
+		border: 0;
+	}
+	.cm-company {
+		padding: 20px;
+		border: 1px solid #e6e6e6;
+		border-radius: 10px;
+		align-self: start;
+	}
+
+	@media (min-width: 720px) {
+		.cm-hero__grid { grid-template-columns: minmax(0, 1fr) 250px; align-items: start; }
+		.cm-cards { grid-template-columns: 1fr 1fr; }
+		.cm-columns { grid-template-columns: repeat(3, 1fr); }
+		.cm-interest__grid { grid-template-columns: minmax(0, 1fr) 250px; }
+	}
+}
