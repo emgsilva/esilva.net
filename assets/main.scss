@@ -271,6 +271,14 @@ footer {
 		font-size: 0.875rem;
 		color: #555;
 	}
+	.cm-price .cm-price__early {
+		margin-top: 12px;
+		padding: 8px 10px;
+		border-radius: 6px;
+		background: #e8f1fb;
+		font-size: 0.9rem;
+		color: #004c99;
+	}
 	.cm-price .cm-price__text {
 		margin-top: 12px;
 		font-size: 0.95rem;
@@ -307,6 +315,79 @@ footer {
 		p { margin: 0; }
 	}
 
+	.cm-runs {
+		margin-top: 28px;
+
+		> p { margin: 0 0 16px 0; }
+	}
+
+	/* Program timeline: stacked on phones, one row from 720px */
+	.cm-timeline {
+		display: grid;
+		grid-template-columns: 1fr;
+		gap: 10px;
+		margin: 0;
+		padding: 0;
+		list-style: none;
+
+		p { margin: 0; }
+	}
+	.cm-step,
+	.cm-cycle {
+		display: flex;
+		flex-direction: column;
+		gap: 4px;
+		margin: 0;
+		padding: 12px;
+		border-radius: 10px;
+		font-size: 0.95rem;
+	}
+	.cm-step--edge {
+		border: 1px dashed #b9c7d8;
+		background: #fff;
+	}
+	.cm-step--personal {
+		border: 2px solid $cm-accent;
+		background: #fff;
+	}
+	.cm-step__when {
+		font-size: 0.8rem;
+		font-weight: 700;
+		letter-spacing: 0.04em;
+		text-transform: uppercase;
+		color: #555;
+
+		span { color: $cm-accent; }
+	}
+	.cm-step__what {
+		font-weight: 700;
+		color: #222;
+	}
+	.cm-step__detail {
+		font-size: 0.875rem;
+		color: #555;
+	}
+	.cm-cycle {
+		border: 1px solid #e6e6e6;
+		background: #fff;
+	}
+	.cm-cycle__session,
+	.cm-cycle__clinic {
+		display: flex;
+		justify-content: space-between;
+		gap: 8px;
+		padding: 8px 10px;
+		border-radius: 6px;
+	}
+	.cm-timeline .cm-cycle__session {
+		background: $cm-accent;
+		color: #fff;
+	}
+	.cm-timeline .cm-cycle__clinic {
+		background: #e8f1fb;
+		color: #004c99;
+	}
+
 	.cm-highlight {
 		margin: 28px 0 0 0;
 		padding: 14px 16px;
@@ -333,6 +414,10 @@ footer {
 		.cm-hero__grid { grid-template-columns: minmax(0, 1fr) 250px; align-items: start; }
 		.cm-cards { grid-template-columns: 1fr 1fr; }
 		.cm-columns { grid-template-columns: repeat(3, 1fr); }
+		.cm-columns--two { grid-template-columns: repeat(2, 1fr); }
+		.cm-timeline { grid-template-columns: 0.9fr repeat(4, 1fr) 1fr 0.9fr; }
+		.cm-cycle__session,
+		.cm-cycle__clinic { flex-direction: column; gap: 0; }
 		.cm-interest__grid { grid-template-columns: minmax(0, 1fr) 250px; }
 	}
 }
