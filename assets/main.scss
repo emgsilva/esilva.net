@@ -321,10 +321,10 @@ footer {
 		> p { margin: 0 0 16px 0; }
 	}
 
-	/* Program timeline: stacked on phones, one row from 720px */
+	/* Program timeline: two columns on phones, one row from 720px */
 	.cm-timeline {
 		display: grid;
-		grid-template-columns: 1fr;
+		grid-template-columns: 1fr 1fr;
 		gap: 10px;
 		margin: 0;
 		padding: 0;
@@ -357,7 +357,10 @@ footer {
 		text-transform: uppercase;
 		color: #555;
 
-		span { color: $cm-accent; }
+		span {
+			display: block;
+			color: $cm-accent;
+		}
 	}
 	.cm-step__what {
 		font-weight: 700;
@@ -380,6 +383,7 @@ footer {
 		border-radius: 6px;
 	}
 	.cm-timeline .cm-cycle__session {
+		margin-top: auto;
 		background: $cm-accent;
 		color: #fff;
 	}
