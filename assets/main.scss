@@ -190,6 +190,14 @@ footer {
 		line-height: 1.15;
 		color: #222;
 	}
+	.cm-title__name {
+		display: block;
+		margin-bottom: 6px;
+		color: $cm-accent;
+		text-decoration: underline;
+		text-decoration-thickness: 3px;
+		text-underline-offset: 8px;
+	}
 	.cm-accent { color: $cm-accent; }
 
 	.cm-hero__grid,
@@ -255,6 +263,7 @@ footer {
 		background: #fff;
 
 		p { margin: 0; }
+		.cm-price__cohort { margin-bottom: 12px; }
 	}
 	.cm-price__label {
 		font-size: 0.875rem;
@@ -282,6 +291,13 @@ footer {
 	.cm-price .cm-price__text {
 		margin-top: 12px;
 		font-size: 0.95rem;
+	}
+	.cm-price .cm-price__group {
+		margin-top: 12px;
+		padding-top: 12px;
+		border-top: 1px solid #efefef;
+		font-size: 0.875rem;
+		color: #555;
 	}
 
 	.cm-section {
@@ -313,6 +329,38 @@ footer {
 		margin-top: 28px;
 
 		p { margin: 0; }
+	}
+
+	.cm-outcomes { margin-top: 28px; }
+	.cm-checklist {
+		display: grid;
+		grid-template-columns: 1fr;
+		gap: 8px 28px;
+		margin: 0;
+		padding: 0;
+		list-style: none;
+
+		li {
+			position: relative;
+			margin: 0;
+			padding-left: 30px;
+			color: #333;
+		}
+		li::before {
+			content: "✓";
+			position: absolute;
+			left: 0;
+			top: 1px;
+			width: 20px;
+			height: 20px;
+			border-radius: 50%;
+			background: #e8f1fb;
+			color: $cm-accent;
+			font-size: 0.8rem;
+			font-weight: 700;
+			line-height: 20px;
+			text-align: center;
+		}
 	}
 
 	.cm-runs {
@@ -419,6 +467,7 @@ footer {
 		.cm-cards { grid-template-columns: 1fr 1fr; }
 		.cm-columns { grid-template-columns: repeat(3, 1fr); }
 		.cm-columns--two { grid-template-columns: repeat(2, 1fr); }
+		.cm-checklist { grid-template-columns: repeat(2, 1fr); }
 		.cm-timeline { grid-template-columns: 0.9fr repeat(4, 1fr) 1fr 0.9fr; }
 		.cm-cycle__session,
 		.cm-cycle__clinic { flex-direction: column; gap: 0; }
