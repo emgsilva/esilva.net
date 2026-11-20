@@ -198,7 +198,6 @@ footer {
 		text-decoration-thickness: 3px;
 		text-underline-offset: 8px;
 	}
-	.cm-accent { color: $cm-accent; }
 
 	.cm-hero__grid,
 	.cm-cards,
@@ -369,36 +368,50 @@ footer {
 		> p { margin: 0 0 16px 0; }
 	}
 
-	/* Program timeline: two columns on phones, one row from 720px */
-	.cm-timeline {
-		display: grid;
-		grid-template-columns: 1fr 1fr;
-		gap: 10px;
+	/* Program timeline: a vertical line of steps, the same on every screen size */
+	.cm-vt {
+		position: relative;
 		margin: 0;
 		padding: 0;
 		list-style: none;
 
-		p { margin: 0; }
+		&::before {
+			content: "";
+			position: absolute;
+			left: 7px;
+			top: 10px;
+			bottom: 10px;
+			width: 2px;
+			background: #d5e3f3;
+		}
+
+		> li {
+			position: relative;
+			display: grid;
+			grid-template-columns: 1fr;
+			gap: 4px 16px;
+			margin: 0;
+			padding: 0 0 16px 30px;
+
+			&::before {
+				content: "";
+				position: absolute;
+				left: 0;
+				top: 5px;
+				box-sizing: border-box;
+				width: 16px;
+				height: 16px;
+				border-radius: 50%;
+				border: 2px solid $cm-accent;
+				background: #fff;
+			}
+			&:last-child { padding-bottom: 0; }
+		}
+		> li.cm-vt__phase::before { background: $cm-accent; }
+		> li.cm-vt__edge::before { border-style: dashed; border-color: #8aa6c4; }
 	}
-	.cm-step,
-	.cm-phase {
-		display: flex;
-		flex-direction: column;
-		gap: 4px;
+	.cm-vt__when {
 		margin: 0;
-		padding: 12px;
-		border-radius: 10px;
-		font-size: 0.95rem;
-	}
-	.cm-step--edge {
-		border: 1px dashed #b9c7d8;
-		background: #fff;
-	}
-	.cm-step--personal {
-		border: 2px solid $cm-accent;
-		background: #fff;
-	}
-	.cm-step__when {
 		font-size: 0.8rem;
 		font-weight: 700;
 		letter-spacing: 0.04em;
@@ -410,42 +423,31 @@ footer {
 			color: $cm-accent;
 		}
 	}
-	.cm-step__what {
-		font-weight: 700;
-		color: #222;
+	.cm-vt__items {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 6px 8px;
+		margin: 0;
+		color: #333;
 	}
-	.cm-step__detail {
+	.cm-vt__chip {
+		padding: 4px 10px;
+		border-radius: 999px;
+		background: #e8f1fb;
+		color: #004c99;
 		font-size: 0.875rem;
-		color: #555;
+		white-space: nowrap;
+
+		b { font-weight: 700; }
 	}
-	/* A phase spans both phone columns and holds two two-week cycles */
-	.cm-phase {
-		grid-column: 1 / -1;
-		gap: 8px;
-		border: 1px solid #e6e6e6;
-		background: #fff;
-	}
-	.cm-timeline > .cm-step:first-child { grid-column: 1 / -1; }
-	.cm-phase__items {
-		display: flex;
-		flex-direction: column;
-		gap: 6px;
-	}
-	.cm-cycle__session,
-	.cm-cycle__clinic {
-		display: flex;
-		justify-content: space-between;
-		gap: 8px;
-		padding: 8px 10px;
-		border-radius: 6px;
-	}
-	.cm-timeline .cm-cycle__session {
+	.cm-vt__chip--session {
 		background: $cm-accent;
 		color: #fff;
 	}
-	.cm-timeline .cm-cycle__clinic {
-		background: #e8f1fb;
-		color: #004c99;
+	.cm-vt__chip--other {
+		background: #eef0f3;
+		color: #222;
 	}
 
 	.cm-highlight {
@@ -473,17 +475,9 @@ footer {
 	@media (min-width: 720px) {
 		.cm-hero__grid { grid-template-columns: minmax(0, 1fr) 250px; align-items: start; }
 		.cm-cards { grid-template-columns: 1fr 1fr; }
-		.cm-columns { grid-template-columns: repeat(3, 1fr); }
-		.cm-columns--two { grid-template-columns: repeat(2, 1fr); }
+		.cm-columns { grid-template-columns: repeat(2, 1fr); }
 		.cm-checklist { grid-template-columns: repeat(2, 1fr); }
-		.cm-timeline { grid-template-columns: 0.9fr 2fr 2fr 1fr 0.9fr; }
-		.cm-phase,
-		.cm-timeline > .cm-step:first-child { grid-column: auto; }
+		.cm-vt > li { grid-template-columns: 150px 1fr; align-items: baseline; }
 		.cm-interest__grid { grid-template-columns: minmax(0, 1fr) 250px; }
-	}
-	/* Narrow desktop: stack label and hours so the cycle boxes do not squeeze */
-	@media (min-width: 720px) and (max-width: 1000px) {
-		.cm-cycle__session,
-		.cm-cycle__clinic { flex-direction: column; gap: 0; }
 	}
 }
