@@ -372,15 +372,17 @@ footer {
 	.cm-vt {
 		position: relative;
 		margin: 0;
-		padding: 0;
+		padding: 20px;
+		border-radius: 10px;
+		background: #f5f8fc;
 		list-style: none;
 
 		&::before {
 			content: "";
 			position: absolute;
-			left: 7px;
-			top: 10px;
-			bottom: 10px;
+			left: 27px;
+			top: 30px;
+			bottom: 30px;
 			width: 2px;
 			background: #d5e3f3;
 		}
@@ -403,7 +405,7 @@ footer {
 				height: 16px;
 				border-radius: 50%;
 				border: 2px solid $cm-accent;
-				background: #fff;
+				background: #f5f8fc;
 			}
 			&:last-child { padding-bottom: 0; }
 		}
@@ -446,7 +448,7 @@ footer {
 		color: #fff;
 	}
 	.cm-vt__chip--other {
-		background: #eef0f3;
+		background: #e4e8ee;
 		color: #222;
 	}
 
