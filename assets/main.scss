@@ -381,7 +381,7 @@ footer {
 		p { margin: 0; }
 	}
 	.cm-step,
-	.cm-cycle {
+	.cm-phase {
 		display: flex;
 		flex-direction: column;
 		gap: 4px;
@@ -418,9 +418,18 @@ footer {
 		font-size: 0.875rem;
 		color: #555;
 	}
-	.cm-cycle {
+	/* A phase spans both phone columns and holds two two-week cycles */
+	.cm-phase {
+		grid-column: 1 / -1;
+		gap: 8px;
 		border: 1px solid #e6e6e6;
 		background: #fff;
+	}
+	.cm-timeline > .cm-step:first-child { grid-column: 1 / -1; }
+	.cm-phase__items {
+		display: flex;
+		flex-direction: column;
+		gap: 6px;
 	}
 	.cm-cycle__session,
 	.cm-cycle__clinic {
@@ -431,7 +440,6 @@ footer {
 		border-radius: 6px;
 	}
 	.cm-timeline .cm-cycle__session {
-		margin-top: auto;
 		background: $cm-accent;
 		color: #fff;
 	}
@@ -468,9 +476,14 @@ footer {
 		.cm-columns { grid-template-columns: repeat(3, 1fr); }
 		.cm-columns--two { grid-template-columns: repeat(2, 1fr); }
 		.cm-checklist { grid-template-columns: repeat(2, 1fr); }
-		.cm-timeline { grid-template-columns: 0.9fr repeat(4, 1fr) 1fr 0.9fr; }
+		.cm-timeline { grid-template-columns: 0.9fr 2fr 2fr 1fr 0.9fr; }
+		.cm-phase,
+		.cm-timeline > .cm-step:first-child { grid-column: auto; }
+		.cm-interest__grid { grid-template-columns: minmax(0, 1fr) 250px; }
+	}
+	/* Narrow desktop: stack label and hours so the cycle boxes do not squeeze */
+	@media (min-width: 720px) and (max-width: 1000px) {
 		.cm-cycle__session,
 		.cm-cycle__clinic { flex-direction: column; gap: 0; }
-		.cm-interest__grid { grid-template-columns: minmax(0, 1fr) 250px; }
 	}
 }
